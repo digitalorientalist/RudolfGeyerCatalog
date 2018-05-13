@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+
+    <!-- TippyTip -->
+    <script src="https://unpkg.com/tippy.js@2.5.2/dist/tippy.all.min.js"></script>
+
+    <script src="RudolfGeyer.js"></script>
+    <script src="texts.js"></script>
+
+    <link rel="stylesheet" href="extrastyle.css">
+
+    <title>Catalogue of Rudolf Geyer</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-2 headerdiv" style="padding: 0">
+                    <a href="http://www.stift-st-florian.at/en/home.html" class="btn" id="stiftFlorianTip" title="">
+                        <img src="ST_FLORIAN_LOGO.svg" class="icon" height="30" alt="Stift Florian">
+                    </a>
+                </div>
+                <div class="col headerdiv" style="padding: 0; text-align: center; color: white">
+                    <h1 class="header" id="headline"></h1>
+                </div>
+
+
+                <div class="col-2 headerdiv" style="text-align: right">
+                    <div class="flags btn" id="flagTip">
+                            <img src="german.svg" class="flags" height="16" width="32">
+                    </div>
+                    
+                    <div class="flags btn DO">
+                            <img src="DO_icon.svg" class="flags" height="16" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')" onmouseover="this.src='/DO_icon.orange.svg'" onmouseout="this.src='/DO_icon.svg'" />
+                        
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </header>
+    <p></p>
+    <div class="container">
+        <div class="row">
+            <div class="col-9">
+                <h2 class="headline" id="welcomeHeader"></h2>
+                <p id="welcomeBody">
+                </p>
+            </div>
+            <div class="col-3 geyer">
+              
+            </div>
+        </div>
+
+
+        <p class="font-weight-bold">
+
+            <div class="input-group">
+                <input type="text" id="searchTip" class="form-control" title="" placeholder="">
+                
+                <span class="input-group-btn">
+                    <button class="btn btn-blue" type="button" id="searchButton"></button>
+                </span>
+            </div>
+
+        </p>
+    </div>
+
+
+    <hr>
+
+    <div class="container">
+        <h2 class="headline" id="titleSearch">
+        </h2>
+
+    </div>
+
+
+
+    <div class='container' id="catalogGeyer"></div>
+
+    <script src="functions.js"></script>
+    <div class="container" id="modalDiv"></div>
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <p></p>
+            </div>
+            <div class="row">
+                <div class="col-2 footer" style="padding: 0">
+                    <a href="http://www.stift-st-florian.at/en/home.html" class="btn" title="">
+                        <img src="ST_FLORIAN_LOGO.svg" class="icon" height="30" alt="Stift Florian" srcset="">
+                    </a>
+                </div>
+                <div class="col footer" style="padding: 0; text-align: center; color: white">
+                   
+                </div>
+
+
+
+                <div class="col-2 footer" style="text-align: right">
+                        <img src="DO_icon.svg" height="20" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')" onmouseover="this.src='/DO_icon.orange.svg'" onmouseout="this.src='/DO_icon.svg'" />
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
