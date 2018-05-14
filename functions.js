@@ -278,15 +278,21 @@ function reducingCatalog() {
     }
 }
 
-tippy('.btn', {
-    animation: 'perspective',
-    dynamicTitle: true
-});
-tippy('.form-control', {
-    animation: 'perspective',
-    dynamicTitle: true
-});
-tippy('.flags', {
-    animation: 'perspective',
-    dynamicTitle: true
-});
+if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    null;
+    // what you want to run in mobile
+} else {
+    tippy('.btn', {
+        animation: 'perspective',
+        dynamicTitle: true
+    });
+    tippy('.form-control', {
+        animation: 'perspective',
+        dynamicTitle: true
+    });
+    tippy('.flags', {
+        animation: 'perspective',
+        dynamicTitle: true
+    });
+}
+
