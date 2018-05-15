@@ -68,12 +68,13 @@ function modalInfo(number, language) {
 
 // Initial loading of the catalog
 var reducedCatalog = {};
+var yearIndex = [];
 
 window.onload = function () {
-    // settingText();
     switchLanguage("german");
     //renderTableGeyer(ourData, "All entries of the Geyer Catalogue");
     reducingCatalog();
+    indexingCatalog();
 
 }
 // ------------
@@ -93,8 +94,6 @@ function switchLanguage(language) {
         nextLanIndex = lanIndex + 1;
     }
     nextLanguage = languages[nextLanIndex];
-    console.log(nextLanguage);
-
 
     for (key in toBeTranslated) {
 
@@ -112,7 +111,7 @@ function switchLanguage(language) {
         document.getElementById("flagTip").title = Object.values(texts.flagTip)[nextLanIndex];
     }
     if (document.getElementById("searchTip").value) {
-        searchCatalog();
+        searchCatalog(document.getElementById("searchTip").value);
     } else {
         renderTableGeyer(ourData, "beginTitleCatalog", lanIndex);
     }
@@ -184,22 +183,30 @@ function renderTableGeyer(data, heading, language) {
 // ------------
 // Searching keyword and showing results
 
-function searchCatalog() {
+function searchCatalog(input) {
 
     // Declare variables 
-    var input, filter, fields, number, y;
+    var filter, fields, number, y;
     number = 0;
-    input = document.getElementById("searchTip");
-    inputLower = input.value.toLowerCase();
+    inputLower = input.toLowerCase();
     normalizedInput = accent_fold(inputLower);
     tableHTML = "<table id=\"tableCatalog\" class=\"table table-striped\"><tbody>";
     var lengthCat = Object.keys(reducedCatalog);
-    for (y = 0; y < lengthCat.length; y++) {
+    
+    yearOrderIndex.forEach(function(y){
         if (reducedCatalog[y].includes(normalizedInput)) {
+            console.log("hit");
             number++;
             renderTableEntry(ourData, y, lanIndex);
         }
-    }
+    })
+    
+    // for (y = 0; y < lengthCat.length; y++) {
+    //     if (reducedCatalog[y].includes(normalizedInput)) {
+    //         number++;
+    //         renderTableEntry(ourData, y, lanIndex);
+    //     }
+    // }
     if (number == 0) {
         renderTableGeyer(ourData, "noResultsTitleCatalog", lanIndex);
     } else {
@@ -222,8 +229,8 @@ function searchCatalog() {
 document.getElementById("searchTip")
     .addEventListener("keyup", function (event) {
         event.preventDefault();
-        if (event.keyCode === 13) {
-            searchCatalog();
+        if (event.keyCode === 13 && document.getElementById("searchTip").value != "") {
+            searchCatalog(document.getElementById("searchTip").value);
         } else if (document.getElementById("searchTip").value == "") {
             renderTableGeyer(ourData, "againTitleCatalog", lanIndex);
         }
@@ -231,10 +238,8 @@ document.getElementById("searchTip")
 
 
 document.getElementById("searchButton").onclick = function () {
-    if (document.getElementById("searchTip").value == "") {
-        null;
-    } else {
-        searchCatalog();
+    if (document.getElementById("searchTip").value != "") {
+        searchCatalog(document.getElementById("searchTip").value);
     }
 }
 // -----------
@@ -278,10 +283,28 @@ function reducingCatalog() {
     }
 }
 
-if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-    null;
-    // what you want to run in mobile
-} else {
+
+yearOrderIndex = [];
+
+function indexingCatalog(){
+    initialOrderID = ourData.map(a => a.id) ;
+    
+    // indexing for year
+    ourData.sort(function (a, b) {
+        return parseInt(a.issued) - parseInt(b.issued);
+    });
+    yearOrderID = ourData.map(a => a.id) ;
+    initialOrderID = ourData.map(a => a.id) ;
+    for (id in yearOrderID){
+        yearOrderIndex.push(initialOrderID.findIndex(item => item === yearOrderID[id]));
+    }
+
+    
+}
+
+
+
+if ((/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent))==false) {
     tippy('.btn', {
         animation: 'perspective',
         dynamicTitle: true
