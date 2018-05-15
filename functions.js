@@ -69,6 +69,9 @@ function modalInfo(number, language) {
 // Initial loading of the catalog
 var reducedCatalog = {};
 var yearIndex = [];
+var yearOrderIndex = [];
+var oldData = ourData;
+
 
 window.onload = function () {
     switchLanguage("german");
@@ -195,9 +198,10 @@ function searchCatalog(input) {
     
     yearOrderIndex.forEach(function(y){
         if (reducedCatalog[y].includes(normalizedInput)) {
-            console.log("hit");
+            console.log(reducedCatalog);
+            console.log(oldData);
             number++;
-            renderTableEntry(ourData, y, lanIndex);
+            renderTableEntry(oldData, y, lanIndex);
         }
     })
     
@@ -284,17 +288,15 @@ function reducingCatalog() {
 }
 
 
-yearOrderIndex = [];
 
 function indexingCatalog(){
     initialOrderID = ourData.map(a => a.id) ;
-    
     // indexing for year
     ourData.sort(function (a, b) {
         return parseInt(a.issued) - parseInt(b.issued);
     });
     yearOrderID = ourData.map(a => a.id) ;
-    initialOrderID = ourData.map(a => a.id) ;
+    
     for (id in yearOrderID){
         yearOrderIndex.push(initialOrderID.findIndex(item => item === yearOrderID[id]));
     }

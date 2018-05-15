@@ -9,37 +9,8 @@ var ourData = [
 		"abstract": "al-juzz al-awwal fī shuʿarāʾ al-jāhiliyya",
 		"shortTitle": "Kitāb shuʿarāʾ al-naṣrāniyya",
 		"callnumber": "XVI A 1",
-		"editor": [
-			{
-				"family": "Sheikhu",
-				"given": "Louis"
-			}
-		],
+		"editor": "Louis Sheikhu",
 		"issued": "1890"
-	},
-	{
-		"id": "AJER9U5T",
-		"type": "book",
-		"title": "Amrui ben kelthûm Taglebitae Moallakam",
-		"publisher": "In Officina libraria Croekeriana",
-		"publisherplace": "Jena",
-		"number-of-volumes": "8",
-		
-		"abstract": "Abu abd allae el hossein ben achmed essûseni scholiis illustratam et Vitam Amrui ben kelthûm e libro Kitâb el aghâni excerptam e codicibus Parisiensibus edidit, in latinum transtulit, notasque adiecit",
-		"callnumber": "XVI A 77",
-		"author": [
-			{
-				"family": "Amrui ben kelthûm",
-				"given": ""
-			}
-		],
-		"editor": [
-			{
-				"family": "Kosegarten",
-				"given": "J.G.L."
-			}
-		],
-		"issued": "1819"
 	},
 	{
 		"id": "DWFZQGTU",
@@ -50,12 +21,7 @@ var ourData = [
 		
 		"abstract": "Arabic Text Edited and Translated. \nPrinted for the Trustees of the ,,E. J. W. Gibb Memorial''",
 		"callnumber": "XVI A 2",
-		"editor": [
-			{
-				"family": "Krenkow",
-				"given": "F."
-			}
-		],
+		"editor": "F. Krenkow",
 		"issued": "1927"
 	},
 	{
@@ -73,35 +39,8 @@ var ourData = [
 		
 		"abstract": "Nebst sammlungen von stücken anderer dichter des gleichen beinamens und von al-Musayyab ibn ʿAlas.\nPrinted for the trustees of the \"E.J.W. Gibb Memorial\"",
 		"callnumber": "XVI A 3",
-		"editor": [
-			{
-				"family": "Geyer",
-				"given": "R."
-			}
-		],
+		"editor": "R. Geyer",
 		"issued": "1928"
-	},
-	{
-		"id": "5QQEPREH",
-		"type": "book",
-		"title": "Les Séances de Hariri",
-		"publisher": "Imprimerie Royale",
-		"publisherplace": "Paris",
-		"number-of-volumes": "2",
-		
-		"abstract": "Publiées en Arabe avec un commentaire choisi par Silvestre de Sacy\nDeuxième édition \nRevue sur les manuscrits et augmentée d'un choix de notes historiques et explicatives en français",
-		"callnumber": "XVI A 42",
-		"author": [
-			{
-				"family": "Reinaud",
-				"given": "M."
-			},
-			{
-				"family": "Derenbourg",
-				"given": "M."
-			}
-		],
-		"issued": "1847"
 	},
 	{
 		"id": "TUFQ6ERJ",
@@ -112,12 +51,35 @@ var ourData = [
 		
 		"abstract": "al-Aʿshā wa-l-aʿshayn al-ākharayn",
 		"callnumber": "XVI A 3",
-		"author": [
-			{
-				"family": "Maymūn bin Qays bin Jandal",
-				"given": ""
-			}
-		],
+		"author": " Maymūn bin Qays bin Jandal",
 		"issued": "1927"
+	},
+	{
+		"id": "U43M6XRA",
+		"type": "book",
+		"title": "اللزوميات أو لزوم ما لا يلزم",
+		"publisher": "al-Maḥrūsa",
+		"publisherplace": "Miṣr",
+		"numberofvolumes": "2",
+		
+		"abstract": "wa-huwa dīwān",
+		"shortTitle": "al-Luzūmiyyāt aw luzūm mā lā yalzam",
+		"callnumber": "XVI A 4",
+		"author": " Abī al-ʿAlāʾi al-Maʿarrī and  أبو العلاء المعري",
+		"editor": "عزيز أفندي زند and ʿAzīz Afandī Zand",
+		"issued": "1891"
+	},
+	{
+		"id": "8Q96DDCP",
+		"type": "book",
+		"title": "Carmina Hudsailitarum quotquot in Codice Lugdunensi Insunt",
+		"publisher": "W.H. Allen & Co.",
+		"publisherplace": "London",
+		"volume": "1",
+		
+		"abstract": "Arabice edita adiectaque translatione adnotationibusque illustrata",
+		"callnumber": "XVI A 5",
+		"author": "J.G.L. Kosegarten",
+		"issued": "1854"
 	}
-];
+]
