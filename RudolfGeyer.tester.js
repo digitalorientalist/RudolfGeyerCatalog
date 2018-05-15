@@ -1,6 +1,6 @@
 var ourData = [
 	{
-		"id": "http://zotero.org/users/170941/items/8JKDXVME",
+		"id": "8JKDXVME",
 		"type": "book",
 		"title": "كتاب شعراء النصرانية",
 		"publisher": "Maṭbaʿat al-ābāʾ al-mursalīn al-yasūʿiyyīn",
@@ -18,7 +18,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AJER9U5T",
+		"id": "AJER9U5T",
 		"type": "book",
 		"title": "Amrui ben kelthûm Taglebitae Moallakam",
 		"publisher": "In Officina libraria Croekeriana",
@@ -42,7 +42,7 @@ var ourData = [
 		"issued": "1819"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DWFZQGTU",
+		"id": "DWFZQGTU",
 		"type": "book",
 		"title": "The Poems of Ṭufail ibn ʿAuf al-Ghanawī and aṭ-Ṭirimmāḥ ibn Ḥakīm aṭ-Ṭāʾyī",
 		"publisher": "Luzac & Co.",
@@ -59,13 +59,13 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4MGZM8FV",
+		"id": "4MGZM8FV",
 		"type": "book",
 		"title": "Majmūʿ mā anshadū li-l-aʿshā maymūn min shiʿr ghayr mawjūd fī dīwānihi",
 		"callnumber": "XVI A 3"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I3DMRE7P",
+		"id": "I3DMRE7P",
 		"type": "book",
 		"title": "Gedichte von ʿAbû Baṣîr Maimûn ibn Qais al-ʾAʿšâ",
 		"publisher": "Luzac & Co.",
@@ -82,7 +82,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5QQEPREH",
+		"id": "5QQEPREH",
 		"type": "book",
 		"title": "Les Séances de Hariri",
 		"publisher": "Imprimerie Royale",
@@ -104,7 +104,7 @@ var ourData = [
 		"issued": "1847"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TUFQ6ERJ",
+		"id": "TUFQ6ERJ",
 		"type": "book",
 		"title": "Kitāb al-ṣubḥ al-munīr fī shiʿr Abī Baṣīr",
 		"publisher": "Ādulf Hulzhaus",

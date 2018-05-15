@@ -1,6 +1,6 @@
 var ourData = [
 	{
-		"id": "http://zotero.org/users/170941/items/8JKDXVME",
+		"id": "8JKDXVME",
 		"type": "book",
 		"title": "كتاب شعراء النصرانية",
 		"publisher": "Maṭbaʿat al-ābāʾ al-mursalīn al-yasūʿiyyīn",
@@ -13,7 +13,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DWFZQGTU",
+		"id": "DWFZQGTU",
 		"type": "book",
 		"title": "The Poems of Ṭufail ibn ʿAuf al-Ghanawī and aṭ-Ṭirimmāḥ ibn Ḥakīm aṭ-Ṭāʾyī",
 		"publisher": "Luzac & Co.",
@@ -25,13 +25,13 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4MGZM8FV",
+		"id": "4MGZM8FV",
 		"type": "book",
 		"title": "Majmūʿ mā anshadū li-l-aʿshā maymūn min shiʿr ghayr mawjūd fī dīwānihi",
 		"callnumber": "XVI A 3"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I3DMRE7P",
+		"id": "I3DMRE7P",
 		"type": "book",
 		"title": "Gedichte von ʿAbû Baṣîr Maimûn ibn Qais al-ʾAʿšâ",
 		"publisher": "Luzac & Co.",
@@ -43,7 +43,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TUFQ6ERJ",
+		"id": "TUFQ6ERJ",
 		"type": "book",
 		"title": "Kitāb al-ṣubḥ al-munīr fī shiʿr Abī Baṣīr",
 		"publisher": "Ādulf Hulzhaus",
@@ -55,7 +55,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U43M6XRA",
+		"id": "U43M6XRA",
 		"type": "book",
 		"title": "اللزوميات أو لزوم ما لا يلزم",
 		"publisher": "al-Maḥrūsa",
@@ -70,7 +70,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8Q96DDCP",
+		"id": "8Q96DDCP",
 		"type": "book",
 		"title": "Carmina Hudsailitarum quotquot in Codice Lugdunensi Insunt",
 		"publisher": "W.H. Allen & Co.",
@@ -83,7 +83,7 @@ var ourData = [
 		"issued": "1854"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UQVWPS9E",
+		"id": "UQVWPS9E",
 		"type": "book",
 		"title": "Hamasa",
 		"publisher": "Verlag von Samuel Gottlieb Liesching",
@@ -97,7 +97,7 @@ var ourData = [
 		"issued": "1846"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NEZPWJPC",
+		"id": "NEZPWJPC",
 		"type": "manuscript",
 		"title": "هذا شرح ديوان ذي الرمه بتمامه لأبي الفتح العائدي",
 		"publisherplace": "من نسخة الأصل بالكتابخانة الخديوية الكائنة بمصر",
@@ -108,7 +108,7 @@ var ourData = [
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/78TGWDTR",
+		"id": "78TGWDTR",
 		"type": "manuscript",
 		"title": "ديوان شعر غيلان",
 		"publisherplace": "من نسخة الأصل بالكتابخانة الخديوية الكائنة بمصر",
@@ -119,7 +119,7 @@ var ourData = [
 		"issued": "1309h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6Q749K6Q",
+		"id": "6Q749K6Q",
 		"type": "book",
 		"title": "The Dîwân of Ghaylân ibn 'Uqbah known as Dhu 'r-Rummah",
 		"publisher": "Cambridge University Press",
@@ -131,7 +131,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H98IXUXN",
+		"id": "H98IXUXN",
 		"type": "book",
 		"title": "The Naḳā'iḍ of Jarīr and al-Farazdaḳ",
 		"publisher": "E.J. Brill",
@@ -144,7 +144,7 @@ var ourData = [
 
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GU2F8PGD",
+		"id": "GU2F8PGD",
 		"type": "book",
 		"title": "Divan de Férazdak",
 		"publisher": "Adolphe Labitte, Libraire",
@@ -156,7 +156,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XD6QU44T",
+		"id": "XD6QU44T",
 		"type": "book",
 		"title": "Diwan",
 		"publisher": "E.J. Brill",
@@ -168,7 +168,7 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IQD7BSUE",
+		"id": "IQD7BSUE",
 		"type": "book",
 		"title": "The Dīwāns of ʿAbīd ibn al-Abraṣ, of Asad, and ʿĀmir ibn aṭ-Ṭufail, of ʿĀmir ibn Ṣaʿṣaʿah",
 		"publisher": "E.J. Brill",
@@ -180,7 +180,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5VMS7PN",
+		"id": "F5VMS7PN",
 		"type": "book",
 		"title": "The Divans",
 		"publisher": "Trübner & Co",
@@ -192,7 +192,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B6JE7MTW",
+		"id": "B6JE7MTW",
 		"type": "book",
 		"title": "ديوان أبي نواس",
 		"publisher": "al-Maṭbaʿa al-ʿumūmiyya",
@@ -205,7 +205,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DB8KWVZ6",
+		"id": "DB8KWVZ6",
 		"type": "book",
 		"title": "الجزء الأول من ديوان الجتري",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -216,7 +216,7 @@ var ourData = [
 		"issued": "1300h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IA3IJKF4",
+		"id": "IA3IJKF4",
 		"type": "book",
 		"title": "الجزء الأول من ديوان الجتري",
 		"publisher": "Maṭbaʿah hindiyya bi-l-mūsikā",
@@ -227,7 +227,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B5MTUE6V",
+		"id": "B5MTUE6V",
 		"type": "book",
 		"title": "هذا مجموع مشتمل على خمسة دواوين من أشعار العرب",
 		"publisher": "al-Maṭbaʿa al-wahbiyya",
@@ -240,7 +240,7 @@ var ourData = [
 		"issued": "1293h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SNDGU9KC",
+		"id": "SNDGU9KC",
 		"type": "book",
 		"title": "Sammlungen alter arabischer dichter",
 		"publisher": "Verlag von Reuther & Reichard",
@@ -253,7 +253,7 @@ var ourData = [
 
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QZI7W9V3",
+		"id": "QZI7W9V3",
 		"type": "book",
 		"title": "Die Klassen der Dichter",
 		"publisher": "E.J. Brill",
@@ -265,7 +265,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WUVH29H3",
+		"id": "WUVH29H3",
 		"type": "book",
 		"title": "Liber Poësis et Poëtarum",
 		"publisher": "E.J. Brill",
@@ -277,7 +277,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7IU22BIP",
+		"id": "7IU22BIP",
 		"type": "book",
 		"title": "Arabum Proverbia",
 		"publisher": "A. Mareum",
@@ -290,7 +290,7 @@ var ourData = [
 		"issued": "1838"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZP4QATS9",
+		"id": "ZP4QATS9",
 		"type": "book",
 		"title": "مجمع الأمثال لأبي الفضل أحمد بن محمد النيسابوري المعروف بالميداني المتوفى سنة ٥١٨",
 		"publisher": "al-Maṭbaʿa al-khayriyya",
@@ -303,7 +303,7 @@ var ourData = [
 		"issued": "1310h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/52P5P7JZ",
+		"id": "52P5P7JZ",
 		"type": "book",
 		"title": "كتاب الأغاني",
 		"publisher": "Maṭbaʿa al-taqaddum bi-shāriʿ Muḥammad ʿAlī",
@@ -315,7 +315,7 @@ var ourData = [
 		"editor": " Aḥmad al-Shanqīṭī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WBN2736G",
+		"id": "WBN2736G",
 		"type": "book",
 		"title": "Hamasae Carmina",
 		"publisher": "In Officina Lechneri",
@@ -328,7 +328,7 @@ var ourData = [
 		"issued": "1847"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SFGGEI3G",
+		"id": "SFGGEI3G",
 		"type": "book",
 		"title": "الجزء الأول من شرح الإمام البارع معدن الأدب ومظهر البدائع",
 		"publisherplace": "Bulaq",
@@ -340,7 +340,7 @@ var ourData = [
 		"issued": "1296h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PAPEZN6V",
+		"id": "PAPEZN6V",
 		"type": "book",
 		"title": "كتاب الحماسة",
 		"shortTitle": "Kitāb al-ḥamāsa",
@@ -350,7 +350,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D2ETRTN4",
+		"id": "D2ETRTN4",
 		"type": "book",
 		"title": "The Ḥamāsah of Al-Buḥturī",
 		"publisher": "E.J. Brill",
@@ -363,7 +363,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XHVPGUZ7",
+		"id": "XHVPGUZ7",
 		"type": "book",
 		"title": "Alii Ispahanensis Liber Cantilenarum",
 		"publisher": "In Libraria Kochiana",
@@ -375,7 +375,7 @@ var ourData = [
 		"issued": "1840"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IWPKDFTQ",
+		"id": "IWPKDFTQ",
 		"type": "book",
 		"title": "The Mufaḍḍalīyāt: An Anthology of Ancient Arabian Odes",
 		"publisher": "Clarendon Press",
@@ -388,7 +388,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EGB9KVSA",
+		"id": "EGB9KVSA",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "Maṭbaʿa al-jawāʾib",
@@ -401,14 +401,14 @@ var ourData = [
 		"issued": "1298h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/33I467DJ",
+		"id": "33I467DJ",
 		"type": "book",
 		"title": "Ancient Arabian Poetry",
 		"callnumber": "XVI A 32",
 		"author": "C.J. Lyall"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RAW4ABUQ",
+		"id": "RAW4ABUQ",
 		"type": "book",
 		"title": "Primeurs Arabes",
 		"publisher": "E.J. Brill",
@@ -420,7 +420,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3T762G38",
+		"id": "3T762G38",
 		"type": "book",
 		"title": "كتاب جهرة أشعار العرب",
 		"publisher": "al-maṭbaʿa al-amīriyya al-kubrā",
@@ -432,7 +432,7 @@ var ourData = [
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QUHEDBBK",
+		"id": "QUHEDBBK",
 		"type": "book",
 		"title": "كتاب شرح القصائد العشر",
 		"publisher": "Dār al-Imāra",
@@ -446,7 +446,7 @@ var ourData = [
 		"issued": "1894h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PJMECA78",
+		"id": "PJMECA78",
 		"type": "book",
 		"title": "Tarafae Moallaca: Cum Zuzenii Scholiis",
 		"publisher": "Ex Officina Fr. Baadeni",
@@ -458,7 +458,7 @@ var ourData = [
 		"issued": "1829"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7ZBZJWA7",
+		"id": "7ZBZJWA7",
 		"type": "book",
 		"title": "'Aš'âru-l-Huḍalijjîna: Die Lieder der Dichter vom Stamme Huḍail",
 		"abstract": "Polnischem Pastor in Namslau",
@@ -466,7 +466,7 @@ var ourData = [
 		"translator": "R. Abicht"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JTGHGSXV",
+		"id": "JTGHGSXV",
 		"type": "book",
 		"title": "Dîwân De Aḥṭal",
 		"publisher": "Imprimerie Catholique",
@@ -478,7 +478,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/26JTDUZD",
+		"id": "26JTDUZD",
 		"type": "book",
 		"title": "Akhtal, encomium omayadarum",
 		"publisher": "E.J. Brill",
@@ -490,7 +490,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WZRSFCSU",
+		"id": "WZRSFCSU",
 		"type": "book",
 		"title": "Le Dîwân d' al-Aḥṭal",
 		"publisher": "Imprimerie Catholique",
@@ -502,7 +502,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K4Q4Q3QA",
+		"id": "K4Q4Q3QA",
 		"type": "book",
 		"title": "الشذر الذهبي",
 		"publisher": "Imprimerie Catholique",
@@ -515,7 +515,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KW96WSAA",
+		"id": "KW96WSAA",
 		"type": "book",
 		"title": "الجزء الأول من شرح المقامات الحريرية",
 		"publisher": "al-Maṭbaʿa al-kubrā al-mīriyya al-ʿāmira",
@@ -528,7 +528,7 @@ var ourData = [
 		"issued": "1300h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5QQEPREH",
+		"id": "5QQEPREH",
 		"type": "book",
 		"title": "Les Séances de Hariri",
 		"publisher": "Imprimerie Royale",
@@ -541,7 +541,7 @@ var ourData = [
 		"issued": "1847"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CAH6RSDH",
+		"id": "CAH6RSDH",
 		"type": "book",
 		"title": "جمهرة الأمثال",
 		"shortTitle": "Jamharat al-amthāl",
@@ -550,7 +550,7 @@ var ourData = [
 		"issued": "1306h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6ZZDHWPP",
+		"id": "6ZZDHWPP",
 		"type": "book",
 		"title": "Le Christianisme et la littérature chrétienne en Arabie avant l'Islam",
 		"publisher": "Imprimerie Catholique",
@@ -562,7 +562,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WTKTIG5P",
+		"id": "WTKTIG5P",
 		"type": "book",
 		"title": "Le Christianisme et la littérature chrétienne en Arabie avant l'Islam",
 		"publisher": "Imprimerie Catholique",
@@ -574,7 +574,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KNGETFA8",
+		"id": "KNGETFA8",
 		"type": "book",
 		"title": "Les poètes arabes chrétiens aprés l'islam",
 		"publisher": "Imprimerie Catholique",
@@ -585,7 +585,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XE55A9KA",
+		"id": "XE55A9KA",
 		"type": "book",
 		"title": "Neuarabische Volkspoesie",
 		"publisher": "Weidmannsche Buchhandlung",
@@ -597,7 +597,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IARUEJDC",
+		"id": "IARUEJDC",
 		"type": "book",
 		"title": "Caabi ben-Sohair",
 		"publisher": "In Officina Thormanniana",
@@ -609,7 +609,7 @@ var ourData = [
 		"issued": "1822"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/426CF2QB",
+		"id": "426CF2QB",
 		"type": "book",
 		"title": "'Aš'âru-l-Huḍalijjîna: Die Lieder der Dichter vom Stamme Huḍail",
 		"abstract": "Polnischem Pastor in Namslau",
@@ -617,7 +617,7 @@ var ourData = [
 		"translator": "R. Abicht"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JSSTJJEM",
+		"id": "JSSTJJEM",
 		"type": "book",
 		"title": "Der Diwan des Abu Duaib",
 		"publisher": "Orient-buchhandlung Heinz Lafaire K.-G.",
@@ -628,7 +628,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KTAMGCPN",
+		"id": "KTAMGCPN",
 		"type": "book",
 		"title": "شرح التنوير على سقط الزند",
 		"shortTitle": "Sharḥ al-tanwīr ʿalā saqṭ al-zand",
@@ -637,7 +637,7 @@ var ourData = [
 		"issued": "1286h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S7AM7TP2",
+		"id": "S7AM7TP2",
 		"type": "book",
 		"title": "The Poems of 'Amr Son of Qamī'ah",
 		"publisher": "Cambridge University Press",
@@ -649,7 +649,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F4X6VEVE",
+		"id": "F4X6VEVE",
 		"type": "book",
 		"title": "Dîwân des 'Umeir ibn Schujeim al-Quṭâmî",
 		"publisher": "E.J. Brill",
@@ -660,7 +660,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NWAD4VT4",
+		"id": "NWAD4VT4",
 		"type": "book",
 		"title": "Le Diwan d'Amro'lkaïs",
 		"publisher": "Imprimerie Royale",
@@ -672,7 +672,7 @@ var ourData = [
 		"issued": "1837"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z8CPI3IN",
+		"id": "Z8CPI3IN",
 		"type": "book",
 		"title": "شرح التبيان",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-sharqiyya",
@@ -684,7 +684,7 @@ var ourData = [
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QTTRNTTS",
+		"id": "QTTRNTTS",
 		"type": "book",
 		"title": "Arabische Volkslieder aus Mesopotamien",
 		"publisher": "Verlag der Königlichen Akademie der Wissenschaften",
@@ -695,7 +695,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/26CXK67I",
+		"id": "26CXK67I",
 		"type": "manuscript",
 		"title": "مجموعة",
 		"shortTitle": "Majmūʿa",
@@ -703,7 +703,7 @@ var ourData = [
 		"issued": "1194h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9G9KAHNH",
+		"id": "9G9KAHNH",
 		"type": "book",
 		"title": "Harethi Moallaca",
 		"publisher": "Apud T. Habichtium",
@@ -715,7 +715,7 @@ var ourData = [
 		"issued": "1827"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GX27EKXS",
+		"id": "GX27EKXS",
 		"type": "book",
 		"title": "Die Gedichte des 'Urwa ibn Alward",
 		"publisher": "Dieterischen Buchhandlung",
@@ -726,7 +726,7 @@ var ourData = [
 		"issued": "1863"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EIH9NPGG",
+		"id": "EIH9NPGG",
 		"type": "book",
 		"title": "I Tempi La Vita e Il Canzoniere",
 		"publisher": "Tipografia G. Carnesecchi e Figli",
@@ -738,7 +738,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W3CBIHG2",
+		"id": "W3CBIHG2",
 		"type": "book",
 		"title": "Zum Arabischen Dialekt von Marokko",
 		"publisher": "Bei S. Hirzel",
@@ -749,7 +749,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UU7JWZ9A",
+		"id": "UU7JWZ9A",
 		"type": "book",
 		"title": "Diwan aus Centralarabien",
 		"publisher": "Bei B.G. Teubner",
@@ -760,7 +760,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JSGW76JI",
+		"id": "JSGW76JI",
 		"type": "manuscript",
 		"title": "ديوان شعر الخرنق",
 		"shortTitle": "Dīwān shiʿr al-kharanq",
@@ -768,7 +768,7 @@ var ourData = [
 		"issued": "1311h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZIFCFSCQ",
+		"id": "ZIFCFSCQ",
 		"type": "book",
 		"title": "Al-Ḥansâ' und Ihre Trauerlieder",
 		"publisher": "In Kommission bei Carl Gerold's Sohn",
@@ -780,7 +780,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WMZPSTK5",
+		"id": "WMZPSTK5",
 		"type": "book",
 		"title": "Commentaires sur le Diwan d'al-Ḥansâ",
 		"publisher": "Imprimerie Catholique",
@@ -791,7 +791,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C24E7A5M",
+		"id": "C24E7A5M",
 		"type": "book",
 		"title": "Commentaires sur le Diwan d'al-Ḥansâ",
 		"publisher": "Imprimerie Catholique",
@@ -802,7 +802,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MGCTJ9B4",
+		"id": "MGCTJ9B4",
 		"type": "manuscript",
 		"title": "ديوان جرير كامل",
 		"abstract": "?",
@@ -811,7 +811,7 @@ var ourData = [
 		"issued": "1210h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3ZKQ932S",
+		"id": "3ZKQ932S",
 		"type": "book",
 		"title": "Altarabische Diiamben",
 		"publisher": "Rudolf Haupt Verlag",
@@ -822,7 +822,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MF7N2Z9U",
+		"id": "MF7N2Z9U",
 		"type": "book",
 		"title": "Umajja ibn Abi ṣ Ṣafi: Die unter seinem namen überlieferten gedichtfragmente",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -834,7 +834,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A2AJJF46",
+		"id": "A2AJJF46",
 		"type": "book",
 		"title": "The Dīwān of Ḥassān b. Thābit",
 		"publisher": "E.J. Brill",
@@ -846,7 +846,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GHQQWGQA",
+		"id": "GHQQWGQA",
 		"type": "book",
 		"title": "Der Diwan des 'Umar ibn Abi Rebi'a",
 		"publisher": "Otto Harrassowitz",
@@ -859,7 +859,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6DHTFKE6",
+		"id": "6DHTFKE6",
 		"type": "book",
 		"title": "The Fākhir of al-Mufaḍḍal ibn Salama",
 		"publisher": "E.J. Brill",
@@ -871,7 +871,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3DKJM33A",
+		"id": "3DKJM33A",
 		"type": "book",
 		"title": "Der Dîwân des Abû 'l-'Atâhija",
 		"publisherplace": "Stuttgart",
@@ -881,7 +881,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BX3EHI4I",
+		"id": "BX3EHI4I",
 		"type": "book",
 		"title": "Naqā'iḍ de Ġarīr et de Aḥṭal",
 		"publisher": "Imprimerie Catholique",
@@ -893,14 +893,14 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JEITUQN8",
+		"id": "JEITUQN8",
 		"type": "article-journal",
 		"title": "The Poems of Umayya B. Abî-ṣ-Ṣalt: Additions, Suggestions and Rectificiations",
 		"callnumber": "XVI A 75",
 		"author": "E. Powers"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WAQDGU6Q",
+		"id": "WAQDGU6Q",
 		"type": "manuscript",
 		"title": "ديوان احد أدباء المتقدمين ونبحا الشعراء المكلمين",
 		"publisherplace": "al-Kitāb-khāna al-khadīwiyya",
@@ -910,7 +910,7 @@ var ourData = [
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AJER9U5T",
+		"id": "AJER9U5T",
 		"type": "book",
 		"title": "Amrui ben kelthûm Taglebitae Moallakam",
 		"publisher": "In Officina libraria Croekeriana",
@@ -924,7 +924,7 @@ var ourData = [
 		"issued": "1819"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PGCZK4S4",
+		"id": "PGCZK4S4",
 		"type": "book",
 		"title": "The Divans: of the six ancient Arabic poets Ennābiga, 'Antara, Tharafa, Zuhair, 'Alqama and Imruulqais",
 		"publisher": "Trübner & Co",
@@ -936,7 +936,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VU2KGKWP",
+		"id": "VU2KGKWP",
 		"type": "book",
 		"title": "Der Dīwān des Ḳais ibn al Ḥaṭīm",
 		"publisher": "Otto Harrassowitz",
@@ -948,7 +948,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/43GZNSVC",
+		"id": "43GZNSVC",
 		"type": "book",
 		"title": "Bibliothèque de l'école des hautes études: Le dîwân de Ṭarafa ibn al-ʿAbd al-Bakrî",
 		"publisher": "Librairie Émile Bouillon",
@@ -960,13 +960,13 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KXZ7A3CW",
+		"id": "KXZ7A3CW",
 		"type": "article-journal",
 		"title": "[Book review: R. Geyer, Zwei Gedichte von al-Aʿšâ, I. Mâ bukâ'u]",
 		"callnumber": "XVI A 82"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NQTFB9QG",
+		"id": "NQTFB9QG",
 		"type": "book",
 		"title": "Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān",
 		"publisher": "Buckdruckerei für fremde Sprachen von Max Schmersow",
@@ -978,7 +978,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B8794V86",
+		"id": "B8794V86",
 		"type": "book",
 		"title": "شعر",
 		"publisher": "al-Maṭbaʿa al-raḥmānī",
@@ -989,7 +989,7 @@ var ourData = [
 		"issued": "1330h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SKT2RV74",
+		"id": "SKT2RV74",
 		"type": "book",
 		"title": "Der Aganiartikel über ʾAʿšā von Hamdān",
 		"publisher": "Buckdruckerei für fremde Sprachen von Max Schmersow",
@@ -1001,7 +1001,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JHWDJC8U",
+		"id": "JHWDJC8U",
 		"type": "book",
 		"title": "Der Dîwân des arabiscen dichters Ḥâtim Ṭej",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -1013,7 +1013,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C7Z7M9UU",
+		"id": "C7Z7M9UU",
 		"type": "book",
 		"title": "شرح ديوان",
 		"publisher": "al-Maṭbaʿa al-khayriyya",
@@ -1025,7 +1025,7 @@ var ourData = [
 		"issued": "1307h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8N24Z9FR",
+		"id": "8N24Z9FR",
 		"type": "book",
 		"title": "Le Dîwân de Nâbiga Dhobyânî complément",
 		"publisher": "Imprimerie Nationale",
@@ -1038,7 +1038,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XS874KDR",
+		"id": "XS874KDR",
 		"type": "book",
 		"title": "Le Dîwân de Nâbiga Dhobyânî complément",
 		"publisher": "Imprimerie Nationale",
@@ -1051,7 +1051,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RA9JB7MB",
+		"id": "RA9JB7MB",
 		"type": "book",
 		"title": "Le Dîwân de Nâbiga Dhobyânî",
 		"publisher": "Imprimerie Impériale",
@@ -1064,7 +1064,7 @@ var ourData = [
 		"issued": "1869"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8BPVAHZU",
+		"id": "8BPVAHZU",
 		"type": "book",
 		"title": "The Poet Labid. His Life, Times, and Fragmentary Writings",
 		"publisher": "Breitkopf and Haertel",
@@ -1076,14 +1076,14 @@ var ourData = [
 		"issued": "1877"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6F5N7IRN",
+		"id": "6F5N7IRN",
 		"type": "article-journal",
 		"title": "Des Ibn Kaisân Kommentar zur Muʿallaḳa des Imru'ulḳais",
 		"callnumber": "XVI A 92",
 		"author": "F.L. Bernstein"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K2UEN7KX",
+		"id": "K2UEN7KX",
 		"type": "book",
 		"title": "ديوان سيدنا حسان",
 		"publisher": "Maṭbaʿ al-Imām",
@@ -1096,7 +1096,7 @@ var ourData = [
 		"issued": "1321h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W4Z79MP4",
+		"id": "W4Z79MP4",
 		"type": "article",
 		"title": "فهرست جماسة أبي تمام (بولاق ١٢٩٦) - فهرست المفضليات (مصر ١٣٢٤-١٩٠٦)",
 		"abstract": "Les chiffres entre paranthèses correspondent aux numéros de l'édition de Thorbecke.",
@@ -1104,7 +1104,7 @@ var ourData = [
 		"callnumber": "XVI A 94"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BR94A8QP",
+		"id": "BR94A8QP",
 		"type": "chapter",
 		"title": "Antarah, des vorislamischen dichters leben",
 		"publisher": "Verlagsbuchhandlung von Fr. Bassermann",
@@ -1115,7 +1115,7 @@ var ourData = [
 		"issued": "1868"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6BSA9P95",
+		"id": "6BSA9P95",
 		"type": "book",
 		"title": "كتاب منية النفس في أشعار عنتر عبس",
 		"publisher": "al-Maṭbaʿa al-adabiyya",
@@ -1128,7 +1128,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R7NEXFAM",
+		"id": "R7NEXFAM",
 		"type": "book",
 		"title": "المعلقات العشر وأخبار قائليها",
 		"publisher": "al-Maṭbaʿa al-raḥmāniyya",
@@ -1141,7 +1141,7 @@ var ourData = [
 		"issued": "1338h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K5IHTSXK",
+		"id": "K5IHTSXK",
 		"type": "book",
 		"title": "Die gedichte des ʿAlḳama Alfaḥl",
 		"publisher": "F.C.W. Vogel",
@@ -1152,7 +1152,7 @@ var ourData = [
 		"issued": "1867"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EWP8D2G4",
+		"id": "EWP8D2G4",
 		"type": "book",
 		"title": "Muallafat: Die sieben preisgedichte der araber ins deutsche übertragen",
 		"publisher": "Verlag von Adolf Degginger",
@@ -1163,7 +1163,7 @@ var ourData = [
 		"issued": "1857"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UC6GRSDM",
+		"id": "UC6GRSDM",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "Maṭbaʿa al-dawla al-tūnisiyya",
@@ -1173,7 +1173,7 @@ var ourData = [
 		"issued": "1281h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C3PPJ4C6",
+		"id": "C3PPJ4C6",
 		"type": "book",
 		"title": "كتاب نهاية الأرب في أخبار العرب",
 		"publisher": "al-Maṭbaʿa al-waṭaniyya",
@@ -1186,7 +1186,7 @@ var ourData = [
 		"issued": "1867"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4I87U8W5",
+		"id": "4I87U8W5",
 		"type": "article-journal",
 		"title": "Die Mu'allaqa des Ṭarafa",
 		"abstract": "[Includes note in Arabic]",
@@ -1194,7 +1194,7 @@ var ourData = [
 		"author": "B. Geiger"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5XZ4P7J8",
+		"id": "5XZ4P7J8",
 		"type": "book",
 		"title": "Fünf Moʿallaqāt",
 		"publisher": "In Commision bei Carl Gerold's Sohn",
@@ -1206,7 +1206,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T7C8KDEH",
+		"id": "T7C8KDEH",
 		"type": "article-journal",
 		"title": "معلقة عنترة",
 		"shortTitle": "Muʿallaqa ʿantara",
@@ -1214,27 +1214,27 @@ var ourData = [
 		"editor": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EXQHDF37",
+		"id": "EXQHDF37",
 		"type": "article-journal",
 		"title": "Imru'ulqais' Munsariḥ-Qaṣīdah auf īšu",
 		"callnumber": "XVI A 106",
 		"author": "R. Geyer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T9TJXZR4",
+		"id": "T9TJXZR4",
 		"type": "article-journal",
 		"title": "Una nuova qaṣīda: Attribuita ad Imru 'l-Qais",
 		"callnumber": "XVI A 107"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PASJZU98",
+		"id": "PASJZU98",
 		"type": "article-journal",
 		"title": "Le Poète antéislamique Imrou'ou 'l-Ḳais: et le dieu arabe al-ḳais",
 		"callnumber": "XVI A 108",
 		"author": "H. Derenbourg"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JHNHWAA2",
+		"id": "JHNHWAA2",
 		"type": "book",
 		"title": "Die Muʿallaḳa des Zuhair: mit dem Kommentar des Abû Ġaʿfar ibn Muḥammad an-Naḥḥâs",
 		"publisher": "Verlag von Reuther & Reichard",
@@ -1246,7 +1246,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BBE95HQN",
+		"id": "BBE95HQN",
 		"type": "book",
 		"title": "ديوان لبيد العامري رواية الطوسي",
 		"publisher": "In Commision bei Carl Gerold's Sohn",
@@ -1259,7 +1259,7 @@ var ourData = [
 		"issued": "1880"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KCQMF9W4",
+		"id": "KCQMF9W4",
 		"type": "book",
 		"title": "Zur Geschichte der Überlieferung des Zuhairdiwans",
 		"publisher": "Druck der Akademischen buchdruckerei von F. Straub",
@@ -1271,14 +1271,14 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V72AQKQ8",
+		"id": "V72AQKQ8",
 		"type": "article-journal",
 		"title": "Die Moʿallaqa des Zuhair mit dem kommentar des Ibn el-Anbārī",
 		"callnumber": "XVI A 112",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RNDF55ZI",
+		"id": "RNDF55ZI",
 		"type": "book",
 		"title": "ديوان عنتر",
 		"publisher": "Maṭbaʿa Hindiyya",
@@ -1290,7 +1290,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SRWM2UDB",
+		"id": "SRWM2UDB",
 		"type": "book",
 		"title": "Zohairi Carmen al-Moallakah Appellatum",
 		"publisher": "Sumtibus Io. Ambros. Barthii",
@@ -1302,7 +1302,7 @@ var ourData = [
 		"issued": "1826"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4TU6DK7U",
+		"id": "4TU6DK7U",
 		"type": "book",
 		"title": "Die Gedichte des Mutalammis",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -1314,7 +1314,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AWR3GXX2",
+		"id": "AWR3GXX2",
 		"type": "book",
 		"title": "شرح ديوان",
 		"publisher": "Maṭbaʿa al-taqaddum bi-shāriʿ Muḥammad ʿAlī",
@@ -1327,7 +1327,7 @@ var ourData = [
 		"issued": "1323h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TV4GPDD5",
+		"id": "TV4GPDD5",
 		"type": "manuscript",
 		"title": "ديوان شعر المتلمس الضبعي",
 		"publisherplace": "al-Kitāb-khāna al-khadīwiyya",
@@ -1337,7 +1337,7 @@ var ourData = [
 		"issued": "1310h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V4JG2DWS",
+		"id": "V4JG2DWS",
 		"type": "book",
 		"title": "Septem Moʿallaḳât: Carmina Antiquissima Arabum",
 		"publisher": "Sumtibus Fr. Chr. Guil. Vogelii",
@@ -1349,7 +1349,7 @@ var ourData = [
 		"issued": "1850"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VSSUPT2H",
+		"id": "VSSUPT2H",
 		"type": "book",
 		"title": "ديوان عنتر",
 		"publisher": "Maṭbaʿa al-Ādāb",
@@ -1361,7 +1361,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QW5WXPTC",
+		"id": "QW5WXPTC",
 		"type": "book",
 		"title": "Nonnulla Ṭarafae Poëtae: Carmina ex Arabico in Latinum Sermonem versa Notisque Adumbrata",
 		"publisher": "Mayer et Mueller",
@@ -1373,7 +1373,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PTZ692C8",
+		"id": "PTZ692C8",
 		"type": "book",
 		"title": "Die Muʿallaqa des Imrulqais",
 		"publisher": "In Kommission bei Alfred Hölder",
@@ -1385,7 +1385,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7FCDGH56",
+		"id": "7FCDGH56",
 		"type": "book",
 		"title": "الجزء الأول حسن الصحابة في شرح أشعار الصحابة",
 		"publisher": "Dar Saʿādat",
@@ -1395,7 +1395,7 @@ var ourData = [
 		"issued": "1324h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HQ3EA6SI",
+		"id": "HQ3EA6SI",
 		"type": "book",
 		"title": "ديوان مختارات شعراء العرب",
 		"shortTitle": "Dīwān mukhtārāt shuʿarāʾ al-ʿarab",
@@ -1404,7 +1404,7 @@ var ourData = [
 		"issued": "1306"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MV8BKKJM",
+		"id": "MV8BKKJM",
 		"type": "book",
 		"title": "Die Gedichte des Lebîd",
 		"publisher": "E.J. Brill",
@@ -1416,7 +1416,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XFWEFQSB",
+		"id": "XFWEFQSB",
 		"type": "book",
 		"title": "ديوان أبي تمام الطائي",
 		"abstract": "حبيب بن أوس المتوفى سنة ٢٣١هـ رحمه الله\nفسّر ألفاظه اللغوية ووقف على طبعه\nطبع بمناظهرة والتزام محمد جمال",
@@ -1425,14 +1425,14 @@ var ourData = [
 		"author": " Muḥyī al-Dīn al-Khayyāṭ"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VTXM4SZ4",
+		"id": "VTXM4SZ4",
 		"type": "article-journal",
 		"title": "ʿAgîb ed-dîn al-wâʿiẓ bei Ibn Dânijâl",
 		"callnumber": "XVI A 127",
 		"author": "G. Jacob"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IW9JQBQR",
+		"id": "IW9JQBQR",
 		"type": "book",
 		"title": "Das Erste Gedicht aus dem Dîwân des Arabischen Dichters al-'Aġġâġ",
 		"publisher": "Alfred Hölder",
@@ -1444,7 +1444,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AMPCVKCI",
+		"id": "AMPCVKCI",
 		"type": "book",
 		"title": "Stücke aus Ibn Dânijâls Ṭaif al-ḥajâl",
 		"publisher": "M. Mencke",
@@ -1456,7 +1456,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2MDF7BIX",
+		"id": "2MDF7BIX",
 		"type": "book",
 		"title": "ديوان حاتم الطائي وأخباره",
 		"publisher": "R. Hassoun",
@@ -1467,7 +1467,7 @@ var ourData = [
 		"issued": "1872"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NW5E8P9H",
+		"id": "NW5E8P9H",
 		"type": "book",
 		"title": "Imruulḳaisi Muʿallaḳa",
 		"publisher": "G.E. Barthel Vendit",
@@ -1478,20 +1478,20 @@ var ourData = [
 		"issued": "1869"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VGGN4V5R",
+		"id": "VGGN4V5R",
 		"type": "article-journal",
 		"title": "Über den Hudhailitendīwān der Chedivial-bibliothek in Kairo",
 		"callnumber": "XVI A 132",
 		"author": "J. Hell"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NCQ53Z62",
+		"id": "NCQ53Z62",
 		"type": "manuscript",
 		"callnumber": "XVI A 133",
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KQHI5UQK",
+		"id": "KQHI5UQK",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -1504,7 +1504,7 @@ var ourData = [
 		"issued": "1327"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8HI8SGPC",
+		"id": "8HI8SGPC",
 		"type": "book",
 		"title": "كتاب الحماسة",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-ʿuthmāniyya",
@@ -1517,7 +1517,7 @@ var ourData = [
 		"issued": "1345h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5JPZFSGQ",
+		"id": "5JPZFSGQ",
 		"type": "book",
 		"title": "Diwan d'as-Samaou'al",
 		"publisher": "Imprimerie Catholique",
@@ -1529,7 +1529,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K82NTZMS",
+		"id": "K82NTZMS",
 		"type": "book",
 		"title": "Il Poemetto di Qudam ben Qādim",
 		"publisher": "Casa Editrice Italiana",
@@ -1541,7 +1541,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CFRHGZPN",
+		"id": "CFRHGZPN",
 		"type": "book",
 		"title": "The Arabic Portion of the Cairo Genizah at Cambridge",
 		"abstract": "[Reprinted from the Jewish Quarterly Review, April 1905]\n<in pencil: A poem of as-Samauʾal>",
@@ -1549,7 +1549,7 @@ var ourData = [
 		"issued": ""			
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6QBXME38",
+		"id": "6QBXME38",
 		"type": "book",
 		"title": "De Dsu r'Rumma Poeta Arabico et Carmine Eius",
 		"publisher": "Formis Caroli Georgi",
@@ -1560,7 +1560,7 @@ var ourData = [
 		"author": "R. Smend"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JMPRM2JD",
+		"id": "JMPRM2JD",
 		"type": "article-journal",
 		"title": "Tufail al-Ganawi: A poem from the asma'iyat in the recension and with the comments of Ibn As-sikkit",
 		"container-title": "Journal of the Royal Asiatic Society",
@@ -1569,7 +1569,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BMCARS7E",
+		"id": "BMCARS7E",
 		"type": "book",
 		"title": "Das Leben des Farazdak",
 		"publisher": "Otto Harrassowitz",
@@ -1581,7 +1581,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3TG45PVT",
+		"id": "3TG45PVT",
 		"type": "book",
 		"title": "Le Diwan de Salâmat Ibn Gandal",
 		"publisher": "Imprimerie Catholique",
@@ -1593,27 +1593,27 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XWEQSXGT",
+		"id": "XWEQSXGT",
 		"type": "article-journal",
 		"title": "Zur Kritik und Erklärung des Aḥtal-Diwâns",
 		"callnumber": "XVI A 144",
 		"author": "J. Barth"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7GK4BF4M",
+		"id": "7GK4BF4M",
 		"type": "article-journal",
 		"title": "Le Diwan de Sélâma ben Djandal: Poète arabe anté-islamique",
 		"callnumber": "XVI A 145",
 		"author": "M. Cl. Huart"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M9A4B9A6",
+		"id": "M9A4B9A6",
 		"type": "article-journal",
 		"title": "<Book review on: Altarabische Dijamben von R. Geyer>",
 		"callnumber": "XVI A 146"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HABJ6K9W",
+		"id": "HABJ6K9W",
 		"type": "book",
 		"title": "شعر",
 		"publisher": "al-Maṭbaʿa al-raḥmānī",
@@ -1626,7 +1626,7 @@ var ourData = [
 		"issued": "1330h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2VVCTCZE",
+		"id": "2VVCTCZE",
 		"type": "book",
 		"title": "Die Sieben Muʿallaḳât",
 		"publisher": "Verlag von W. Spemann",
@@ -1638,14 +1638,14 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X97AUA4C",
+		"id": "X97AUA4C",
 		"type": "article-journal",
 		"title": "Beiträge zur Kenntnis altarabischer Dichter",
 		"callnumber": "XVI A 149",
 		"author": "R. Geyer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RGQ587UN",
+		"id": "RGQ587UN",
 		"type": "manuscript",
 		"title": "ديوان الأعشى الأكبر",
 		"shortTitle": "Dīwān al-aʿshā al-akbar",
@@ -1653,7 +1653,7 @@ var ourData = [
 		"issued": "1286h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FK7DNBQA",
+		"id": "FK7DNBQA",
 		"type": "book",
 		"title": "Gedichte des Ma'n ibn Aus",
 		"publisher": "Otto Harrassowitz",
@@ -1664,14 +1664,14 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5I47BSU3",
+		"id": "5I47BSU3",
 		"type": "article-journal",
 		"title": "Al-Quhaif al-'Uqaili: His Poetical Remains Collected and Translated",
 		"callnumber": "XVI A 152",
 		"author": "F. Krenkow"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EKD6JABF",
+		"id": "EKD6JABF",
 		"type": "manuscript",
 		"title": "ديوان",
 		"shortTitle": "Dīwān",
@@ -1679,7 +1679,7 @@ var ourData = [
 		"author": " Qays bin al-Khaṭīm"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XMHTERQD",
+		"id": "XMHTERQD",
 		"type": "book",
 		"title": "كتاب من اسمه عمره ومن الشعراء في الجاهلية",
 		"abstract": "<Collection of risala's>",
@@ -1687,14 +1687,14 @@ var ourData = [
 		"callnumber": "XVI A 154"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SX6TWB4I",
+		"id": "SX6TWB4I",
 		"type": "article-journal",
 		"title": "Deux poëtes anté-islamiques: Notice sur Orwa ben el Ward",
 		"callnumber": "XVI A 155",
 		"author": "M.R. Boucher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AS752SME",
+		"id": "AS752SME",
 		"type": "book",
 		"title": "Farazdaḳ's Lobgedicht auf al-Walîd ibn Jazîd (dîw. 394) nebst Einleitung über das Leben des Farazdaḳ nach seinen Gedichten",
 		"publisher": "Druck von G. Kreysing",
@@ -1706,14 +1706,14 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B76GVKUM",
+		"id": "B76GVKUM",
 		"type": "article-journal",
 		"title": "Studien zu den 'Aṣma'ijjât",
 		"callnumber": "XVI A 158",
 		"author": "J. Barth"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BVFMKXD8",
+		"id": "BVFMKXD8",
 		"type": "book",
 		"title": "al-Hādirae Diwānum",
 		"publisher": "E.J. Brill",
@@ -1724,7 +1724,7 @@ var ourData = [
 		"author": "J.H. Stuffken"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FF26NITC",
+		"id": "FF26NITC",
 		"type": "book",
 		"title": "Le Dîwîan de 'Orwa ben el Ward",
 		"publisher": "Librairie orientaliste Paul Geuthner",
@@ -1735,7 +1735,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QKSH6NTS",
+		"id": "QKSH6NTS",
 		"type": "book",
 		"title": "كتاب أعجب العجب في شرح لامية العرب",
 		"abstract": "ويليه شرح المقصورة الدريدية للاستاذ العلامة الشيخ أبي بكر بن محمد بن الحسين بن دريد الأزدي\nالطبعة الثانية\nعلى نفقة أحمد ناجي الجمالي ومحمد أمين الخانجي وأخيه",
@@ -1745,7 +1745,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JJCTPM5G",
+		"id": "JJCTPM5G",
 		"type": "article-journal",
 		"title": "Die Beschreibung eines Gemäldes bei Mutanabbi",
 		"container-title": "Der Islam",
@@ -1754,14 +1754,14 @@ var ourData = [
 		"callnumber": "XVI A 162"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E8N3IM5D",
+		"id": "E8N3IM5D",
 		"type": "article-journal",
 		"title": "The Risālatu'l-Ghufrān: by Abū'l-'Alā al-Ma'arrī. Summarized and partially translated by Reynold A. Nicholson",
 		"callnumber": "XVI A 163",
 		"author": "R.A. Nicholson"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CCF6KFGA",
+		"id": "CCF6KFGA",
 		"type": "book",
 		"title": "كتاب نهاية الأرب من شرح معلقات العرب",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -1774,7 +1774,7 @@ var ourData = [
 		"issued": "1324h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I6JSQK2C",
+		"id": "I6JSQK2C",
 		"type": "book",
 		"title": "Der Dîwân des 'Ubaid-Allâh ibn Ḳais ar-Ruḳajjât",
 		"publisher": "In Commision bei Carl Gerold's Sohn",
@@ -1786,7 +1786,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MKH9KN5N",
+		"id": "MKH9KN5N",
 		"type": "book",
 		"title": "كتاب الموازنة بين أبي تمام والبحتري",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -1797,7 +1797,7 @@ var ourData = [
 		"issued": "1287h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MEEZI9F8",
+		"id": "MEEZI9F8",
 		"type": "manuscript",
 		"title": "ديوان",
 		"publisherplace": "al-Kitāb-khāna al-khadīwiyya",
@@ -1808,7 +1808,7 @@ var ourData = [
 		"issued": "1310h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VPHZ3FUZ",
+		"id": "VPHZ3FUZ",
 		"type": "manuscript",
 		"title": "شعر",
 		"shortTitle": "Shiʿr",
@@ -1817,7 +1817,7 @@ var ourData = [
 		"issued": "1311h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M98QZRE3",
+		"id": "M98QZRE3",
 		"type": "book",
 		"title": "Aus Schanfaras Diwan",
 		"publisher": "Maner & Müller",
@@ -1828,7 +1828,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5P6ZAGPD",
+		"id": "5P6ZAGPD",
 		"type": "book",
 		"title": "The L-Poem of the Arabs",
 		"publisher": "Trübner & Co",
@@ -1841,7 +1841,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/34EENXUV",
+		"id": "34EENXUV",
 		"type": "book",
 		"title": "Schanfarà-Studien",
 		"publisher": "Verlag der Königlich Bayerischen Akademie der Wissenschaften",
@@ -1853,7 +1853,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XWQJ5K5B",
+		"id": "XWQJ5K5B",
 		"type": "book",
 		"title": "Shanfara's Lamiyyat ul 'Arab",
 		"publisher": "David Nutt, 270-271, Strand",
@@ -1864,7 +1864,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D665TGMT",
+		"id": "D665TGMT",
 		"type": "article-journal",
 		"title": "<Book review of: Jacob, Georg: Schanfarà-Studien...>",
 		"container-title": "Der Islam",
@@ -1873,7 +1873,7 @@ var ourData = [
 		"callnumber": "XVI A 173"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/93K2RBAD",
+		"id": "93K2RBAD",
 		"type": "book",
 		"title": "Schanfaras Lamijat al-'Arab",
 		"publisher": "L. Handorff",
@@ -1885,7 +1885,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6E6XQBGG",
+		"id": "6E6XQBGG",
 		"type": "book",
 		"title": "Lâmîjat al-'Arab, Das Wüstenlied Schanfaras des Verbannten",
 		"publisher": "Mayer et Müller",
@@ -1896,7 +1896,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GTKBWPUD",
+		"id": "GTKBWPUD",
 		"type": "book",
 		"title": "Dīwān des Reġezdichters Rūba ben El'Aġġāġ",
 		"publisher": "Verlag von Reuther & Reichard",
@@ -1908,7 +1908,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XZ39S8ZF",
+		"id": "XZ39S8ZF",
 		"type": "book",
 		"title": "Der Dîwân des U?rwal b. aus al-Ḥuṭej'a",
 		"publisher": "In Commission bei F.A. Brockhaus",
@@ -1920,7 +1920,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ATBRTHA4",
+		"id": "ATBRTHA4",
 		"type": "book",
 		"title": "La Bânat So'âd: Poème de Ka'b ben Zohaïr",
 		"publisher": "Typographie Adolphe Jourdan",
@@ -1932,7 +1932,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PUJWHS5T",
+		"id": "PUJWHS5T",
 		"type": "book",
 		"title": "Ġemâleddîni ibn Hišâmi: Commentarius in Carmen Ka'bi ben Zoheir Bânat Su'âd Appellatum",
 		"publisher": "Typis F.A. Brockhaus",
@@ -1943,7 +1943,7 @@ var ourData = [
 		"issued": "1871"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A8HTUU3Q",
+		"id": "A8HTUU3Q",
 		"type": "book",
 		"title": "Chalef elahmar's Qasside",
 		"publisher": "CA. Koch's Verlagsbuchhandlung",
@@ -1955,7 +1955,7 @@ var ourData = [
 		"issued": "1859"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BE4SHGFD",
+		"id": "BE4SHGFD",
 		"type": "book",
 		"title": "Fünf Arabische Kriegslieder",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -1967,7 +1967,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/26VCS6FM",
+		"id": "26VCS6FM",
 		"type": "book",
 		"title": "Lieder der Libyschen Wüste",
 		"publisher": "In Commission bei F.A. Brockhaus",
@@ -1979,7 +1979,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EV5JFBE7",
+		"id": "EV5JFBE7",
 		"type": "book",
 		"title": "Mekkanische Sprichwörter und Redensarten",
 		"publisher": "Martinus Nijhoff",
@@ -1991,7 +1991,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/92T5KFQT",
+		"id": "92T5KFQT",
 		"type": "book",
 		"title": "Palästinischer Diwan",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -2003,13 +2003,13 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z43NTZP5",
+		"id": "Z43NTZP5",
 		"type": "article-journal",
 		"title": "Ethnologisches im arabischen Sprichwort",
 		"callnumber": "XVI A 185"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2QKGAXXH",
+		"id": "2QKGAXXH",
 		"type": "book",
 		"title": "Beduinen-Lieder der libyschen Wüste",
 		"publisher": "Verlag von F. Diemer, Finck & Baylaender",
@@ -2021,7 +2021,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KNG3PQ3J",
+		"id": "KNG3PQ3J",
 		"type": "book",
 		"title": "Die Liebenden von Amasia",
 		"publisher": "In Commission bei F.A. Brockhaus",
@@ -2033,7 +2033,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G3B46ZZX",
+		"id": "G3B46ZZX",
 		"type": "book",
 		"title": "Das Krokodilspiel (Liʿb et-Timsaḥ) ein egyptisches Schattenspiel",
 		"publisher": "Aus den Nachrichten der K. Gesellschaft der Wissenschaften",
@@ -2044,14 +2044,14 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S4V3HHMZ",
+		"id": "S4V3HHMZ",
 		"type": "article-journal",
 		"title": "Proverbia Communia Syriaca",
 		"callnumber": "XVI A 189",
 		"author": "Capt. R.F. Burton"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8QKFCNXT",
+		"id": "8QKFCNXT",
 		"type": "book",
 		"title": "Zur Geschichte des arabischen Schattentheaters in Egypten",
 		"publisher": "Verlag von Rudolf Haupt",
@@ -2062,14 +2062,14 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HPXPSHSP",
+		"id": "HPXPSHSP",
 		"type": "article-journal",
 		"title": "Ein Beitrag zur ägyptischen Beduinenpoesie",
 		"callnumber": "XVI A 191",
 		"author": "W. Czermak"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XDT9I7ER",
+		"id": "XDT9I7ER",
 		"type": "book",
 		"title": "Die Hāšimijjāt des Kumait",
 		"publisher": "E.J. Brill",
@@ -2080,7 +2080,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C4G7ZKT3",
+		"id": "C4G7ZKT3",
 		"type": "book",
 		"title": "Arabische Sprichwörter und Spiele",
 		"publisher": "J. Simelii erben Buchdruckerei-actiengesellschaft",
@@ -2091,7 +2091,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8CH9EMDC",
+		"id": "8CH9EMDC",
 		"type": "book",
 		"title": "Arabic Proverbs",
 		"publisher": "F. Diemer",
@@ -2102,14 +2102,14 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D62IUG7C",
+		"id": "D62IUG7C",
 		"type": "article-journal",
 		"title": "Abergläubische Vorstellungen und Bräuche der alten Araber: Nach Ḥamza al-Iṣbahānī",
 		"callnumber": "XVI A 195",
 		"author": "E. Mittwoch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P58IKW2I",
+		"id": "P58IKW2I",
 		"type": "book",
 		"title": "Jüdisch-Arabische Poesien aus Vormuhammedischer Zeit",
 		"publisher": "Dörffling und Franke",
@@ -2121,7 +2121,7 @@ var ourData = [
 		"issued": "1874"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B6RDN32U",
+		"id": "B6RDN32U",
 		"type": "book",
 		"title": "Das Liederbuch eines marokkanischen Sängers",
 		"publisher": "Verlag von B.G. Teubner",
@@ -2133,7 +2133,7 @@ var ourData = [
 		"issued": "1918"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D9JNTUM8",
+		"id": "D9JNTUM8",
 		"type": "book",
 		"title": "أمثال العرب",
 		"publisher": "Maṭbaʿa al-jawāʾib",
@@ -2146,7 +2146,7 @@ var ourData = [
 		"issued": "1300h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QXQ7TJER",
+		"id": "QXQ7TJER",
 		"type": "book",
 		"title": "كتاب سرح العيون شرح رسالة ابن زيدون",
 		"publisherplace": "Cairo",
@@ -2157,7 +2157,7 @@ var ourData = [
 		"issued": "1287h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M7WBASUV",
+		"id": "M7WBASUV",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "Maṭbaʿat al-maḥrūsa",
@@ -2170,7 +2170,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4ISIE23G",
+		"id": "4ISIE23G",
 		"type": "book",
 		"title": "Die Qaßîden des Abû'l-Aswad ed-Du'alî",
 		"publisher": "Buckdruckerei Hans Adler Inh.",
@@ -2181,7 +2181,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KV3TZ74T",
+		"id": "KV3TZ74T",
 		"type": "book",
 		"title": "Gedichte von ʿObeidallāh b. Aḥmed al-Mīkālī",
 		"publisher": "W. Drugulin",
@@ -2193,7 +2193,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/INKJWAKD",
+		"id": "INKJWAKD",
 		"type": "book",
 		"title": "The Poetical Remains of Muzāḥim al-ʿUqailī",
 		"publisher": "E.J. Brill",
@@ -2204,7 +2204,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VP8XNVVH",
+		"id": "VP8XNVVH",
 		"type": "article-journal",
 		"title": "Ueber den shîʿitschen Dichter Abu-Iḳâsim Moḥammad Ibn Hâni'",
 		"container-title": "ZDMG",
@@ -2215,7 +2215,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z9NTS5NU",
+		"id": "Z9NTS5NU",
 		"type": "article-journal",
 		"title": "The Diwan of Abu Dahbal al-Gumahi",
 		"container-title": "Journal of the Royal Asiatic Society",
@@ -2224,7 +2224,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WKGIST4J",
+		"id": "WKGIST4J",
 		"type": "book",
 		"title": "Aufsätze und Abhandlungen: arabistisch-semitologischen Inhalts",
 		"publisher": "G. Frauz'sche h.b. Hofbuchhandlung",
@@ -2235,7 +2235,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RMPG8IQ8",
+		"id": "RMPG8IQ8",
 		"type": "book",
 		"title": "رياض الأدب في مرائي شواعر العرب",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -2248,7 +2248,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6NHQDFX6",
+		"id": "6NHQDFX6",
 		"type": "book",
 		"title": "Die Himjarische Kasideh",
 		"publisher": "F.A. Brockhaus",
@@ -2259,7 +2259,7 @@ var ourData = [
 		"issued": "1865"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SV8TWQDU",
+		"id": "SV8TWQDU",
 		"type": "book",
 		"title": "Abû Miḥġan: Poetae Arabici Carmina",
 		"publisher": "E.J. Brill",
@@ -2270,7 +2270,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A8Q8AMQ4",
+		"id": "A8Q8AMQ4",
 		"type": "book",
 		"title": "Al-Burdatān ovvero I Due Poemi Arabi del ''Mantello,,",
 		"publisher": "Bibliotheca Scientifico-Religiosa",
@@ -2281,7 +2281,7 @@ var ourData = [
 		"author": "G. Gabrieli"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TAM47FPW",
+		"id": "TAM47FPW",
 		"type": "book",
 		"title": "سرح الخريدة الغيبية في شرح القصيدة العينية",
 		"shortTitle": "Sarḥ al-kharīda al-ghaybiyya fī sharḥ al-qaṣīda al-ʿayniyya",
@@ -2290,21 +2290,21 @@ var ourData = [
 		"issued": "1270h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2RC5VHAR",
+		"id": "2RC5VHAR",
 		"type": "article-journal",
 		"title": "Un Poète Royal: A la cour des omiades de Damas",
 		"container-title": "Revue de l'Orient Chrétien",
 		"callnumber": "XVI A 212"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BRKNCVDQ",
+		"id": "BRKNCVDQ",
 		"type": "article-journal",
 		"title": "Ṣâliḥ b. 'Abd-al-Ḳuddûs und das Zindîḳthum während der Regierung des Chalifen al-Mahdî",
 		"callnumber": "XVI A 213",
 		"author": " Goldziher, I."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FCPHV364",
+		"id": "FCPHV364",
 		"type": "book",
 		"title": "Abû Firâs, ein arabischer Dichter und Held",
 		"publisher": "E.J. Brill",
@@ -2316,7 +2316,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KBNSNUAB",
+		"id": "KBNSNUAB",
 		"type": "book",
 		"title": "Die Mufaḍḍalîjât",
 		"publisher": "In Commission bei F.A. Brockhaus",
@@ -2328,7 +2328,7 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/II4M4G92",
+		"id": "II4M4G92",
 		"type": "book",
 		"title": "'Umar ibn Abî Rebî'a: Ein arabischer Dichter der Umajjadenzeit",
 		"publisher": "Otto Harrassowitz",
@@ -2339,7 +2339,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DI885GX8",
+		"id": "DI885GX8",
 		"type": "book",
 		"title": "Abû Dolâma: Poète bouffon de la Cour des premiers Califes abbassides",
 		"publisher": "Ancienne Maison Bastide-Jourdan",
@@ -2350,7 +2350,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VM3NBFFB",
+		"id": "VM3NBFFB",
 		"type": "book",
 		"title": "رسائل أبي العلاء المعري",
 		"publisher": "al-Maṭbaʿa al-adabiyya",
@@ -2364,7 +2364,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4XMK7GDG",
+		"id": "4XMK7GDG",
 		"type": "book",
 		"title": "Über Leben und Werke des ʿAbdallah ibn ul Muʿtazz",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -2375,7 +2375,7 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47MTJ3K6",
+		"id": "47MTJ3K6",
 		"type": "book",
 		"title": "Mutanabbi und Seifuddaula aus der Edelperle des Tsaâlibi",
 		"publisher": "Verlag von Fr. Chr. Wilh. Vogel",
@@ -2387,7 +2387,7 @@ var ourData = [
 		"issued": "1847"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JFGIWS3I",
+		"id": "JFGIWS3I",
 		"type": "book",
 		"title": "مصدق الفضل",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-niẓāmiyya",
@@ -2399,14 +2399,14 @@ var ourData = [
 		"author": " Shihāb al-Dīn Aḥmad bin Shams al-Dīn bin ʿUmar al-Hindī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5FUEHCU2",
+		"id": "5FUEHCU2",
 		"type": "article-journal",
 		"title": "Umajja b. Abi-ṣ Ṣalt",
 		"callnumber": "XVI A 222",
 		"author": "F. Schulthess"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4QWMWJUP",
+		"id": "4QWMWJUP",
 		"type": "book",
 		"title": "كتاب أراجيز العرب",
 		"publisherplace": "Miṣr",
@@ -2418,7 +2418,7 @@ var ourData = [
 		"issued": "1313h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JBJN8T82",
+		"id": "JBJN8T82",
 		"type": "book",
 		"title": "Diwan des Abu nowas",
 		"publisher": "C.A. Koch's Verlagsbuchhandlung",
@@ -2430,7 +2430,7 @@ var ourData = [
 		"issued": "1861"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KBJWZFVN",
+		"id": "KBJWZFVN",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "al-Maṭbaʿa al-mīniyya",
@@ -2442,7 +2442,7 @@ var ourData = [
 		"issued": "1311h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DXNNDIKQ",
+		"id": "DXNNDIKQ",
 		"type": "book",
 		"title": "رسالة الغفران",
 		"publisher": "Maṭbaʿa Hindiyya",
@@ -2455,7 +2455,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N98B27DI",
+		"id": "N98B27DI",
 		"type": "manuscript",
 		"title": "كتاب المكاثرة عند المذاكرة",
 		"shortTitle": "Kitāb al-mukāthira ʿind al-mudhākira",
@@ -2464,7 +2464,7 @@ var ourData = [
 		"issued": "1317h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8PGD2Q8X",
+		"id": "8PGD2Q8X",
 		"type": "manuscript",
 		"title": "ديوان شعر القطامي",
 		"publisherplace": "al-Kitāb-khāna al-khadīwiyya",
@@ -2475,7 +2475,7 @@ var ourData = [
 		"issued": "1310h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VDTWEM6H",
+		"id": "VDTWEM6H",
 		"type": "book",
 		"title": "شهر العزيز",
 		"publisherplace": "al-Kitāb-khāna al-khadīwiyya",
@@ -2485,7 +2485,7 @@ var ourData = [
 		"issued": "1309h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A6BCPCB2",
+		"id": "A6BCPCB2",
 		"type": "book",
 		"title": "Bânat So'âd: Poëme arabe de Ka'b ben Zohaïr",
 		"publisher": "Ernest Leroux, Éditeur",
@@ -2497,7 +2497,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W6B2TTKI",
+		"id": "W6B2TTKI",
 		"type": "book",
 		"title": "المفضليات",
 		"publisher": "Maṭbaʿa al-taqaddum bi-shāriʿ Muḥammad ʿAlī",
@@ -2510,7 +2510,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PDZ2VX85",
+		"id": "PDZ2VX85",
 		"type": "book",
 		"title": "ديوان ابن الرومي",
 		"publisher": "Maṭbaʿat al-Hilāl",
@@ -2522,7 +2522,7 @@ var ourData = [
 		"author": " Ibn al-Rūmī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K3JAQ8KR",
+		"id": "K3JAQ8KR",
 		"type": "book",
 		"title": "ديوان الحطيئة بشرح أبي الحسن السكري",
 		"publisher": "Maṭbaʿa al-taqaddum bi-shāriʿ Muḥammad ʿAlī",
@@ -2534,7 +2534,7 @@ var ourData = [
 		"issued": "1323h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9T8EBCUX",
+		"id": "9T8EBCUX",
 		"type": "book",
 		"title": "ديوان الخرينق أخت طرفة",
 		"abstract": "رواية عمرو بن العلاء",
@@ -2543,7 +2543,7 @@ var ourData = [
 		"issued": "1296h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DFZ296NC",
+		"id": "DFZ296NC",
 		"type": "book",
 		"title": "القصائد الهاشميات",
 		"publisher": "Maṭbaʿat al-mawsūʿāt",
@@ -2553,7 +2553,7 @@ var ourData = [
 		"callnumber": "XVI A 235"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DAMG5WNR",
+		"id": "DAMG5WNR",
 		"type": "book",
 		"title": "Beiträge zum Dîwân des Ru'bah",
 		"publisher": "In Kommission bei Alfred Hölder",
@@ -2565,7 +2565,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8DTX3689",
+		"id": "8DTX3689",
 		"type": "book",
 		"title": "Schanfaras Lamijat al-'Arab",
 		"publisher": "Walter G. Mühlau",
@@ -2576,7 +2576,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z54PVDND",
+		"id": "Z54PVDND",
 		"type": "book",
 		"title": "Notice sur Hodba, poète arabe du 1er siècle de l'hégire",
 		"publisher": "Imprimerie Impériale",
@@ -2587,7 +2587,7 @@ var ourData = [
 		"issued": "1855"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XIMGD4GQ",
+		"id": "XIMGD4GQ",
 		"type": "book",
 		"title": "نظرات نقدية في شعر أبي شادي",
 		"publisher": "al-Maṭbaʿa al-salafiyya",
@@ -2599,7 +2599,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DG6MT3V8",
+		"id": "DG6MT3V8",
 		"type": "book",
 		"title": "كتاب روضة الأدب في طبقات شعراء العرب",
 		"publisherplace": "Beirut",
@@ -2610,7 +2610,7 @@ var ourData = [
 		"issued": "1858"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VNIK42HV",
+		"id": "VNIK42HV",
 		"type": "book",
 		"title": "Le Diwan d'al Hansaʾ",
 		"publisher": "Imprimerie Catholique",
@@ -2622,7 +2622,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I84R29Z9",
+		"id": "I84R29Z9",
 		"type": "book",
 		"title": "'Orwa ben el-Ward: Dîwân",
 		"publisher": "Jules Carbonel",
@@ -2634,7 +2634,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AWR36UPQ",
+		"id": "AWR36UPQ",
 		"type": "book",
 		"title": "كتاب شرح المعلقات السبع",
 		"publisher": "al-Maṭbaʿa al-sharfiyya",
@@ -2644,7 +2644,7 @@ var ourData = [
 		"issued": "1319"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RP2FHU8U",
+		"id": "RP2FHU8U",
 		"type": "book",
 		"title": "Ṭarafa's Mo'allaqa",
 		"publisher": "Impremerie Nefaset",
@@ -2656,7 +2656,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HZ9XPMN4",
+		"id": "HZ9XPMN4",
 		"type": "book",
 		"title": "الجزء الأول من ديوان",
 		"publisher": "al-Maṭbaʿa al-ʿilmiyya",
@@ -2669,7 +2669,7 @@ var ourData = [
 		"issued": "1313h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PF7N3KWW",
+		"id": "PF7N3KWW",
 		"type": "book",
 		"title": "أنيس الجلساء في ديوان الخنساء",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -2680,7 +2680,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A69R7FDT",
+		"id": "A69R7FDT",
 		"type": "book",
 		"title": "'Alqama ben 'Abada Dîwân",
 		"publisher": "Jules Carbonel",
@@ -2692,14 +2692,14 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FBSWVIGX",
+		"id": "FBSWVIGX",
 		"type": "book",
 		"title": "مجموع المتون المحتوم على خمسة وأربعين متنا من خواص الفنون",
 		"shortTitle": "Majmūʿ al-mutūn al-maḥtūm ʿalā khamsa wa-arbaʿīn matanan min khawāṣṣ al-funūn",
 		"callnumber": "XVI A 248"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6K5593MW",
+		"id": "6K5593MW",
 		"type": "book",
 		"title": "الأنوار الزاهية في ديوان أبي العتاهية",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -2711,7 +2711,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WVC3KE9G",
+		"id": "WVC3KE9G",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-ʿuthmāniyya",
@@ -2724,7 +2724,7 @@ var ourData = [
 		"issued": "1305h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G5X89JBF",
+		"id": "G5X89JBF",
 		"type": "book",
 		"title": "كتاب أعجب العجب في شرح لامية العرب",
 		"publisherplace": "Miṣr",
@@ -2735,7 +2735,7 @@ var ourData = [
 		"author": " Fakhr Khwārazm al-ʿallāma Maḥmūd bin ʿUmar al-Zamakhsharī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/28MMWVZU",
+		"id": "28MMWVZU",
 		"type": "book",
 		"title": "Amrilkais",
 		"publisher": "J.G. Gotta'scher Verlag",
@@ -2747,7 +2747,7 @@ var ourData = [
 		"issued": "1843"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KAAXVX5X",
+		"id": "KAAXVX5X",
 		"type": "book",
 		"title": "Diwan des Abu Nuwâs",
 		"publisher": "Wilhelm Bramüller",
@@ -2759,7 +2759,7 @@ var ourData = [
 		"issued": "1855"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IWMIBPMM",
+		"id": "IWMIBPMM",
 		"type": "book",
 		"title": "Le Divan de Beha ed-Din Zoheir",
 		"publisher": "Maisonneuve & Cie Libraires Editeurs",
@@ -2771,7 +2771,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VASSCHZS",
+		"id": "VASSCHZS",
 		"type": "book",
 		"title": "Lettre sur les Poëtes Tarafah et al-Moutalammis",
 		"callnumber": "XVI A 255",
@@ -2779,7 +2779,7 @@ var ourData = [
 		"issued": "1841"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/89GZ9BSB",
+		"id": "89GZ9BSB",
 		"type": "book",
 		"title": "روضة الأدب في طبقات شعراء العرب",
 		"shortTitle": "Rawḍat al-adab fī ṭabaqāt shuʿarāʾ al-ʿarab",
@@ -2787,7 +2787,7 @@ var ourData = [
 		"author": " Shihāb al-Dīn Abī al-Ṭayyib Aḥmad bin Muḥammad bin ʿAlī bin Ḥasan bin Ibrāhīm al-Anṣārī al-Makhzūmī al-Ḥijāzī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6U7A29K3",
+		"id": "6U7A29K3",
 		"type": "book",
 		"title": "Sept Poésies",
 		"abstract": "Composées en l'honneur de Sa Béatitude Monseigneur Elias Hooyek, Patriarche de la Nation Maronite d'Antioche et de tout l'Orient.\nElextion - Anniversaires de l'élection, - Départ pour Rome et Constantinople, - Retour au Liban, - Décorations.",
@@ -2796,7 +2796,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F6DZMQ87",
+		"id": "F6DZMQ87",
 		"type": "book",
 		"title": "ديوان",
 		"publisher": "al-Maṭbaʿa al-ḥusayniyya al-miṣriyya",
@@ -2808,7 +2808,7 @@ var ourData = [
 		"editor": " Abū Bakr al-Wālibī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J34IR2JP",
+		"id": "J34IR2JP",
 		"type": "book",
 		"title": "Le Chantre des Omiades",
 		"publisher": "Imprimerie Nationale",
@@ -2820,20 +2820,20 @@ var ourData = [
 		"issued": "1845"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DUX9FC89",
+		"id": "DUX9FC89",
 		"type": "article-journal",
 		"title": "<Book review: Geyer, Rudolf, Gedichte und Fragmente des 'Aus ibn Ḥajar...>",
 		"callnumber": "XVI A 260"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P2XF8KXT",
+		"id": "P2XF8KXT",
 		"type": "article-journal",
 		"title": "Beiträge zur Kenntnis altarabischer Dichter",
 		"callnumber": "XVI A 261",
 		"author": "R. Geyer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SKD4T3CK",
+		"id": "SKD4T3CK",
 		"type": "book",
 		"title": "Die Burda: Ein Lobgedicht auf Muḥammad von al-Buṣîrî",
 		"publisher": "Aus der Kaiserlich-Königlichen Hof- und Staatsdruckerei",
@@ -2845,7 +2845,7 @@ var ourData = [
 		"issued": "1860"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NFDGQVVA",
+		"id": "NFDGQVVA",
 		"type": "book",
 		"title": "Jeder Tut Was Ihm Passt, denn Reden Werden die Leute Immer",
 		"publisher": "E.J. Brill",
@@ -2857,7 +2857,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KIAIKCEH",
+		"id": "KIAIKCEH",
 		"type": "manuscript",
 		"title": "ديوان جران العود",
 		"shortTitle": "Dīwān Jirān al-ʿAwd",
@@ -2865,19 +2865,19 @@ var ourData = [
 		"author": " Abū Saʿīd al-Sukrī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CKAQ43Q9",
+		"id": "CKAQ43Q9",
 		"type": "article-journal",
 		"title": "<Book review on Gedichte und Fragmente des 'Aus Ibn Ḥajar, Rudolf Geyer...>",
 		"callnumber": "XVI A 265"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TVFV3CR4",
+		"id": "TVFV3CR4",
 		"type": "article-journal",
 		"title": "The New Poem Attributed to al Samau'al",
 		"callnumber": "XVI A 266"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2WWTMAHC",
+		"id": "2WWTMAHC",
 		"type": "book",
 		"title": "Marriage-Love and Woman Amongst the Arabs",
 		"publisher": "Charles Carrington",
@@ -2889,7 +2889,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MH86VC5J",
+		"id": "MH86VC5J",
 		"type": "book",
 		"title": "كتاب علم الأدب",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -2902,7 +2902,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HS6KHF3Z",
+		"id": "HS6KHF3Z",
 		"type": "book",
 		"title": "كتاب نشار الأزهار في الليل والنهار",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -2915,7 +2915,7 @@ var ourData = [
 		"issued": "1298h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TTG5G7FJ",
+		"id": "TTG5G7FJ",
 		"type": "book",
 		"title": "كتاب نظام الغريب",
 		"publisher": "Maṭbaʿa Hindiyya",
@@ -2927,7 +2927,7 @@ var ourData = [
 		"author": " ʿĪsā bin Ibrāhīm bin Muḥammad al-Rabaʿī and P. Brūnalah?"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D4NCGI7C",
+		"id": "D4NCGI7C",
 		"type": "book",
 		"title": "المزهر",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -2940,7 +2940,7 @@ var ourData = [
 		"issued": "1325h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SGUTIPWD",
+		"id": "SGUTIPWD",
 		"type": "book",
 		"title": "كتاب حلية الكميت في الأدب والنوادر المتعلقة بالخمريات",
 		"publisher": "Maṭbaʿa idārat al-waṭan",
@@ -2950,7 +2950,7 @@ var ourData = [
 		"issued": "1299h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WT77PEN2",
+		"id": "WT77PEN2",
 		"type": "book",
 		"title": "خمس رسائل",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -2962,7 +2962,7 @@ var ourData = [
 		"issued": "1301h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZN3ECVJJ",
+		"id": "ZN3ECVJJ",
 		"type": "book",
 		"title": "كتاب خاص الخاص",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -2976,7 +2976,7 @@ var ourData = [
 		"issued": "1809"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ST3KSH6B",
+		"id": "ST3KSH6B",
 		"type": "book",
 		"title": "المنتحك",
 		"publisher": "al-Maṭbaʿa al-tijāriyya",
@@ -2989,7 +2989,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5FQF6XJZ",
+		"id": "5FQF6XJZ",
 		"type": "book",
 		"title": "Ṭauḳ-al-Ḥamâma",
 		"publisher": "E.J. Brill",
@@ -3001,7 +3001,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FT5HPADV",
+		"id": "FT5HPADV",
 		"type": "book",
 		"title": "كتاب بلاغات النساء",
 		"publisher": "al-Maṭbaʿa a-sharqiyya",
@@ -3015,7 +3015,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/835M22ZV",
+		"id": "835M22ZV",
 		"type": "book",
 		"title": "El Ktab Lois secrètes de l'amour",
 		"callnumber": "XVI B 12",
@@ -3023,7 +3023,7 @@ var ourData = [
 		"editor": "P. De Régla"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2D7VWAUC",
+		"id": "2D7VWAUC",
 		"type": "book",
 		"title": "تحفة العروس ونزهة النفوس",
 		"shortTitle": "Tuḥfat al-ʿurūs wa-nuzhat al-nufūs",
@@ -3032,7 +3032,7 @@ var ourData = [
 		"issued": "1301h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7UTAT3UG",
+		"id": "7UTAT3UG",
 		"type": "book",
 		"title": "كتاب صبح الأعشى",
 		"publisher": "al-Maṭbaʿa al-kubrā al-amīriyya",
@@ -3045,7 +3045,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S4TBUBZ5",
+		"id": "S4TBUBZ5",
 		"type": "book",
 		"title": "المثل السائر في أدب الكاتب والشاعر",
 		"shortTitle": "al-Muthul al-sāʾir fī adab al-kātib wa-l-shāʿir",
@@ -3054,7 +3054,7 @@ var ourData = [
 		"issued": "1282h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z6TCB9BR",
+		"id": "Z6TCB9BR",
 		"type": "book",
 		"title": "الأشباه والنظائر في النحو",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-niẓāmiyya",
@@ -3068,7 +3068,7 @@ var ourData = [
 		"issued": "1316h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W5QACZB9",
+		"id": "W5QACZB9",
 		"type": "book",
 		"title": "La Critique du Langage",
 		"publisher": "Imprimerie Catholique",
@@ -3081,7 +3081,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8DPA7HK6",
+		"id": "8DPA7HK6",
 		"type": "book",
 		"title": "Le Livre de la Couronne (Kitab el-Tadj)",
 		"publisher": "Imprimerie Nationale",
@@ -3093,7 +3093,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EUEDAXIK",
+		"id": "EUEDAXIK",
 		"type": "book",
 		"title": "كتاب الأزمنة والأمكنة",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif",
@@ -3106,7 +3106,7 @@ var ourData = [
 		"issued": "1332h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CSZEIF7S",
+		"id": "CSZEIF7S",
 		"type": "book",
 		"title": "كتاب الصناعتين الكتابة والشعر",
 		"publisher": "Maṭbaʿa Maḥmūd Bak",
@@ -3119,7 +3119,7 @@ var ourData = [
 		"issued": "1320h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WEBCA7KN",
+		"id": "WEBCA7KN",
 		"type": "book",
 		"title": "كتاب مواسم الأدب",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3132,7 +3132,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C7NVB9X2",
+		"id": "C7NVB9X2",
 		"type": "book",
 		"title": "Texte zur arabischen lexikographie",
 		"publisher": "Otto Harrassowitz",
@@ -3143,7 +3143,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KBBSUC83",
+		"id": "KBBSUC83",
 		"type": "book",
 		"title": "الموشح",
 		"publisherplace": "Cairo",
@@ -3155,7 +3155,7 @@ var ourData = [
 		"issued": "1343"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WKJVUA64",
+		"id": "WKJVUA64",
 		"type": "book",
 		"title": "كتاب تهذيب أصلاح المنطق",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3167,7 +3167,7 @@ var ourData = [
 		"author": " Abū Zakariyyāʾ Yaḥyā bin ʿAlī bin al-Khaṭīb al-Tabrīzī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V58A86CB",
+		"id": "V58A86CB",
 		"type": "book",
 		"title": "أسرار البلاغة في علم البيان",
 		"publisher": "Maṭbaʿat al-taraqī",
@@ -3180,14 +3180,14 @@ var ourData = [
 		"issued": "1319h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZEFC7RHM",
+		"id": "ZEFC7RHM",
 		"type": "book",
 		"title": "Les ,,Livres des Chevaux'' de Hišam ibn al-Kalbī et Muḥammad ibn al-Aʿrābī",
 		"callnumber": "XVI B 26",
 		"author": "G. Levi Della Vida"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KTD3GV44",
+		"id": "KTD3GV44",
 		"type": "book",
 		"title": "Il Libro Dei Verbi",
 		"publisher": "E.J. Brill",
@@ -3199,7 +3199,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UPH6WRZN",
+		"id": "UPH6WRZN",
 		"type": "book",
 		"title": "الصاجي في فقه اللغة وسنن العرب في كلامها",
 		"publisher": "Maṭbaʿat al-muʾayyid",
@@ -3211,7 +3211,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JMHQ4J9F",
+		"id": "JMHQ4J9F",
 		"type": "book",
 		"title": "كتاب تمرين الطلاب في صناعة الاعراب",
 		"publisher": "al-Maṭbaʿa al-wahbiyya",
@@ -3223,7 +3223,7 @@ var ourData = [
 		"issued": "1289h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IJ3Z6DRE",
+		"id": "IJ3Z6DRE",
 		"type": "book",
 		"title": "Ibn Kutaiba's Adab-al-Kâtib",
 		"publisher": "E.J. Brill",
@@ -3235,7 +3235,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GJRVUH6Z",
+		"id": "GJRVUH6Z",
 		"type": "book",
 		"title": "Drie Arabische Quellenwerke über die 'Aḍdād",
 		"publisher": "Imprimerie Catholique",
@@ -3247,7 +3247,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2V6BSUJR",
+		"id": "2V6BSUJR",
 		"type": "book",
 		"title": "كتاب النوادر في اللغة",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -3260,7 +3260,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/66CX422B",
+		"id": "66CX422B",
 		"type": "book",
 		"title": "كتاب آكام المرجان في أحكام الجان",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3273,7 +3273,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2PUQPSAW",
+		"id": "2PUQPSAW",
 		"type": "book",
 		"title": "كتاب حسن التوسل إلى صناعة الترسل",
 		"publisher": "Maṭbaʿa Hindiyya",
@@ -3285,7 +3285,7 @@ var ourData = [
 		"issued": "1315h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JNNU6E8M",
+		"id": "JNNU6E8M",
 		"type": "manuscript",
 		"title": "الجزء الأول في علم البيان",
 		"shortTitle": "al-juzʾ al-awwal fī ʿilm al-bayān",
@@ -3293,7 +3293,7 @@ var ourData = [
 		"author": " Ibn al-Athīr Naṣr Allāh ibn Muḥammad"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BPGN8H85",
+		"id": "BPGN8H85",
 		"type": "book",
 		"title": "Kitab al-Hamz",
 		"publisher": "Imprimerie Catholique",
@@ -3305,7 +3305,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9CDNIWB2",
+		"id": "9CDNIWB2",
 		"type": "book",
 		"title": "L'Arte poetica di 'Abû 'l-'Abbâs 'Aḥmad b. Yaḥyâ Ṭa'lab",
 		"publisher": "E.J. Brill",
@@ -3317,7 +3317,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VNH2CJ72",
+		"id": "VNH2CJ72",
 		"type": "book",
 		"title": "Ibn Ginnī's Kitāb al-Muġtaṣab",
 		"publisher": "Druck von August Pries",
@@ -3329,7 +3329,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/996SD6KA",
+		"id": "996SD6KA",
 		"type": "book",
 		"title": "كتاب نقد الشعر",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -3342,7 +3342,7 @@ var ourData = [
 		"issued": "1302h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W7UZXWV2",
+		"id": "W7UZXWV2",
 		"type": "book",
 		"title": "An Extract from Ibn Kutaiba's 'Adab al-Ḳâtib",
 		"publisher": "G. Kreysing",
@@ -3354,7 +3354,7 @@ var ourData = [
 		"issued": "1877"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F8MNEQN9",
+		"id": "F8MNEQN9",
 		"type": "book",
 		"title": "Die Saadjanische Uebersetzung des Hohen Liedes in's Arabische",
 		"publisher": "Carl Winter's Universitätsbuchhandlung",
@@ -3366,13 +3366,13 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2I3924WU",
+		"id": "2I3924WU",
 		"type": "article-journal",
 		"title": "<Book review on: Texte zur arabischen Lexikographie..>",
 		"callnumber": "XVI B 43"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KN9W2VAM",
+		"id": "KN9W2VAM",
 		"type": "book",
 		"title": "Le Traité Philologique Kitâb al-Maṭar par Abou Zaïd al-Anṣârî",
 		"publisher": "Imprimerie Catholique",
@@ -3384,7 +3384,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UA88ZT4D",
+		"id": "UA88ZT4D",
 		"type": "book",
 		"title": "Die arabischen Wörter mit entgegengesetzten Bedeutungen",
 		"publisher": "Vandenhoeck & Ruprecht",
@@ -3396,7 +3396,7 @@ var ourData = [
 		"issued": "1873"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BNPR8C4J",
+		"id": "BNPR8C4J",
 		"type": "book",
 		"title": "Ibn Ginnī's Kitāb al-Muġtaṣab",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -3408,21 +3408,21 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G3T6X5I8",
+		"id": "G3T6X5I8",
 		"type": "article-journal",
 		"title": "Abû Hilâl el-ʿAskerî, Das Kitâb »el-muʿġam fî baqîjati ʾl-ešjâʾ«",
 		"callnumber": "XVI B 47",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HGZVKS8H",
+		"id": "HGZVKS8H",
 		"type": "article-journal",
 		"title": "Eṭ-ṭaʿâlibî: Man ġâba ʿanhu ʾl-muṭrib",
 		"callnumber": "XVI B 48",
 		"translator": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J8GK3BF9",
+		"id": "J8GK3BF9",
 		"type": "book",
 		"title": "المنتخب",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3436,7 +3436,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FNI9I6WV",
+		"id": "FNI9I6WV",
 		"type": "book",
 		"title": "Kitābo-'l-Adhdād",
 		"publisher": "E.J. Brill",
@@ -3449,7 +3449,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CZN656MM",
+		"id": "CZN656MM",
 		"type": "book",
 		"title": "كتاب صفة السرج واللجام",
 		"publisher": "E.J. Brill",
@@ -3463,7 +3463,7 @@ var ourData = [
 		"issued": "1859"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7PAQUKZN",
+		"id": "7PAQUKZN",
 		"type": "manuscript",
 		"title": "كتاب النبات والشجر",
 		"publisherplace": "al-Kitāb-khāna al-khadīwiyya",
@@ -3475,7 +3475,7 @@ var ourData = [
 		"issued": "1304h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G99VKEH4",
+		"id": "G99VKEH4",
 		"type": "book",
 		"title": "كتاب مذاهب الاعراب وفلاسفة الإسلام في الجن",
 		"publisher": "Maṭbaʿat al-muqtabas",
@@ -3487,7 +3487,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SC63I3VW",
+		"id": "SC63I3VW",
 		"type": "book",
 		"title": "كتاب بستان الراغبين وبغية العاجزين عن الرهز الكاف والسين",
 		"abstract": "وبهامشة كتاب الذات وبجمع الشهوات من كتاب رجوع الشيخ إلى صباه",
@@ -3496,7 +3496,7 @@ var ourData = [
 		"issued": "1322h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AIW5CJ46",
+		"id": "AIW5CJ46",
 		"type": "book",
 		"title": "البلغة في شذور اللغة",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -3509,7 +3509,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H497GKDD",
+		"id": "H497GKDD",
 		"type": "book",
 		"title": "كتاب ديوان الضبابة",
 		"shortTitle": "Kitāb dīwān al-ḍibāba",
@@ -3518,7 +3518,7 @@ var ourData = [
 		"issued": "1279h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6ZRNU34J",
+		"id": "6ZRNU34J",
 		"type": "book",
 		"title": "التحفة البهية والطرفة الشهية",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -3530,7 +3530,7 @@ var ourData = [
 		"issued": "1302h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6CW27VU6",
+		"id": "6CW27VU6",
 		"type": "book",
 		"title": "كتاب البيان والتبيين",
 		"publisher": "al-Maṭbaʿa al-ʿilmiyya",
@@ -3544,7 +3544,7 @@ var ourData = [
 		"issued": "1313h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TPB5MINT",
+		"id": "TPB5MINT",
 		"type": "book",
 		"title": "مجموعة المعاني",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -3556,7 +3556,7 @@ var ourData = [
 		"issued": "1301h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9RWIWVVM",
+		"id": "9RWIWVVM",
 		"type": "book",
 		"title": "فقه اللغة",
 		"shortTitle": "Fiqh al-lugha",
@@ -3566,7 +3566,7 @@ var ourData = [
 		}
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TJ32AU85",
+		"id": "TJ32AU85",
 		"type": "book",
 		"title": "Livre Intitulé Laisa",
 		"abstract": "Sur les exceptions de la langue arabe par Ibn Khâloûya, dit Ibn Khâlawaihi.\nTirage à part de Hebraica, Vol. X, pp. 88-105, et American Journal of Semitic callnumbers and Literatures, vol. XIV",
@@ -3574,7 +3574,7 @@ var ourData = [
 		"author": "H. Derenbourg"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NW956SV4",
+		"id": "NW956SV4",
 		"type": "book",
 		"title": "عنوان المرقصات والمطربات",
 		"shortTitle": "ʿunwān al-muraqqiṣāt wa-l-muṭarribāt",
@@ -3583,7 +3583,7 @@ var ourData = [
 		"issued": "1286h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2P5P6D66",
+		"id": "2P5P6D66",
 		"type": "book",
 		"title": "Il \"Libro delle Classi\" di Abū Bakr az-Zubaidī",
 		"publisher": "Casa Editrice Italiana",
@@ -3594,7 +3594,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GHWFZRP5",
+		"id": "GHWFZRP5",
 		"type": "book",
 		"title": "The Kitāb al-Maḳṣūr wa'l-Mamdūd by Ibn Wallād",
 		"publisher": "E.J. Brill",
@@ -3606,7 +3606,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GJU5H8Z8",
+		"id": "GJU5H8Z8",
 		"type": "book",
 		"title": "Eṭ-Ṭa'âlibî. Heft 1: ,,Aḥsan mâ sami'tu''",
 		"publisher": "Otto Harrassowitz",
@@ -3617,7 +3617,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4U3BD9JA",
+		"id": "4U3BD9JA",
 		"type": "book",
 		"title": "الاقتضاب في شرح أدب الكتاب",
 		"publisher": "al-Maṭbaʿa al-adabiyya",
@@ -3629,7 +3629,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IACWZDUN",
+		"id": "IACWZDUN",
 		"type": "book",
 		"title": "كتاب المجتنى",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-niẓāmiyya",
@@ -3641,7 +3641,7 @@ var ourData = [
 		"issued": "1342h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F62XXDDB",
+		"id": "F62XXDDB",
 		"type": "book",
 		"title": "Kitab al-Kuttab ou le guide des ecrivains par Ibn Durustuyah",
 		"publisher": "Imprimerie Catholique",
@@ -3652,7 +3652,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TA5HZZX3",
+		"id": "TA5HZZX3",
 		"type": "book",
 		"title": "Ġawâlîḳî's Almuʿarrab",
 		"publisher": "Verlag von W. Engelmann",
@@ -3664,7 +3664,7 @@ var ourData = [
 		"issued": "1867"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JBK5RTH5",
+		"id": "JBK5RTH5",
 		"type": "book",
 		"title": "كتاب فصيح اللغة العربية",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3678,7 +3678,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EBBD39GT",
+		"id": "EBBD39GT",
 		"type": "book",
 		"title": "كتاب هدية الأمم وينبوع الآداب والحكم",
 		"publisher": "Maṭbaʿa jarīda",
@@ -3690,7 +3690,7 @@ var ourData = [
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HKTXM4DK",
+		"id": "HKTXM4DK",
 		"type": "book",
 		"title": "كتاب فقه اللغة",
 		"publisher": "Maṭbaʿat al-ḥajr",
@@ -3702,14 +3702,14 @@ var ourData = [
 		"issued": "1284h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F9VXN6XH",
+		"id": "F9VXN6XH",
 		"type": "article-journal",
 		"title": "Das kitâb »el-adab el-kebîr« des Ibn el-Moqaffaʿ",
 		"callnumber": "XVI B 73",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IUUA33AR",
+		"id": "IUUA33AR",
 		"type": "book",
 		"title": "Das Kleine Adab-Buch des Ibn el-Moqaffa'",
 		"publisherplace": "Stuttgart",
@@ -3720,7 +3720,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VTVJTCSK",
+		"id": "VTVJTCSK",
 		"type": "book",
 		"title": "Kitab al-Ma'thur",
 		"publisher": "A. Probsthain",
@@ -3732,7 +3732,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4G5B36HZ",
+		"id": "4G5B36HZ",
 		"type": "book",
 		"title": "أدب الكتاب",
 		"publisher": "al-Maṭbaʿa al-salafiyya",
@@ -3745,7 +3745,7 @@ var ourData = [
 		"issued": "1341h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/USD83KRB",
+		"id": "USD83KRB",
 		"type": "chapter",
 		"title": "Das Kitâbu-l-Itbâ'i wa-l-Muzâwaġati",
 		"publisher": "Verlag von Alfred Töpelmann",
@@ -3757,7 +3757,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TQCCQK4Q",
+		"id": "TQCCQK4Q",
 		"type": "book",
 		"title": "كتاب معاني الشعر",
 		"publisher": "Maṭbaʿat al-taraqī",
@@ -3769,7 +3769,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MPHI5IPJ",
+		"id": "MPHI5IPJ",
 		"type": "book",
 		"title": "كتاب أدب الكاتب",
 		"publisher": "Maṭbaʿat al-waṭan al-bahiyya al-kāʾiba",
@@ -3781,7 +3781,7 @@ var ourData = [
 		"issued": "1300h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZMD2X6IP",
+		"id": "ZMD2X6IP",
 		"type": "book",
 		"title": "Prolégomènes à l'Étude des historiens arabes",
 		"publisher": "Imprimerie Nationale",
@@ -3793,7 +3793,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TTI3BGDK",
+		"id": "TTI3BGDK",
 		"type": "book",
 		"title": "كتاب ليس في كلام العرب",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3806,7 +3806,7 @@ var ourData = [
 		"issued": "1327h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ARRFGE5D",
+		"id": "ARRFGE5D",
 		"type": "manuscript",
 		"title": "تلخيص البيان في إضاح المعاني",
 		"shortTitle": "Talkhīṣ al-bayān fī iḍāḥ al-maʿānī",
@@ -3815,7 +3815,7 @@ var ourData = [
 		"issued": "1010h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3K4NNQSX",
+		"id": "3K4NNQSX",
 		"type": "book",
 		"title": "كتاب دلائل الإعجاز",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3827,7 +3827,7 @@ var ourData = [
 		"author": " ʿAbd al-Qāhir al-Jurjānī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6UFMTVWT",
+		"id": "6UFMTVWT",
 		"type": "book",
 		"title": "كتاب رنات الميثالث والمثاني في روايات الأعاني",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -3839,7 +3839,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U2I4TD99",
+		"id": "U2I4TD99",
 		"type": "book",
 		"title": "كتاب شرح أبيات الشواهد",
 		"publisher": "Maṭbaʿat al-maʿārif",
@@ -3852,14 +3852,14 @@ var ourData = [
 		"issued": "1872"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NDVT8BKR",
+		"id": "NDVT8BKR",
 		"type": "chapter",
 		"title": "أساس الاقتباس",
 		"shortTitle": "Asās al-iqtibās",
 		"callnumber": "XVI B 86"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JKA2GFUH",
+		"id": "JKA2GFUH",
 		"type": "book",
 		"title": "كتاب طب الركة",
 		"publisher": "al-Maṭbaʿa al-bahiyya al-kāʾina",
@@ -3872,7 +3872,7 @@ var ourData = [
 		"issued": "1310h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GNVWGQZ2",
+		"id": "GNVWGQZ2",
 		"type": "book",
 		"title": "كتاب المجازات النبوية",
 		"publisher": "Maṭbaʿat al-ādāb al-ʿāmira",
@@ -3883,7 +3883,7 @@ var ourData = [
 		"author": " Abū al-Ḥasan Muḥammad bin Abī Aḥmad al-Naqīb"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SU5A7FIQ",
+		"id": "SU5A7FIQ",
 		"type": "book",
 		"title": "كتاب الروض العاطر في نزهة الخاطر",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -3894,7 +3894,7 @@ var ourData = [
 		"author": " Muḥammad bin Muḥammad al-Nafrāwī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T5X9S826",
+		"id": "T5X9S826",
 		"type": "book",
 		"title": "كتاب محاسن الأدب",
 		"publisher": "Maṭbaʿat al-maʿārif",
@@ -3906,7 +3906,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KD8QTBHF",
+		"id": "KD8QTBHF",
 		"type": "book",
 		"title": "أحسن ما سمعت",
 		"publisher": "Maṭbaʿat al-jamhūr bi-jawār dār al-āthār al-ʿarabiyya wa-l-kitābkhāna al-khadawiyya",
@@ -3919,7 +3919,7 @@ var ourData = [
 		"issued": "1324"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H9Z7V39J",
+		"id": "H9Z7V39J",
 		"type": "book",
 		"title": "كتاب الكرماء",
 		"publisher": "Maṭbaʿat al-shūrī",
@@ -3929,7 +3929,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7X676HW5",
+		"id": "7X676HW5",
 		"type": "book",
 		"title": "وطن الفراغة مثل من الشعر القومي",
 		"publisher": "al-Maṭbaʿa al-salafiyya",
@@ -3942,7 +3942,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KPP6TRQV",
+		"id": "KPP6TRQV",
 		"type": "book",
 		"title": "عبده بك قصة مصرية اجتماعية",
 		"publisher": "al-Maṭbaʿa al-salafiyya",
@@ -3954,7 +3954,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AJP9S2HH",
+		"id": "AJP9S2HH",
 		"type": "book",
 		"title": "Ihsan Egyptian Tragic Opera in Three Acts",
 		"publisher": "At the Salafeyyeh Press",
@@ -3965,7 +3965,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PBWMZQ6W",
+		"id": "PBWMZQ6W",
 		"type": "book",
 		"title": "مها قصة غرامية شرقية",
 		"publisher": "al-Maṭbaʿa al-salafiyya",
@@ -3976,7 +3976,7 @@ var ourData = [
 		"author": " Aḥmad Zakī Abū Shādimī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RSMJ3QMR",
+		"id": "RSMJ3QMR",
 		"type": "book",
 		"title": "الأدب الجديد وكلمات في الشعر والشاعر",
 		"publisher": "al-Maṭbaʿa al-salafiyya",
@@ -3988,7 +3988,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U2EA34I2",
+		"id": "U2EA34I2",
 		"type": "book",
 		"title": "محاضرة الأوائل ومسامرة الأواخر",
 		"publisher": "al-Maṭbaʿa al-mīriyya",
@@ -4001,7 +4001,7 @@ var ourData = [
 		"issued": "1300h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KPCE8VKC",
+		"id": "KPCE8VKC",
 		"type": "book",
 		"title": "Il ''Kitâb al-Istidrâk,,",
 		"publisher": "Tipografia della R. Accademia Dei Lincei",
@@ -4013,7 +4013,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PGICTQH4",
+		"id": "PGICTQH4",
 		"type": "book",
 		"title": "كتاب المنهسل الصافي في شرح الوافي",
 		"shortTitle": "Kitāb al-munhasil al-ṣāfī fī sharḥ al-wāfī",
@@ -4022,7 +4022,7 @@ var ourData = [
 		"issued": "825h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SHIR4M5K",
+		"id": "SHIR4M5K",
 		"type": "book",
 		"title": "Anonyme Arabische Chronik",
 		"publisher": "Selbstverlag",
@@ -4034,7 +4034,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/48B452VR",
+		"id": "48B452VR",
 		"type": "book",
 		"title": "Ibn Doreid's genealogisch-etymologisches Handbuch",
 		"publisher": "Dieterischen Buchhandlung",
@@ -4045,7 +4045,7 @@ var ourData = [
 		"issued": "1854"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PHUJHAVS",
+		"id": "PHUJHAVS",
 		"type": "book",
 		"title": "Das Leben Muhammed's",
 		"publisher": "Dieterischen Buchhandlung",
@@ -4058,7 +4058,7 @@ var ourData = [
 		"issued": "1859"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M23PJ6RT",
+		"id": "M23PJ6RT",
 		"type": "book",
 		"title": "Annales quos scripsit Abu Djafar Mohammed ibn Djarir at-Tabari",
 		"publisher": "E.J. Brill",
@@ -4070,7 +4070,7 @@ var ourData = [
 		"issued": "1879"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P68ZUUR5",
+		"id": "P68ZUUR5",
 		"type": "book",
 		"title": "Muhammed in Medina",
 		"publisher": "Druck und Verlag von G. Reimer",
@@ -4082,7 +4082,7 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QRFV76EV",
+		"id": "QRFV76EV",
 		"type": "book",
 		"title": "Geschichte und Beschreibung der Stadt Mekka",
 		"publisher": "F.A. Brockhaus",
@@ -4095,7 +4095,7 @@ var ourData = [
 		"issued": "1858"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9HU7T3M5",
+		"id": "9HU7T3M5",
 		"type": "book",
 		"title": "بلوغ الأرب في أحوال العرب",
 		"publisher": "Maṭbaʿat dār al-islām",
@@ -4108,7 +4108,7 @@ var ourData = [
 		"issued": "1314"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7P4QRCT5",
+		"id": "7P4QRCT5",
 		"type": "book",
 		"title": "Die Drusenschruft: Kitāb Alnoqaṭ Waldawāir",
 		"publisher": "Druck von Max Schmersow vorm. Zahn & Baendel",
@@ -4120,7 +4120,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HJAE78MJ",
+		"id": "HJAE78MJ",
 		"type": "book",
 		"title": "Das Tübinger Fragment der Chronik des Ibn Ṭūlūn",
 		"publisher": "Deutsche Verlagsgesellschaft für Politik und Geschichte",
@@ -4131,7 +4131,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DP4EWKI7",
+		"id": "DP4EWKI7",
 		"type": "book",
 		"title": "Pseudogaleni in Hippocratis de Septimanis Commentarium ab Hunaino Q.F. Arabice Versum",
 		"publisher": "B.G. Teubneri",
@@ -4142,7 +4142,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R3BVRRF4",
+		"id": "R3BVRRF4",
 		"type": "book",
 		"title": "Indice Alfabetico",
 		"publisher": "Tipografia della R. Accademia Dei Lincei",
@@ -4154,7 +4154,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JWU5VCZD",
+		"id": "JWU5VCZD",
 		"type": "book",
 		"title": "كتاب العرب قبل الإسلام",
 		"publisher": "Maṭbaʿat al-Hilāl",
@@ -4167,7 +4167,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IFCHV25N",
+		"id": "IFCHV25N",
 		"type": "book",
 		"title": "قلائد العصيان",
 		"shortTitle": "Qalāʾid al-ʿaṣyān",
@@ -4175,7 +4175,7 @@ var ourData = [
 		"issued": "1283"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PQIPNDB9",
+		"id": "PQIPNDB9",
 		"type": "book",
 		"title": "Thier und Mensch",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -4187,7 +4187,7 @@ var ourData = [
 		"issued": "1879"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7MG6BUKH",
+		"id": "7MG6BUKH",
 		"type": "book",
 		"title": "Bräuche bei Zauber und Wunder nach Buchari",
 		"abstract": "Beitrag zur altarabischen Religion",
@@ -4195,7 +4195,7 @@ var ourData = [
 		"author": "H. Reinfried"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JESF796M",
+		"id": "JESF796M",
 		"type": "book",
 		"title": "Herrn D.W. Myhrman's Ausgabe des Kitāb Muʿīd An-Niʿam wa-Mubīd an-Niqam",
 		"publisher": "Almquist & Wiksells Boktryckeri-A.-B.",
@@ -4206,7 +4206,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JF2ISNTB",
+		"id": "JF2ISNTB",
 		"type": "book",
 		"title": "Geschichte der Perser und Araber zur Zeit der Sasaniden",
 		"publisher": "E.J. Brill",
@@ -4218,7 +4218,7 @@ var ourData = [
 		"issued": "1879"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HUIDR442",
+		"id": "HUIDR442",
 		"type": "book",
 		"title": "Die auf Südarabien bezüglichen angaben Našwān's im Šams al-ʿUlūm",
 		"publisher": "E.J. Brill",
@@ -4230,7 +4230,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GUGVHM7H",
+		"id": "GUGVHM7H",
 		"type": "book",
 		"title": "Beiträge zur Kenntnis arabischer Eigennamen",
 		"publisher": "E.J. Brill",
@@ -4242,7 +4242,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G2TTDJGE",
+		"id": "G2TTDJGE",
 		"type": "article",
 		"title": "Rivista degli Studi Orientali Volume VIII Fasc. Terzo",
 		"publisher": "Presso la Regia Universita",
@@ -4250,7 +4250,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6RUA8PQG",
+		"id": "6RUA8PQG",
 		"type": "book",
 		"title": "Le Livre des Théorèmes et des Avertissements",
 		"publisher": "E.J. Brill",
@@ -4263,7 +4263,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VMFNPW9M",
+		"id": "VMFNPW9M",
 		"type": "book",
 		"title": "Abulḳâsim ein bagdâder Sittenbild",
 		"publisher": "Carl Winter's Universitätsbuchhandlung",
@@ -4274,7 +4274,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TFCIBSS2",
+		"id": "TFCIBSS2",
 		"type": "book",
 		"title": "Die Maqâmen des Zamakhšarî",
 		"publisher": "Buckdruckerei Hans Adler Inh.",
@@ -4286,7 +4286,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TR2NNKZG",
+		"id": "TR2NNKZG",
 		"type": "book",
 		"title": "Über Intention, reine Absicht und Wahrhaftigkeit",
 		"publisher": "Max Niemeyer",
@@ -4298,7 +4298,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MQP63U4H",
+		"id": "MQP63U4H",
 		"type": "book",
 		"title": "Lehrbücher des Seminars für Orientalische Sprachen zu Berlin",
 		"publisher": "W. Spemann",
@@ -4310,7 +4310,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PSK8T55Z",
+		"id": "PSK8T55Z",
 		"type": "book",
 		"title": "Wissenschaft und Berliner Auffassung",
 		"publisher": "Max Niemeyer",
@@ -4322,7 +4322,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S38SN9QX",
+		"id": "S38SN9QX",
 		"type": "book",
 		"title": "Institutiones iuris Mohammedani circa Bellum contra eos qui ab islamo sunt alieni",
 		"publisher": "Sumtibus Io. Ambros. Barthii",
@@ -4334,14 +4334,14 @@ var ourData = [
 		"issued": "1825"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IPSBK3HC",
+		"id": "IPSBK3HC",
 		"type": "article-journal",
 		"title": "Der muslimische Fastenmonat Ramaḍân",
 		"callnumber": "XVI C 30",
 		"author": "K.G. Jacob"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/979P7XSD",
+		"id": "979P7XSD",
 		"type": "book",
 		"title": "Kajyk ojunu",
 		"publisher": "Mayer et Müller",
@@ -4353,7 +4353,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BE5IF8ZW",
+		"id": "BE5IF8ZW",
 		"type": "book",
 		"title": "Die Akserai-Schule",
 		"publisher": "Mayer et Müller",
@@ -4365,7 +4365,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DA88S6FH",
+		"id": "DA88S6FH",
 		"type": "book",
 		"title": "Al-Mutaijam",
 		"publisher": "In Commission bei M. Mencke",
@@ -4377,7 +4377,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E64VWGV8",
+		"id": "E64VWGV8",
 		"type": "book",
 		"title": "Textproben aus dem Escorial Codex",
 		"publisher": "In Commission bei M. Mencke",
@@ -4389,14 +4389,14 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P6UTBQ8P",
+		"id": "P6UTBQ8P",
 		"type": "article-journal",
 		"title": "Anhang I. Die wichtigsten älteren Nachrichten über das arabische Schattenspiel",
 		"callnumber": "XVI C 30",
 		"author": "G. Jacob"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9DAIX4TX",
+		"id": "9DAIX4TX",
 		"type": "book",
 		"title": "Exercices pour la Lecture des Manuscrits arabes",
 		"publisher": "Librairie de L. Hachette et Cie",
@@ -4408,7 +4408,7 @@ var ourData = [
 		"issued": "1853"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G43T65XG",
+		"id": "G43T65XG",
 		"type": "book",
 		"title": "Ibn Ġauzī's Manāqib ʿOmar ibn ʿAbd el-ʿAzīz",
 		"publisher": "Verlag von S. Calvary & Co.",
@@ -4420,14 +4420,14 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S64MEPC9",
+		"id": "S64MEPC9",
 		"type": "article-journal",
 		"title": "Zu Sūra 91 9.10",
 		"callnumber": "XVI C 33",
 		"author": "F. Schulthess"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/844A9ZFS",
+		"id": "844A9ZFS",
 		"type": "book",
 		"title": "De codice manuscripto",
 		"publisher": "Ex Officina Frenckelliana",
@@ -4439,7 +4439,7 @@ var ourData = [
 		"issued": "1866"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/39PC573H",
+		"id": "39PC573H",
 		"type": "book",
 		"title": "Das verhältnis von Ibn-el-Aṭîrs Kâmil fit-Ta'riḥ",
 		"publisher": "Verlag von Karl J. Trübner",
@@ -4450,7 +4450,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TQFTUTXF",
+		"id": "TQFTUTXF",
 		"type": "book",
 		"title": "Fragments Arabes et Persans",
 		"publisher": "Imprimerie Royale",
@@ -4462,7 +4462,7 @@ var ourData = [
 		"issued": "1845"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HDFDIGM2",
+		"id": "HDFDIGM2",
 		"type": "book",
 		"title": "الجزء الأول من كتاب عنوان المجد في تأريخ نجد",
 		"publisher": "Maṭbaʿat al-shābinadr",
@@ -4476,7 +4476,7 @@ var ourData = [
 		"issued": "1328h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H3CPXJGB",
+		"id": "H3CPXJGB",
 		"type": "book",
 		"title": "كتاب مفيد العلوم ومبيد الهموم",
 		"publisher": "Dār al-taqaddum",
@@ -4488,7 +4488,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9GUPHFSB",
+		"id": "9GUPHFSB",
 		"type": "book",
 		"title": "أنفاس الطلاب في مضمار الكتاب مجموع مقالات أدبية وفلسفية",
 		"abstract": "Recueil littéraire\nPar les élèves du Collège St. Pierre (Basconta)\nDédié à Sa Béatitude\nMgr Elie Pierre Hoyek\nA l'occasion du XIIIe anniversaire de sa promotion au Patriarcat Maronite d'Antioche et de tout l'Orient",
@@ -4498,7 +4498,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N5XU3CRJ",
+		"id": "N5XU3CRJ",
 		"type": "book",
 		"title": "حلية الأذهان",
 		"publisher": "al-Maṭbaʿa al-tūnisiyya",
@@ -4510,7 +4510,7 @@ var ourData = [
 		"author": " Jamāna Riyāḍ"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JVMVU6VU",
+		"id": "JVMVU6VU",
 		"type": "book",
 		"title": "حسر اللثام عن نكبات الشام",
 		"publisherplace": "Miṣr",
@@ -4521,7 +4521,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AC46RT29",
+		"id": "AC46RT29",
 		"type": "book",
 		"title": "Arabisches Elementar- und Lese-Buch",
 		"publisher": "bey Johann Ambrosius Barth",
@@ -4533,7 +4533,7 @@ var ourData = [
 		"issued": "1799"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D343S5I3",
+		"id": "D343S5I3",
 		"type": "book",
 		"title": "Titres de la trés sainte vierge marie",
 		"publisher": "Imprimerie des Belles-Lettres",
@@ -4545,7 +4545,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U63H7RUJ",
+		"id": "U63H7RUJ",
 		"type": "book",
 		"title": "كتاب تفصيل النشأتين وتحصيل السعادتين",
 		"publisherplace": "Beirut",
@@ -4556,7 +4556,7 @@ var ourData = [
 		"issued": "1319h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9XED6BGR",
+		"id": "9XED6BGR",
 		"type": "book",
 		"title": "كتاب الأنيس المفيد للطالب المستفيد",
 		"shortTitle": "Kitāb al-anīs al-mufīd li-l-ṭālib al-mustafīd",
@@ -4564,7 +4564,7 @@ var ourData = [
 		"issued": "1296h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2WW49ZJI",
+		"id": "2WW49ZJI",
 		"type": "book",
 		"title": "Al-Ḳuschairîs Darstellung des Ṣûfîtums",
 		"publisher": "Mayer et Müller",
@@ -4576,7 +4576,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9V3QWWF5",
+		"id": "9V3QWWF5",
 		"type": "book",
 		"title": "Arabische Chrestomathie aus Prosaschriftstellern",
 		"publisher": "Verlag von Reuther & Reichard",
@@ -4588,7 +4588,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VJ5FVR74",
+		"id": "VJ5FVR74",
 		"type": "book",
 		"title": "Das Erwachen der Seele",
 		"publisher": "C.J.E. Volckmann",
@@ -4600,7 +4600,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U7PMTMHR",
+		"id": "U7PMTMHR",
 		"type": "book",
 		"title": "Témoignages de l'Eglise Syro-Maronite",
 		"publisher": "Imprimerie Orientale Radet",
@@ -4612,7 +4612,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6I2FZZPI",
+		"id": "6I2FZZPI",
 		"type": "book",
 		"title": "Selections from the Ṣaḥīḥ of al-Buḥārī",
 		"publisher": "E.J. Brill",
@@ -4624,7 +4624,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PP2XP927",
+		"id": "PP2XP927",
 		"type": "book",
 		"title": "العصبية عند العرب",
 		"publisher": "Maṭbaʿa miṣr",
@@ -4637,7 +4637,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F4GSSRR6",
+		"id": "F4GSSRR6",
 		"type": "book",
 		"title": "Der Koran",
 		"publisher": "J.D. Gauerländers Verlag",
@@ -4649,7 +4649,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XXCWSXIS",
+		"id": "XXCWSXIS",
 		"type": "book",
 		"title": "Die Verwandlungen des Abu Seid von Serug oder die Makamen des Hariri",
 		"publisher": "Verlag von J.G. Gotta'ischen Buchhandlung",
@@ -4661,7 +4661,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JJSU3CU9",
+		"id": "JJSU3CU9",
 		"type": "book",
 		"title": "نزهة الألبا في طبقات الأويا",
 		"shortTitle": "Nuzhat al-albā fī ṭabaqāt al-awyā",
@@ -4669,7 +4669,7 @@ var ourData = [
 		"author": " Abū al-Barakāt ʿAbd al-Raḥmān Muḥammad al-Anbārī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M58W38KI",
+		"id": "M58W38KI",
 		"type": "book",
 		"title": "Chrestomathie aus arabischen Prosaschriftstellern",
 		"publisher": "Verlag von Reuther & Reichard",
@@ -4681,13 +4681,13 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/76VBZDS6",
+		"id": "76VBZDS6",
 		"type": "manuscript",
 		"callnumber": "XVI C 57",
 		"issued": "416h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B6Q2AQF4",
+		"id": "B6Q2AQF4",
 		"type": "book",
 		"title": "كتاب تفصيل النشأتين وتحصيل السعادتين",
 		"publisher": "al-Maṭbaʿa al-ḥamīdiyya",
@@ -4699,7 +4699,7 @@ var ourData = [
 		"issued": "1323h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JRD4VZSB",
+		"id": "JRD4VZSB",
 		"type": "book",
 		"title": "Die Maqâmen des Hamadhsânî",
 		"publisher": "Druck von August Reichert",
@@ -4711,7 +4711,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BF7XGMED",
+		"id": "BF7XGMED",
 		"type": "book",
 		"title": "Zum arabischen Unterricht",
 		"publisher": "In Kommission bei M. Mencke",
@@ -4722,7 +4722,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DFIC9WQQ",
+		"id": "DFIC9WQQ",
 		"type": "book",
 		"title": "Selections from the Ṣaḥīḥ of al-Buḥārī",
 		"publisher": "E.J. Brill",
@@ -4734,7 +4734,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6PWTTJPI",
+		"id": "6PWTTJPI",
 		"type": "book",
 		"title": "Der Koran",
 		"publisher": "Druck und Verlag von Philipp Reclam",
@@ -4745,7 +4745,7 @@ var ourData = [
 		"author": "M. Henning"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/73V8P4C3",
+		"id": "73V8P4C3",
 		"type": "book",
 		"title": "Die Kämpfe und Streitigkeiten zwischen den Banū 'Umajja und den Banū Hāšim",
 		"publisher": "E.J. Brill",
@@ -4757,7 +4757,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S4D9Q37K",
+		"id": "S4D9Q37K",
 		"type": "book",
 		"title": "Sujûṭî's Kunja-Wörterbüchlein",
 		"publisher": "Druck von G. Kreysing",
@@ -4769,7 +4769,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XVKFF49I",
+		"id": "XVKFF49I",
 		"type": "book",
 		"title": "تفسير التستري",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -4781,7 +4781,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KBGBUC8T",
+		"id": "KBGBUC8T",
 		"type": "book",
 		"title": "Die Epitome der Metaphysik des Averroes",
 		"publisher": "E.J. Brill",
@@ -4791,7 +4791,7 @@ var ourData = [
 		"author": " Van den Bergh, S."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XC9NSGRJ",
+		"id": "XC9NSGRJ",
 		"type": "book",
 		"title": "Die sogenannte Theologie des Aristoteles",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -4803,7 +4803,7 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HEJTM97N",
+		"id": "HEJTM97N",
 		"type": "book",
 		"title": "Register zum Qorankommentar des Ṭabari",
 		"publisher": "Verlag von Karl J. Trübner",
@@ -4815,7 +4815,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KFW52C32",
+		"id": "KFW52C32",
 		"type": "book",
 		"title": "Algerisch-tunisische Briefe",
 		"publisherplace": "Berlin",
@@ -4826,13 +4826,13 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MUBS2IXC",
+		"id": "MUBS2IXC",
 		"type": "article-journal",
 		"title": "Ibn Shaddâds darstellung der Geschichte Baalbeks im Mitteralter",
 		"callnumber": "XVI C 70"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UTWHSF6U",
+		"id": "UTWHSF6U",
 		"type": "book",
 		"title": "Histoire des rois des perses",
 		"publisher": "Imprimerie Nationale",
@@ -4844,7 +4844,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2ZVKXRNK",
+		"id": "2ZVKXRNK",
 		"type": "book",
 		"title": "تأريخ الكامل",
 		"publisher": "al-Maṭbaʿa al-azhariyya",
@@ -4858,7 +4858,7 @@ var ourData = [
 		"issued": "1301h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NH8PFGUA",
+		"id": "NH8PFGUA",
 		"type": "book",
 		"title": "Ibn Saad Biographien",
 		"publisher": "E.J. Brill",
@@ -4870,7 +4870,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MK6TZFEB",
+		"id": "MK6TZFEB",
 		"type": "book",
 		"title": "Liber Expugnationis Regionum",
 		"publisher": "E.J. Brill",
@@ -4882,7 +4882,7 @@ var ourData = [
 		"issued": "1866"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7D25CXBM",
+		"id": "7D25CXBM",
 		"type": "book",
 		"title": "Le recueil des traditions Mahométanes",
 		"publisher": "E.J. Brill",
@@ -4895,7 +4895,7 @@ var ourData = [
 		"issued": "1862"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GXIHKACV",
+		"id": "GXIHKACV",
 		"type": "book",
 		"title": "Les traditions islamiques",
 		"publisher": "Imprimerie Nationale",
@@ -4908,7 +4908,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6KBH5JVB",
+		"id": "6KBH5JVB",
 		"type": "book",
 		"title": "The Governors and Judges of Egypt",
 		"publisher": "E.J. Brill",
@@ -4920,7 +4920,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W5MTRS5Z",
+		"id": "W5MTRS5Z",
 		"type": "book",
 		"title": "Die Familie el-Zubeir",
 		"publisher": "Dieteri'sche Verlagbuchhandlung",
@@ -4932,7 +4932,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H9X2ZXWU",
+		"id": "H9X2ZXWU",
 		"type": "book",
 		"title": "كتاب حياة الحيوان الكبرى",
 		"numberofvolumes": "2",
@@ -4941,7 +4941,7 @@ var ourData = [
 		"author": " Kamāl al-Dīn al-Damīrī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T8Q6XFZH",
+		"id": "T8Q6XFZH",
 		"type": "book",
 		"title": "Alexandrinische Patriarchen-Geschichte",
 		"publisher": "Lucas Gräfe",
@@ -4953,7 +4953,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SPWS2RJN",
+		"id": "SPWS2RJN",
 		"type": "book",
 		"title": "El-Belâḍorî's ,,kitâb futûḥ el-buldân''",
 		"publisher": "Otto Harrassowitz",
@@ -4965,7 +4965,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/52P3RN4A",
+		"id": "52P3RN4A",
 		"type": "book",
 		"title": "Die Propheten in Ihrer ursprünglichen Form",
 		"publisher": "Alfred Hölder",
@@ -4977,7 +4977,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T65323ZP",
+		"id": "T65323ZP",
 		"type": "book",
 		"title": "La Lotta tra l'Islām e il Manicheismo",
 		"publisher": "R. Accademia Nazionale Dei Lincei",
@@ -4989,7 +4989,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TAB6IDGN",
+		"id": "TAB6IDGN",
 		"type": "book",
 		"title": "Le Livre de l'Impôt Foncier de Yahyā ibn Ādam",
 		"publisher": "E.J. Brill",
@@ -5001,7 +5001,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/79FB3F6F",
+		"id": "79FB3F6F",
 		"type": "book",
 		"title": "Mohammedanische Traditionen über das jüngste Gericht",
 		"publisher": "Druck von Max Schmersow",
@@ -5013,7 +5013,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PCFUTJ22",
+		"id": "PCFUTJ22",
 		"type": "book",
 		"title": "The History of the Egyptian Cadis",
 		"publisher": "Paul Geuthner",
@@ -5025,7 +5025,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EJRTGZX8",
+		"id": "EJRTGZX8",
 		"type": "book",
 		"title": "Chrestomathia Arabica",
 		"publisher": "C.E.M. Pfeffer",
@@ -5038,14 +5038,14 @@ var ourData = [
 		"issued": "1853"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IU2EXUAU",
+		"id": "IU2EXUAU",
 		"type": "article-journal",
 		"title": "Studien über Ibn Ġinnī und sein Verhältnis zu den Theorien der Baṣrī und Baġdādī",
 		"callnumber": "XVI C 89",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/37Q2TNEC",
+		"id": "37Q2TNEC",
 		"type": "book",
 		"title": "Ibn Saad Biographien",
 		"publisher": "Druck von G. Kreysing",
@@ -5057,7 +5057,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XWEBFE54",
+		"id": "XWEBFE54",
 		"type": "book",
 		"title": "Die Hermeneutik des Aristoteles",
 		"publisher": "F.A. Brockhaus",
@@ -5069,7 +5069,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RZKJ9WKT",
+		"id": "RZKJ9WKT",
 		"type": "book",
 		"title": "Die Abhandlung des Abû Hâmid al-Ġazzâlî",
 		"publisher": "J. Kauffmann",
@@ -5081,7 +5081,7 @@ var ourData = [
 		"issued": "1986"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BXJWP4JS",
+		"id": "BXJWP4JS",
 		"type": "book",
 		"title": "Die Widersprüche der Philosophie nach al-Ġazzālī und Ihr ausgleich durch Ibn Rošd",
 		"publisher": "Karl J. Trübner",
@@ -5092,7 +5092,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NSADERDK",
+		"id": "NSADERDK",
 		"type": "book",
 		"title": "La Teḍkirà d'Abû 'l-'Alâ'",
 		"publisher": "Ernest Leroux, Éditeur",
@@ -5104,14 +5104,14 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9FUJM49R",
+		"id": "9FUJM49R",
 		"type": "article-journal",
 		"title": "El-maqāma el-ḥuṣaib je [des Qāḍī er-Rešīd]",
 		"callnumber": "XVI C 95",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JNWZMKTJ",
+		"id": "JNWZMKTJ",
 		"type": "book",
 		"title": "استدراكات",
 		"publisher": "Maṭbaʿat al-sharika al-ṭabʿiyya",
@@ -5124,7 +5124,7 @@ var ourData = [
 		"issued": "1328h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S8QQES2P",
+		"id": "S8QQES2P",
 		"type": "book",
 		"title": "A Comprehensive Commentary on the Qurán",
 		"publisher": "Kegan Paul, Trench, Trübner & Co. Ltd.",
@@ -5137,7 +5137,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SWDD6GW5",
+		"id": "SWDD6GW5",
 		"type": "book",
 		"title": "كتاب؟؟",
 		"publisher": "Maṭbaʿat al-nayl",
@@ -5148,7 +5148,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J3RPF5NS",
+		"id": "J3RPF5NS",
 		"type": "book",
 		"title": "Hamzae Ispahanensis Annalium Libri X",
 		"publisher": "Leopoldum Voss",
@@ -5160,7 +5160,7 @@ var ourData = [
 		"issued": "1844"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X74BX6NH",
+		"id": "X74BX6NH",
 		"type": "book",
 		"title": "Die Commentatoren des Ibn Isḥâḳ und Ihre Scholien",
 		"publisher": "Druck von Max Schmersow vorm. Zahn & Baendel",
@@ -5172,7 +5172,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7E5H7GVK",
+		"id": "7E5H7GVK",
 		"type": "book",
 		"title": "Die Fünfzig Ältesten Suren des Korans",
 		"publisher": "Herold'sche Buchhandlung",
@@ -5184,7 +5184,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9J6499WK",
+		"id": "9J6499WK",
 		"type": "book",
 		"title": "Die Kommentare des Suhailī und des Abū Ḍarr zu den Uḥud-Gedichten in der Sīra des Ibn Hišām",
 		"publisher": "Druck von August Pries",
@@ -5196,14 +5196,14 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QCG48E9C",
+		"id": "QCG48E9C",
 		"type": "book",
 		"title": "Streitschrift des Ġazālī gegen die Bāṭinijja-Sekte",
 		"callnumber": "XVI C 104",
 		"author": " Goldziher, I."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JBM9NK8X",
+		"id": "JBM9NK8X",
 		"type": "book",
 		"title": "Alfarābī's Abhandlung der Musterstaat",
 		"publisher": "E.J. Brill",
@@ -5215,7 +5215,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q85692VH",
+		"id": "Q85692VH",
 		"type": "book",
 		"title": "Die Medizin im Kitâb Mafâtîḥ al 'Ulûm",
 		"publisher": "Kommissionsverlag von Max Mencke",
@@ -5226,7 +5226,7 @@ var ourData = [
 		"author": "E. Seidel"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2XK83CQ5",
+		"id": "2XK83CQ5",
 		"type": "book",
 		"title": "Grande Dizionario Biografico",
 		"publisher": "Tipografia della R. Accademia Dei Lincei",
@@ -5238,7 +5238,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U2XA77HR",
+		"id": "U2XA77HR",
 		"type": "book",
 		"title": "Un dernier écho des Croisades",
 		"publisher": "Imprimerie Catholique",
@@ -5250,7 +5250,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S725UTNB",
+		"id": "S725UTNB",
 		"type": "book",
 		"title": "تنزيل الآيات على الشواهد من الأبيات شرح شواهد الكشاف",
 		"shortTitle": "Tanzīl al-āyāt ʿalā al-shawāhid min al-abayāt sharḥ shawāhid al-kashshāf",
@@ -5258,7 +5258,7 @@ var ourData = [
 		"author": " Muḥibb al-Dīn Afandī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NTKGG2SS",
+		"id": "NTKGG2SS",
 		"type": "book",
 		"title": "Ibn Coteiba's Handbuch der Geschichte",
 		"publisher": "Vandenhoeck & Ruprecht",
@@ -5270,7 +5270,7 @@ var ourData = [
 		"issued": "1850"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BV8RBG9H",
+		"id": "BV8RBG9H",
 		"type": "book",
 		"title": "Ġalâl al-dîn al-Sujûṭî's al-Šamârîḥ fî ʿIlm al-Taʾrîḥ",
 		"publisher": "E.J. Brill",
@@ -5282,7 +5282,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4362SKER",
+		"id": "4362SKER",
 		"type": "book",
 		"title": "Sonder-Abdruck aus den Göttingischen gelehrten Anzeigen unter der Aufsicht der Königl. Gesellschaft der Wissenschaften",
 		"publisher": "Weidmannsche Buchhandlung",
@@ -5291,7 +5291,7 @@ var ourData = [
 		"callnumber": "XVI C 112"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X5BBBFAC",
+		"id": "X5BBBFAC",
 		"type": "book",
 		"title": "Traité sur le Calcul dans les Reins et dans la Vessie",
 		"publisher": "E.J. Brill",
@@ -5303,14 +5303,14 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BHNWEZMM",
+		"id": "BHNWEZMM",
 		"type": "book",
 		"title": "كتاب الذريعة",
 		"shortTitle": "Kitāb al-dharīʿa",
 		"callnumber": "XVI C 114"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PV823CUN",
+		"id": "PV823CUN",
 		"type": "book",
 		"title": "علم الفلك تأريخ عند العرب في القرون الوسطى",
 		"publisher": "al-Jāmiʿa al-miṣriyya",
@@ -5323,14 +5323,14 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KKUSBB2W",
+		"id": "KKUSBB2W",
 		"type": "book",
 		"title": "The Tarikh-Baghdad (Vol. XXVII) of the Khatib Abu Bakr Ahmad b. 'Ali B. Thabit al-Baghdadi: Short Account of the Biographies",
 		"callnumber": "XVI C 116",
 		"author": "F. Krenkow"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XP8TA93Q",
+		"id": "XP8TA93Q",
 		"type": "book",
 		"title": "Recherches bibliographiques sur les sources de la Salouat el-Anfas",
 		"publisher": "Imprimerie Orientale Pierre Fontana",
@@ -5341,7 +5341,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JRM9A43C",
+		"id": "JRM9A43C",
 		"type": "book",
 		"title": "Kitāb ittiʿāẓ al-ḥunafā bi aḥbār al-aʾimma al-ḥulafā",
 		"abstract": "Fatimidengeschichte von al-Maḳrīzī zum erstenmal herausgegeben nach dem autographen Gothaer unikum. Inaugural-dissertation zur erlangung der doktorwürde einer hohen philosophischen fakultät der Eberhard-Karls-Universität zu Tübingen",
@@ -5349,7 +5349,7 @@ var ourData = [
 		"author": "H. Bunz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XP99IZNQ",
+		"id": "XP99IZNQ",
 		"type": "book",
 		"title": "Verneinungs- und Fragepartikeln und verwandtes im Ḳur'ān",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -5361,7 +5361,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X3XUBEZW",
+		"id": "X3XUBEZW",
 		"type": "book",
 		"title": "Die Negationen im Ḳur'ān",
 		"publisher": "Druck von August Pries",
@@ -5373,7 +5373,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6BIZRNWF",
+		"id": "6BIZRNWF",
 		"type": "book",
 		"title": "مقامات",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -5386,7 +5386,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VH55PRE7",
+		"id": "VH55PRE7",
 		"type": "book",
 		"title": "The Pearl-Strings; A History of the Resúliyy Dynasty of Yemen",
 		"publisher": "E.J.Brill",
@@ -5399,7 +5399,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GD8WTC36",
+		"id": "GD8WTC36",
 		"type": "book",
 		"title": "كشف الباعاني والبيان عن رسائل بديع الزمان",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -5411,14 +5411,14 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M9TTXA47",
+		"id": "M9TTXA47",
 		"type": "book",
 		"title": "As-Suyuti's Who's Who in the Fifteenth Century",
 		"callnumber": "XVI C 124",
 		"author": "P.K. Hitti"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S5VT8SV8",
+		"id": "S5VT8SV8",
 		"type": "book",
 		"title": "Der Philosophische und Religiöse Subjektivismus Ghazālīs",
 		"publisher": "Wilhelm Braumüller",
@@ -5430,7 +5430,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MV7W63IN",
+		"id": "MV7W63IN",
 		"type": "book",
 		"title": "Trois traités d'anatomie arabes",
 		"publisher": "E.J. Brill",
@@ -5442,7 +5442,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DT4BUKGI",
+		"id": "DT4BUKGI",
 		"type": "book",
 		"title": "Corani Textus Arabicus",
 		"publisher": "Sumtibus Ernesti Bredtii",
@@ -5454,7 +5454,7 @@ var ourData = [
 		"issued": "1869"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/899K8B8X",
+		"id": "899K8B8X",
 		"type": "book",
 		"title": "الكنز المدفون والفلك المشحون",
 		"shortTitle": "al-Kanz al-madfūn wa-l-falak al-mashḥūn",
@@ -5462,7 +5462,7 @@ var ourData = [
 		"issued": "1288h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZXN8NNQ4",
+		"id": "ZXN8NNQ4",
 		"type": "book",
 		"title": "Die Familie el-Zubeir",
 		"publisher": "Dieteri'sche Verlagbuchhandlung",
@@ -5474,7 +5474,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FS5VDPVF",
+		"id": "FS5VDPVF",
 		"type": "book",
 		"title": "Geschichte der Stadt Medina",
 		"publisher": "Dieterischen Buchhandlung",
@@ -5486,7 +5486,7 @@ var ourData = [
 		"issued": "1860"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GCHR5R36",
+		"id": "GCHR5R36",
 		"type": "book",
 		"title": "Religionspartheien und Philosophen-Schulen",
 		"publisher": "C.A. Swetschke und Sohn",
@@ -5500,7 +5500,7 @@ var ourData = [
 
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SMBX9JII",
+		"id": "SMBX9JII",
 		"type": "book",
 		"title": "Historia Anteislamica",
 		"publisher": "Typis et Impensis Fr. Chr. Guil. Vogel",
@@ -5512,7 +5512,7 @@ var ourData = [
 		"issued": "1831"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5JV7PKXM",
+		"id": "5JV7PKXM",
 		"type": "book",
 		"title": "History of Damascus",
 		"publisher": "E.J. Brill",
@@ -5524,7 +5524,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/863569KP",
+		"id": "863569KP",
 		"type": "book",
 		"title": "Yáqút's Dictionary of Learned Men",
 		"abstract": "Text. VI, 1. and VI, 7.\nE.J.W. Gibb Memorial",
@@ -5534,7 +5534,7 @@ var ourData = [
 
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7FRWTG6D",
+		"id": "7FRWTG6D",
 		"type": "book",
 		"title": "The Irshád al-Aríb ilá Ma'rifat al-Adíb or Dictionary of Learned Men of Yáqút",
 		"publisher": "E.J. Brill",
@@ -5547,7 +5547,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2ZWFK278",
+		"id": "2ZWFK278",
 		"type": "book",
 		"title": "Historiae",
 		"publisher": "E.J. Brill",
@@ -5560,7 +5560,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RPXK9EBM",
+		"id": "RPXK9EBM",
 		"type": "book",
 		"title": "Les prairies d'or",
 		"publisher": "Imprimerie Impériale",
@@ -5573,7 +5573,7 @@ var ourData = [
 		"issued": "1861"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BVVMKP92",
+		"id": "BVVMKP92",
 		"type": "book",
 		"title": "Monuments of Arabic Philology",
 		"publisher": "F. Diemer",
@@ -5585,7 +5585,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HNGVKAA4",
+		"id": "HNGVKAA4",
 		"type": "book",
 		"title": "Kitab al-Aḥbār aṭ-Ṭiwāl",
 		"publisher": "E.J. Brill",
@@ -5597,7 +5597,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A3Q6UIF5",
+		"id": "A3Q6UIF5",
 		"type": "book",
 		"title": "Fatḥ al-Qarîb La révélation de l'omniprésent",
 		"publisher": "E.J. Brill",
@@ -5609,7 +5609,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EPEHHG3J",
+		"id": "EPEHHG3J",
 		"type": "book",
 		"title": "The Biographical Dictionary of Illustrious Men",
 		"publisher": "Printed for the London Society for the Publication of Oriental Texts",
@@ -5622,7 +5622,7 @@ var ourData = [
 
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T73FRB83",
+		"id": "T73FRB83",
 		"type": "book",
 		"title": "The Pearl-Strings; A History of the Resúliyy Dynasty of Yemen",
 		"publisher": "E.J.Brill",
@@ -5635,14 +5635,14 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N9NHEPFR",
+		"id": "N9NHEPFR",
 		"type": "book",
 		"title": "كتاب كشف الغمة",
 		"shortTitle": "Kitāb kashf al-ghamma",
 		"callnumber": "XVI C 142"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VWK5Z86P",
+		"id": "VWK5Z86P",
 		"type": "book",
 		"title": "Book of Religious and Philosophical Sects",
 		"publisher": "Printed for the London Society for the Publication of Oriental Texts",
@@ -5654,7 +5654,7 @@ var ourData = [
 		"issued": "1846"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z45CTFJG",
+		"id": "Z45CTFJG",
 		"type": "book",
 		"title": "Tuḥfa Ḍawī-l-Arab",
 		"publisher": "E.J. Brill",
@@ -5667,7 +5667,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FC3V46FG",
+		"id": "FC3V46FG",
 		"type": "book",
 		"title": "Umayyads and 'Abbásids",
 		"publisher": "E.J. Brill",
@@ -5679,7 +5679,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KA7S23ZN",
+		"id": "KA7S23ZN",
 		"type": "book",
 		"title": "كتاب المواعظ والاعتبار في ذكر الخطط والآثار",
 		"abstract": "Taqî el-Dîn Aḥmad ibn ʿAlî ibn ʿAbd-el-Qâdir ibn Muḥammad el-Maqrîzî. El-Mawâʿiz wa-ʾl-iʿtibâr fî dhikr el-khitat waʾl-âthâr\nTome Premier, Première partie, Chap. I-XXX",
@@ -5688,7 +5688,7 @@ var ourData = [
 		"editor": "M.G. Wiet"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6NNRXAGR",
+		"id": "6NNRXAGR",
 		"type": "book",
 		"title": "كتاب الفايق",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-niẓāmiyya",
@@ -5702,7 +5702,7 @@ var ourData = [
 		"issued": "1324h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IIRGRK9D",
+		"id": "IIRGRK9D",
 		"type": "book",
 		"title": "كتاب الكنى والأسماء",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-niẓāmiyya",
@@ -5715,7 +5715,7 @@ var ourData = [
 		"issued": "1342h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HMAGWTGT",
+		"id": "HMAGWTGT",
 		"type": "book",
 		"title": "جامع البيان في تفسير القرآن",
 		"publisher": "al-Maṭbaʿa al-mīniyya",
@@ -5728,7 +5728,7 @@ var ourData = [
 		"issued": "1321h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K8AFIP2U",
+		"id": "K8AFIP2U",
 		"type": "book",
 		"title": "The Qoran with The Commentary of the Imam Aboo al-Qasim Mahmood bin 'Omar al-Zamakhshari entitled \"The Kashshaf 'an Haqaiq al-Tanzil\"",
 		"publisher": "Printed and Published by W. Nassau Lees",
@@ -5740,7 +5740,7 @@ var ourData = [
 		"issued": "1856"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6W9N5DBZ",
+		"id": "6W9N5DBZ",
 		"type": "book",
 		"title": "تنزيل الآيات على الشواهد من الأبيات شرح شواهد الكشاف",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-sharfiyya",
@@ -5752,7 +5752,7 @@ var ourData = [
 		"issued": "1307h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AAJ24WGW",
+		"id": "AAJ24WGW",
 		"type": "book",
 		"title": "كتاب الإصابة في تمييز الصحابة",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -5765,7 +5765,7 @@ var ourData = [
 		"issued": "1323h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5XAVVNA3",
+		"id": "5XAVVNA3",
 		"type": "book",
 		"title": "أنوار التنزيل وأسرار التأويل",
 		"publisher": "al-Maṭbaʿa al-mīniyya",
@@ -5778,7 +5778,7 @@ var ourData = [
 		"issued": "1320h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/383K6AH5",
+		"id": "383K6AH5",
 		"type": "book",
 		"title": "Sechster Band des Kitâb Baġdâd",
 		"publisher": "Otto Harrassowitz",
@@ -5790,7 +5790,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8FZIS3DW",
+		"id": "8FZIS3DW",
 		"type": "book",
 		"title": "The Kāmil of El-Mubarrad",
 		"publisher": "G. Kreysing",
@@ -5802,7 +5802,7 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EZGJESD4",
+		"id": "EZGJESD4",
 		"type": "book",
 		"title": "Pars reliqua libri as-sojutii de nominibus relativis, inscripti",
 		"publisher": "Apud S. & J. Luchtmans",
@@ -5814,7 +5814,7 @@ var ourData = [
 		"issued": "1842"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H5GV2UQQ",
+		"id": "H5GV2UQQ",
 		"type": "book",
 		"title": "جامع الشواهد",
 		"shortTitle": "Jāmiʿ al-shawāhid",
@@ -5822,7 +5822,7 @@ var ourData = [
 		"author": " Mullā Muḥammad Bāqir al-Sharīf"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q9DDS7VD",
+		"id": "Q9DDS7VD",
 		"type": "book",
 		"title": "Le livre de la création et de l'histoire de Moṭahhar ben Ṭâhir el-Maqdisî",
 		"publisher": "Ernest Leroux, Éditeur",
@@ -5835,7 +5835,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4V8ZXS7D",
+		"id": "4V8ZXS7D",
 		"type": "book",
 		"title": "Abû 'l-Maḥâsin ibn Taghrî Birdî's Annals",
 		"publisher": "University of California Press",
@@ -5848,7 +5848,7 @@ var ourData = [
 
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AA5G95JQ",
+		"id": "AA5G95JQ",
 		"type": "book",
 		"title": "مجاني الأدب في حدائق العرب",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -5860,14 +5860,14 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4FNPTCR5",
+		"id": "4FNPTCR5",
 		"type": "book",
 		"title": "تفسير ما ورد من الغريب في مجاني الأدب",
 		"shortTitle": "Tafsīr mā warada min al-gharīb fī majānī al-adab",
 		"callnumber": "XVI C 162"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AXURK5HA",
+		"id": "AXURK5HA",
 		"type": "book",
 		"title": "ريحانة الألبا وزهرة الحياة الدنيا",
 		"shortTitle": "Rīḥānat al-albā wa-zahrat al-ḥayāt al-dunyā",
@@ -5876,7 +5876,7 @@ var ourData = [
 		"issued": "1306h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J5RXSVHR",
+		"id": "J5RXSVHR",
 		"type": "book",
 		"title": "شرح مجاني الأدب في حدائق العرب",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -5888,7 +5888,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9JE98WFK",
+		"id": "9JE98WFK",
 		"type": "book",
 		"title": "The Tajârib al-Umam or History of Ibn Miskawayh",
 		"publisher": "E.J. Brill",
@@ -5900,7 +5900,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F93BADZ9",
+		"id": "F93BADZ9",
 		"type": "book",
 		"title": "Das Leben Mohammed's",
 		"publisher": "Verlag der J.B. Metzler'schen Buchhandlung",
@@ -5913,7 +5913,7 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RJZIEXNR",
+		"id": "RJZIEXNR",
 		"type": "book",
 		"title": "History of Muhammad's Campaigns",
 		"publisher": "Printed by J. Thomas, Baptist Mission Press",
@@ -5925,7 +5925,7 @@ var ourData = [
 		"issued": "1856"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9A3XV573",
+		"id": "9A3XV573",
 		"type": "book",
 		"title": "Agapius Episcopus Mabbugensis",
 		"publisher": "E Typographeo Catholico",
@@ -5937,7 +5937,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U6XKDHAI",
+		"id": "U6XKDHAI",
 		"type": "book",
 		"title": "El-Khazrejí's History of the Resúlí Dynasty of Yemen",
 		"abstract": "Text: Part I\nE.J.W. Gibb Memorial. Volume III, 4",
@@ -5945,7 +5945,7 @@ var ourData = [
 		"editor": "M. 'Asal"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NW7537M4",
+		"id": "NW7537M4",
 		"type": "book",
 		"title": "Arabische Beduinenerzählungen",
 		"publisher": "Verlag von Karl J. Trübner",
@@ -5957,7 +5957,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P9IFH2WZ",
+		"id": "P9IFH2WZ",
 		"type": "book",
 		"title": "Cosmographie de Chems-ed-Din Abou Abdallah Mohammed ed-Dimichqui",
 		"publisherplace": "Saint Petersburg",
@@ -5968,7 +5968,7 @@ var ourData = [
 		"issued": "1866"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D6IGISXE",
+		"id": "D6IGISXE",
 		"type": "manuscript",
 		"title": "مجموع القصائد",
 		"abstract": "فهرست القصائد",
@@ -5976,7 +5976,7 @@ var ourData = [
 		"callnumber": "XVI C 172"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S5C6QADJ",
+		"id": "S5C6QADJ",
 		"type": "book",
 		"title": "شرح ديباجة القاموس",
 		"publisher": "al-Maṭbaʿa al-ḥusayniyya al-miṣriyya",
@@ -5988,7 +5988,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RJNKU77X",
+		"id": "RJNKU77X",
 		"type": "book",
 		"title": "شرحي صحيح الإمام البخاري",
 		"publisher": "al-Maṭbaʿa al-mīniyya",
@@ -6002,7 +6002,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A678W2Q2",
+		"id": "A678W2Q2",
 		"type": "book",
 		"title": "The Kitāb al-Ansāb of ʿAbd al-Karīm ibn Muḥammad al-Samʿānī",
 		"publisher": "E.J. Brill",
@@ -6014,7 +6014,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RBZWBB4E",
+		"id": "RBZWBB4E",
 		"type": "book",
 		"title": "شرح العلامة الأديب الفهامة الألمعي الأريب",
 		"publisher": "al-Maṭbaʿa al-mīriyya",
@@ -6028,7 +6028,7 @@ var ourData = [
 		"issued": "1299h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MXWQVSZS",
+		"id": "MXWQVSZS",
 		"type": "book",
 		"title": "صحاح الجوهري",
 		"numberofvolumes": "2",
@@ -6039,7 +6039,7 @@ var ourData = [
 		"issued": "1282h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G4K9G87G",
+		"id": "G4K9G87G",
 		"type": "book",
 		"title": "al-Mostaṭraf",
 		"publisher": "Ernest Leroux, Éditeur",
@@ -6052,7 +6052,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7N8FVKVI",
+		"id": "7N8FVKVI",
 		"type": "book",
 		"title": "تاج العروس من جواهر القاموس",
 		"publisher": "al-Maṭbaʿa al-khayriyya",
@@ -6066,7 +6066,7 @@ var ourData = [
 		"issued": "1306h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6UPBIWB3",
+		"id": "6UPBIWB3",
 		"type": "book",
 		"title": "Grosse Zusammenstellung über die Kräfte der Bekannten einfachen Heil- und Nahrungsmittel",
 		"publisher": "Hallberger'sche Verlagshandlung",
@@ -6079,7 +6079,7 @@ var ourData = [
 		"issued": "1840"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/45I258RA",
+		"id": "45I258RA",
 		"type": "book",
 		"title": "لسان العرب",
 		"publisher": "al-Maṭbaʿa al-kubrā al-mīriyya",
@@ -6093,7 +6093,7 @@ var ourData = [
 		"issued": "1300h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A7CXXNNT",
+		"id": "A7CXXNNT",
 		"type": "book",
 		"title": "العقد الفريد",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-sharfiyya",
@@ -6107,7 +6107,7 @@ var ourData = [
 		"issued": "1316h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JP4QC8AH",
+		"id": "JP4QC8AH",
 		"type": "book",
 		"title": "الحاشية الموسومة بظواهر الكواكب لبواهر المواكب على شرح العلاقة الإمام نور الدين أبي الحسن علي بن محمد الأشموني الشافعي المعنون منهج السالك إلى ألفية ابن مالك",
 		"publisher": "Maṭbaʿat al-dawla al-tūnisiyya al-maḥrūsa",
@@ -6120,7 +6120,7 @@ var ourData = [
 		"issued": "1290h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5CDTA54",
+		"id": "F5CDTA54",
 		"type": "book",
 		"title": "السفر الأول من كتاب المخصص",
 		"publisher": "al-Maṭbaʿa al-kubrā al-amīriyya",
@@ -6134,7 +6134,7 @@ var ourData = [
 		"issued": "1316h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S2R6GVBF",
+		"id": "S2R6GVBF",
 		"type": "book",
 		"title": "Jacut's Geographisches Wörterbuch",
 		"publisher": "F.A. Brockhaus",
@@ -6148,7 +6148,7 @@ var ourData = [
 		"issued": "1866"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FFHTW5FU",
+		"id": "FFHTW5FU",
 		"type": "book",
 		"title": "Das geographische Wörterbuch",
 		"publisher": "Deuerlich'sche Buchhandlung",
@@ -6161,7 +6161,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F66WPAX8",
+		"id": "F66WPAX8",
 		"type": "book",
 		"title": "Ad-Damîrî's Ḥayât al-Ḥayawân",
 		"publisher": "Luzac & Co.",
@@ -6173,7 +6173,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DJS6I74Z",
+		"id": "DJS6I74Z",
 		"type": "book",
 		"title": "أساس البلاغة",
 		"publisher": "Maṭbaʿat dār al-kutub al-miṣriyya",
@@ -6186,7 +6186,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CIMW6E6H",
+		"id": "CIMW6E6H",
 		"type": "book",
 		"title": "أقراب الموارد في فصح العربية والشوارد",
 		"publisher": "Maṭbaʿa Mursalī al-yasūʿiyya",
@@ -6199,7 +6199,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W63PQQJK",
+		"id": "W63PQQJK",
 		"type": "book",
 		"title": "الحيوان",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -6212,7 +6212,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GHXHC2Z5",
+		"id": "GHXHC2Z5",
 		"type": "book",
 		"title": "مغنى اللبيب",
 		"numberofvolumes": "2",
@@ -6223,7 +6223,7 @@ var ourData = [
 		"issued": "1303h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SKPV52NH",
+		"id": "SKPV52NH",
 		"type": "book",
 		"title": "Kitāb al-Maḥāsin val-Masāvī",
 		"publisher": "J. Ricker'sche Verlagsbuchhandlung",
@@ -6235,7 +6235,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K2SRD7WV",
+		"id": "K2SRD7WV",
 		"type": "book",
 		"title": "Sachindex zu Bokhārī",
 		"publisherplace": "Stuttgart",
@@ -6246,7 +6246,7 @@ var ourData = [
 		"issued": "1923"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/68RZHANA",
+		"id": "68RZHANA",
 		"type": "book",
 		"title": "Vocabulaire du recueil de Bokhârî",
 		"publisherplace": "Stuttgart",
@@ -6256,7 +6256,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZE96AHMP",
+		"id": "ZE96AHMP",
 		"type": "article-journal",
 		"title": "Vom Klosterbuch des Šâbuštî",
 		"container-title": "Abhandlungen der Preussischen Akademie der Wissenschaften",
@@ -6266,7 +6266,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B8XVTXAW",
+		"id": "B8XVTXAW",
 		"type": "book",
 		"title": "Das arabische Märchen vom Doctor und Garkoch",
 		"publisher": "Verlag Königl. Akademie der Wissenschaften",
@@ -6278,7 +6278,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V9XIBU9P",
+		"id": "V9XIBU9P",
 		"type": "book",
 		"title": "قطر الندا",
 		"publisher": "al-Maṭbaʿa al-ʿāmira",
@@ -6290,7 +6290,7 @@ var ourData = [
 		"issued": "1253h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z3BTBIGG",
+		"id": "Z3BTBIGG",
 		"type": "book",
 		"title": "كتاب عيون الأخبار",
 		"publisher": "Maṭbaʿa dār al-kutub al-miṣriyya",
@@ -6303,7 +6303,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4FJIARB3",
+		"id": "4FJIARB3",
 		"type": "book",
 		"title": "Das Steinbuch aus der Kosmographie",
 		"publisher": "Druck von Max Schmersow vorm. Zahn & Baendel",
@@ -6315,7 +6315,7 @@ var ourData = [
 		"editor": "J. Ruska"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9HG3UFC4",
+		"id": "9HG3UFC4",
 		"type": "book",
 		"title": "Sui Poeti",
 		"abstract": "Citati nell' Opera \nخزانة الأدب ونسب لباب لسان العرب\nBulaq 1299, 4, vol. in-4º di 580, 564, 674, e 598 pagg.",
@@ -6323,7 +6323,7 @@ var ourData = [
 		"author": "I. Guidi"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DFSSKT5U",
+		"id": "DFSSKT5U",
 		"type": "book",
 		"title": "Carmen maksura dictum",
 		"publisher": "Typis Excudebat Fabritius de Tengnagel",
@@ -6335,7 +6335,7 @@ var ourData = [
 		"issued": "1828"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BDMECREB",
+		"id": "BDMECREB",
 		"type": "book",
 		"title": "كتاب المخاضرات",
 		"shortTitle": "Kitāb al-mukhāḍarāt",
@@ -6343,7 +6343,7 @@ var ourData = [
 		"author": " al-Ḥassan bin Saʿūd al-Yūsī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KX3FG89W",
+		"id": "KX3FG89W",
 		"type": "book",
 		"title": "Kitâb aš-šaġar",
 		"publisher": "Druck von Max Schmersow",
@@ -6355,7 +6355,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G2GSKTQF",
+		"id": "G2GSKTQF",
 		"type": "book",
 		"title": "شواهد القطر",
 		"shortTitle": "Shawāhid al-quṭr",
@@ -6364,7 +6364,7 @@ var ourData = [
 		"issued": "1292h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PW4B27NI",
+		"id": "PW4B27NI",
 		"type": "book",
 		"title": "Aurtikel aus Qazwînîs Āthâr al-bilâd",
 		"publisher": "Mayer et Müller",
@@ -6376,7 +6376,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H7VGZZN8",
+		"id": "H7VGZZN8",
 		"type": "book",
 		"title": "Die Abschnitte über die Geister und wunderbaren Geschöpfe aus Qazwînî's Kosmographie",
 		"publisher": "Druck von Max Schmersow vorm. Zahn & Baendel",
@@ -6388,7 +6388,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P2ZQ5MI7",
+		"id": "P2ZQ5MI7",
 		"type": "book",
 		"title": "فصل القضاء في الفرق بين الضاد والظاء",
 		"publisher": "Maṭbaʿat al-shābinadr",
@@ -6400,7 +6400,7 @@ var ourData = [
 		"issued": "1328h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HEXWIDTJ",
+		"id": "HEXWIDTJ",
 		"type": "book",
 		"title": "Indices to the Poetical Citations in the Kitāb al-Amālī of Abū ʿAlī Ismāʿīl ibn al-Ḳāsim al-Ḳālī",
 		"publisher": "E.J. Brill",
@@ -6412,7 +6412,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P77CK6ZP",
+		"id": "P77CK6ZP",
 		"type": "book",
 		"title": "Die Faraġ baʿd aš-šidda-Litteratur",
 		"publisher": "Karl J. Trübner",
@@ -6424,7 +6424,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MEFKIQ8Q",
+		"id": "MEFKIQ8Q",
 		"type": "book",
 		"title": "Sīrat Saif ibn Dhī Jazan",
 		"publisher": "Orient-buchhandlung Heinz Lafaire K.-G.",
@@ -6436,7 +6436,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T3X2QZPQ",
+		"id": "T3X2QZPQ",
 		"type": "book",
 		"title": "De Wâqidii libro qui Kitâb al-Maġâzî",
 		"publisher": "Mayer et Müller",
@@ -6448,7 +6448,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7MJZ52AU",
+		"id": "7MJZ52AU",
 		"type": "book",
 		"title": "Fünf Streitfragen der Baṣrenser und Kûfenser über die Abwandlung des Nomen",
 		"publisher": "In Commision bei Carl Gerold's Sohn",
@@ -6460,13 +6460,13 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SPI3D5KP",
+		"id": "SPI3D5KP",
 		"type": "manuscript",
 		"callnumber": "XVI D 41",
 		"issued": "1128H"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PCQPXAST",
+		"id": "PCQPXAST",
 		"type": "book",
 		"title": "كتاب الأمالي",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -6479,7 +6479,7 @@ var ourData = [
 		"issued": "1324h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4K7RCSX2",
+		"id": "4K7RCSX2",
 		"type": "book",
 		"title": "The History of the Governors of Egypt",
 		"publisher": "Columbia University Press",
@@ -6492,7 +6492,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JWNH67Z8",
+		"id": "JWNH67Z8",
 		"type": "book",
 		"title": "Zur Charakteristik Ġelâl ud-Dîn us-Sujûṭî's und seinen Literarischen Thätigkeit",
 		"publisher": "In Commision bei Carl Gerold's Sohn",
@@ -6503,7 +6503,7 @@ var ourData = [
 		"issued": "1871"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3BESI966",
+		"id": "3BESI966",
 		"type": "book",
 		"title": "Das kitâb el-maḥâsin wa 'l-masâwî",
 		"publisherplace": "Stuttgart",
@@ -6515,7 +6515,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DDE4DZCW",
+		"id": "DDE4DZCW",
 		"type": "book",
 		"title": "An Arabic Reading-Book",
 		"publisher": "Willliams and Norgate",
@@ -6527,7 +6527,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FXHKFCR5",
+		"id": "FXHKFCR5",
 		"type": "book",
 		"title": "Ibn Qutaiba's ʿUjûn al-Aḥbâr",
 		"publisher": "Emil Felber",
@@ -6539,14 +6539,14 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6J3J76PQ",
+		"id": "6J3J76PQ",
 		"type": "article-journal",
 		"title": "Aus dem Tahḍīb al-luġa al-Azharī's",
 		"callnumber": "XVI D 48",
 		"author": "K.V. Zettersteen"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S5FIB2ZV",
+		"id": "S5FIB2ZV",
 		"type": "article-journal",
 		"title": "Die Entstehung von tausendundeine Nacht",
 		"container-title": "La Revue des Nations - The Review of Nations",
@@ -6557,7 +6557,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SE6UXTRV",
+		"id": "SE6UXTRV",
 		"type": "book",
 		"title": "I.E. donum wardianum carmen didacticum de linguae arabicae grammatica a zain-ud-dîn ibn al-wardî compositum",
 		"publisher": "Typis Grassi, Barthii et Soc.",
@@ -6569,7 +6569,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U28MMD5J",
+		"id": "U28MMD5J",
 		"type": "book",
 		"title": "Le Prologue-Cadre des Mille et une Nuits",
 		"publisher": "Librairie Victor Lecoffre",
@@ -6581,13 +6581,13 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HHQEDNTF",
+		"id": "HHQEDNTF",
 		"type": "article-journal",
 		"title": "Homère et les Mille et une nuits",
 		"callnumber": "XVI D 52"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UMV4BQZE",
+		"id": "UMV4BQZE",
 		"type": "book",
 		"title": "مجمل الغة",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -6599,7 +6599,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5A4GGNVF",
+		"id": "5A4GGNVF",
 		"type": "book",
 		"title": "قصة الحارث ولبنا",
 		"publisher": "Aus der Kaiserlich-Königlichen Hof- und Staatsdruckerei",
@@ -6611,7 +6611,7 @@ var ourData = [
 		"issued": "1873"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B2BPRICT",
+		"id": "B2BPRICT",
 		"type": "book",
 		"title": "Sachindex zu Wüstenfeld's Ausgabe von Jâqût's ,,muʿġam el-buldân''",
 		"publisherplace": "Stuttgart",
@@ -6621,14 +6621,14 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GUTGK78I",
+		"id": "GUTGK78I",
 		"type": "article-journal",
 		"title": "Zum Verständniss des Sîbawaihi",
 		"abstract": "Eine Erwiderung",
 		"callnumber": "XVI D 56"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8JXP5J5C",
+		"id": "8JXP5J5C",
 		"type": "book",
 		"title": "Il ''kitāb al-'āġurrūmiyyah,,",
 		"publisher": "Casa Editrice Italiana",
@@ -6639,13 +6639,13 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7PWD2ZII",
+		"id": "7PWD2ZII",
 		"type": "article-journal",
 		"title": "Verbesserungen zu Broch's Ausgabe von az-Zamaḥšarî's Unmûḍag",
 		"callnumber": "XVI D 58"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5AHWPRJ8",
+		"id": "5AHWPRJ8",
 		"type": "book",
 		"title": "Iqlid al Khizana",
 		"publisher": "The University of the Punjab",
@@ -6656,14 +6656,14 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/28E4AWK6",
+		"id": "28E4AWK6",
 		"type": "article-journal",
 		"title": "Märchen und Legenden aus der syrisch-arabischen Wüste",
 		"callnumber": "XVI D 60",
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VZFPGVGT",
+		"id": "VZFPGVGT",
 		"type": "book",
 		"title": "كتاب الألفاظ الكتابية",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -6675,7 +6675,7 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3H5B37I3",
+		"id": "3H5B37I3",
 		"type": "book",
 		"title": "Etymologie Arabo-Syriaque",
 		"publisherplace": "Beirut",
@@ -6685,12 +6685,12 @@ var ourData = [
 		"author": "J. Hobeika"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5AK8A8UM",
+		"id": "5AK8A8UM",
 		"type": "manuscript",
 		"callnumber": "XVI D 63"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P2JT2GSP",
+		"id": "P2JT2GSP",
 		"type": "book",
 		"title": "كتاب غريب القرآن",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -6703,7 +6703,7 @@ var ourData = [
 		"issued": "1325h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XSXKM8KU",
+		"id": "XSXKM8KU",
 		"type": "book",
 		"title": "كفاية المتحفظ ونهاية المتلفظ في اللغة العربية",
 		"publisher": "Maṭbaʿat wādī al-nayl",
@@ -6716,7 +6716,7 @@ var ourData = [
 		"issued": "1287h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V95TQDAQ",
+		"id": "V95TQDAQ",
 		"type": "book",
 		"title": "كتاب الأجرومية",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -6728,7 +6728,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5PUFKZ5X",
+		"id": "5PUFKZ5X",
 		"type": "book",
 		"title": "رواية",
 		"abstract": "عذراء دنشواي\nرواية أخلاقية غرامية فكاهية نشرت في جريدة المنبر تباعا تتضمن حادثة اعتداء أهالى دنشواى على ضباط فرقة الدراجون من الجيش الانجليزي في يوم ١٣ يونيه سنة ١٩٠٦\nالطبعة الثانية",
@@ -6737,7 +6737,7 @@ var ourData = [
 		"author": " Maḥmūd Ṭāhir Ḥaqqī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EQA9G3E2",
+		"id": "EQA9G3E2",
 		"type": "book",
 		"title": "Selections from Arabic Geographical Literature",
 		"publisher": "E.J. Brill",
@@ -6748,14 +6748,14 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GQGCBS64",
+		"id": "GQGCBS64",
 		"type": "article-journal",
 		"title": "Das Pflanzenbuch des Abû Ḥanîfa Aḥmed ibn Dâʾûd ad-Dînawarî: Ein Beitrag zur Geschichte der Botanik bei den Arabern",
 		"callnumber": "XVI D 69",
 		"author": "B. Silberberg"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PZAQDMII",
+		"id": "PZAQDMII",
 		"type": "book",
 		"title": "كتاب قلائد الذهب في فصيح لغة العرب",
 		"publisher": "al-Maṭbaʿa al-kubrā al-amīriyya",
@@ -6768,7 +6768,7 @@ var ourData = [
 		"issued": "1311h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/696C3H39",
+		"id": "696C3H39",
 		"type": "book",
 		"title": "Die Weisen Narren des Naisābūrī",
 		"publisher": "Verlag von Karl J. Trübner",
@@ -6780,7 +6780,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CCEXSWKF",
+		"id": "CCEXSWKF",
 		"type": "book",
 		"title": "كتاب فقه اللغة",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -6792,7 +6792,7 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7388SM8J",
+		"id": "7388SM8J",
 		"type": "book",
 		"title": "الجمل",
 		"publisher": "Maṭbaʿa jūl kūbūnal al-jazāʾī",
@@ -6805,7 +6805,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AGXRMV2H",
+		"id": "AGXRMV2H",
 		"type": "book",
 		"title": "Die Geschichten und Anekdoten aus Qaljûbî's Nawâdir und Schirwânî's Nafhat el-Jemen",
 		"publisherplace": "Stuttgart",
@@ -6816,7 +6816,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q39EUKI8",
+		"id": "Q39EUKI8",
 		"type": "book",
 		"title": "Description de l'Afrique",
 		"publisher": "De l'Imprimerie impériale royale de cour et d'état",
@@ -6828,7 +6828,7 @@ var ourData = [
 		"issued": "1852"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RPJHNPSM",
+		"id": "RPJHNPSM",
 		"type": "book",
 		"title": "Ṭaʿlab's Kitâb al-Faṣjḥ",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -6840,7 +6840,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/533322DK",
+		"id": "533322DK",
 		"type": "book",
 		"title": "كتاب الألفاظ الفارسية المعربة",
 		"publisher": "Maṭbaʿat al-abāʾ al-yasūʿiyyīn",
@@ -6851,7 +6851,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PRR6D7BZ",
+		"id": "PRR6D7BZ",
 		"type": "book",
 		"title": "Le livre de Sîbawaihi",
 		"publisher": "Imprimerie Nationale",
@@ -6864,7 +6864,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M2ZKJQDG",
+		"id": "M2ZKJQDG",
 		"type": "book",
 		"title": "Sîbawaihi's Buch über die Grammatik",
 		"publisher": "Verlag von Reuther & Reichard",
@@ -6877,7 +6877,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FXXD537G",
+		"id": "FXXD537G",
 		"type": "book",
 		"title": "كتاب ألف با",
 		"numberofvolumes": "2",
@@ -6886,7 +6886,7 @@ var ourData = [
 		"author": " Abū al-Ḥajāj Yūsuf bin Muḥammad al-Balawī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DN66C93S",
+		"id": "DN66C93S",
 		"type": "book",
 		"title": "حاشية العلامة الصنان على شرح العلامة الأشموني على ألفية ابن مالك في النحو",
 		"publisher": "al-Maṭbaʿa al-wahbiyya",
@@ -6898,7 +6898,7 @@ var ourData = [
 		"issued": "1298h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9PWF2CV5",
+		"id": "9PWF2CV5",
 		"type": "book",
 		"title": "كتاب الآمالي",
 		"publisher": "al-Maṭbaʿa al-kubrā al-amīriyya",
@@ -6911,7 +6911,7 @@ var ourData = [
 		"issued": "1324h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K9ZV7ZCT",
+		"id": "K9ZV7ZCT",
 		"type": "book",
 		"title": "كتاب أساس البلاغة",
 		"publisher": "al-Maṭbaʿa al-wahbiyya",
@@ -6924,7 +6924,7 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GUX5HEFX",
+		"id": "GUX5HEFX",
 		"type": "book",
 		"title": "كتاب نجعة الرائد وشرعة الوارد في المترادف المتوارد",
 		"publisher": "Maṭbaʿat al-maʿārif",
@@ -6937,7 +6937,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/54M4PUR6",
+		"id": "54M4PUR6",
 		"type": "book",
 		"title": "المفردات في غريب القرآن",
 		"publisher": "al-Maṭbaʿa al-mīniyya",
@@ -6949,14 +6949,14 @@ var ourData = [
 		"issued": "1324h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VAT6HQZE",
+		"id": "VAT6HQZE",
 		"type": "book",
 		"title": "غرد الفوائد ودرر القلائد",
 		"shortTitle": "ġharad al-fawāʾid wa-durar al-qalāʾid",
 		"callnumber": "XVI D 86"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/95H6PRZZ",
+		"id": "95H6PRZZ",
 		"type": "book",
 		"title": "كتاب بغية الوعاه",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -6969,7 +6969,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TT3RSAUG",
+		"id": "TT3RSAUG",
 		"type": "book",
 		"title": "نهاية الأرب في فنون الأدب",
 		"publisher": "Maṭbaʿa dār al-kutub al-miṣriyya",
@@ -6982,7 +6982,7 @@ var ourData = [
 		"issued": "1923"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8QMWBBTI",
+		"id": "8QMWBBTI",
 		"type": "book",
 		"title": "شرح شواهد ابن عقيل على ألفية ابن مالك",
 		"publisher": "al-Maṭbaʿa al-mīniyya",
@@ -6995,7 +6995,7 @@ var ourData = [
 		"issued": "1308h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8T9E869T",
+		"id": "8T9E869T",
 		"type": "book",
 		"title": "شرح شواهد المغني",
 		"publisher": "al-Maṭbaʿa al-bahiyya",
@@ -7007,7 +7007,7 @@ var ourData = [
 		"issued": "1322h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SMW2ZQ3M",
+		"id": "SMW2ZQ3M",
 		"type": "book",
 		"title": "المصنف من الكلام على مغني ابن هشام",
 		"publisher": "al-Maṭbaʿa al-bahiyya",
@@ -7020,7 +7020,7 @@ var ourData = [
 		"issued": "1305h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/73EIGZQA",
+		"id": "73EIGZQA",
 		"type": "book",
 		"title": "كتاب المستطرف في كل من مستظرف",
 		"publisher": "al-Maṭbaʿa al-ʿuthmāniyya",
@@ -7033,7 +7033,7 @@ var ourData = [
 		"issued": "1304h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KDPHTQNF",
+		"id": "KDPHTQNF",
 		"type": "book",
 		"title": "كتاب همع الهوامع شرح جمع الجوامع",
 		"publisherplace": "Miṣr",
@@ -7045,7 +7045,7 @@ var ourData = [
 		"author": " Jalāl al-Dīn ʿAbd al-Raḥmān bin Abī Bakr al-Suyūṭī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TDJG7RBB",
+		"id": "TDJG7RBB",
 		"type": "book",
 		"title": "كتاب الدرر اللوامع على همع الهوامع شرح جمع الجوامع",
 		"publisher": "Maṭbaʿat al-jamāliyya",
@@ -7059,7 +7059,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TU9KN5AN",
+		"id": "TU9KN5AN",
 		"type": "manuscript",
 		"title": "كتاب شرح الشواهد",
 		"shortTitle": "Kitāb sharḥ al-shawāhid",
@@ -7067,7 +7067,7 @@ var ourData = [
 		"author": " Jalāl al-Dīn al-Suyūṭī al-Shāfiʿī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SM9XMDNH",
+		"id": "SM9XMDNH",
 		"type": "book",
 		"title": "محاضرات الأدباء ومحاورات الشعراء والبلغاء",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-sharfiyya",
@@ -7079,7 +7079,7 @@ var ourData = [
 		"issued": "1326h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9XT4RRQF",
+		"id": "9XT4RRQF",
 		"type": "book",
 		"title": "معاهد التنصيص",
 		"abstract": "هذا كتاب شرح شواهد التلخيص",
@@ -7088,7 +7088,7 @@ var ourData = [
 		"author": " ʿAbd al-Raḥīm bin ʿAbd al-Raḥmān bin Aḥmad al-ʿAbbāsī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V67VXTR5",
+		"id": "V67VXTR5",
 		"type": "book",
 		"title": "حاشية العلامة المحقق الدسوقي على شرح المختصر للعلامة سعد الدين التفتازاني على متن التلخيص مع الشرح المذكور في هامشها على التمام",
 		"publisher": "al-Maṭbaʿa al-nafīsa al-ʿuthmāniyya",
@@ -7099,7 +7099,7 @@ var ourData = [
 		"issued": "1307h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WQ5SQ7ZD",
+		"id": "WQ5SQ7ZD",
 		"type": "book",
 		"title": "Al-Hamdânî's Geographie der arabischen Halbinsel",
 		"publisher": "E.J. Brill",
@@ -7111,7 +7111,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/45T2U5CT",
+		"id": "45T2U5CT",
 		"type": "book",
 		"title": "سيلكوتي على المطول",
 		"publisherplace": "Istanbul",
@@ -7122,7 +7122,7 @@ var ourData = [
 		"issued": "1290"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KTKZ2JGE",
+		"id": "KTKZ2JGE",
 		"type": "book",
 		"title": "ألف ليلة وليلة",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-ʿuthmāniyya",
@@ -7133,7 +7133,7 @@ var ourData = [
 		"issued": "1311h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GA8DR9MW",
+		"id": "GA8DR9MW",
 		"type": "book",
 		"title": "Mille et un Contes, Récits & Légendes Arabes",
 		"publisher": "Librairie Orientale et Américaine",
@@ -7145,7 +7145,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5NS8ZG9",
+		"id": "F5NS8ZG9",
 		"type": "book",
 		"title": "Die grammatischen Streitfragen der Basrer und Kufrer",
 		"publisher": "E.J. Brill",
@@ -7158,14 +7158,14 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7U6TPXD8",
+		"id": "7U6TPXD8",
 		"type": "book",
 		"title": "Litterarum et artium statori tutori fautori munificentissimo",
 		"abstract": "Principi ac domino suo clementissimo fructuum quos regia adiutus liberalitate in itinere orientali collegit. Primitias rasce. Grato pioque animo consecravit",
 		"callnumber": "XVI D 103"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WUMXUQ2H",
+		"id": "WUMXUQ2H",
 		"type": "book",
 		"title": "Les cent et une nuits",
 		"publisher": "Librairie Orientale et Américaine",
@@ -7176,7 +7176,7 @@ var ourData = [
 		"author": "M. Gaudefroyes-Demombynes"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PHDD34PU",
+		"id": "PHDD34PU",
 		"type": "book",
 		"title": "Kosmographie",
 		"publisher": "Fues's Verlag",
@@ -7189,7 +7189,7 @@ var ourData = [
 		"issued": "1868"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AZ42AQNS",
+		"id": "AZ42AQNS",
 		"type": "book",
 		"title": "مجموعة رسائل",
 		"publisher": "Maṭbaʿa al-taqaddum bi-shāriʿ Muḥammad ʿAlī",
@@ -7201,7 +7201,7 @@ var ourData = [
 		"author": "Abū ʿUthmān ʿAmr bin Maḥbūb al- Jāḥiẓ"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z86EM447",
+		"id": "Z86EM447",
 		"type": "book",
 		"title": "شفاء الغليل فيما في كلام العرب من الدخيل",
 		"publisher": "al-Maṭbaʿa al-mīriyya",
@@ -7213,7 +7213,7 @@ var ourData = [
 		"issued": "1282h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RNMFKR5K",
+		"id": "RNMFKR5K",
 		"type": "book",
 		"title": "رحلة",
 		"publisher": "E.J. Brill",
@@ -7225,7 +7225,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A5UUAZB9",
+		"id": "A5UUAZB9",
 		"type": "book",
 		"title": "تمرين الطلاب على صناعة الأعراب",
 		"publisher": "al-Maṭbaʿa al-maymuniyya",
@@ -7237,7 +7237,7 @@ var ourData = [
 		"issued": "1325h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q67P924K",
+		"id": "Q67P924K",
 		"type": "book",
 		"title": "Le livre des idoles",
 		"publisher": "Imprimerie Bibliothèque Egyptienne",
@@ -7249,7 +7249,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8MX9CQ4F",
+		"id": "8MX9CQ4F",
 		"type": "book",
 		"title": "حاشية الشيخ الدسوقي على متن مغني اللبيب",
 		"numberofvolumes": "2",
@@ -7258,7 +7258,7 @@ var ourData = [
 		"author": " Ibn Hishām"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3UM4J2FS",
+		"id": "3UM4J2FS",
 		"type": "manuscript",
 		"title": "قاموس فروزابادي",
 		"abstract": "Superbe dictionnaire arabe manuscrit écrit en 1110 de l'Hégire par le fameux calligraphe Mohammed ibn ALi Ebi ul Maali ess Cherif ul Hamedani. 1 vol. (18x28) de 1200 pages très belle écriture Talik sur papier pelure indien, en cadrée d'un filet doré. Superbe (Sarloh) ornant la première page. Reliure simple en maroquin.",
@@ -7268,7 +7268,7 @@ var ourData = [
 		"issued": "1110h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TXXAG4NA",
+		"id": "TXXAG4NA",
 		"type": "book",
 		"title": "حاشية ... على شرح المحقق الجليل العلامة الهمام ابن عقيل على ألفية الإمام ابن مالك",
 		"publisher": "al-Maṭbaʿa al-kubrā al-mīriyya",
@@ -7281,7 +7281,7 @@ var ourData = [
 		"issued": "1302h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7NA79RB2",
+		"id": "7NA79RB2",
 		"type": "manuscript",
 		"title": "حاشية الفاضل حسن شلبي على شرح التلخص المطول",
 		"abstract": "Manuscrit arabe sur la littérature et la rethorique écrit en 1065 de l'Hégire. 1 vol. (19x32) de 506 pages. Reliure ancienne en cuir.",
@@ -7291,7 +7291,7 @@ var ourData = [
 		"issued": "1065h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8C4EXSU6",
+		"id": "8C4EXSU6",
 		"type": "book",
 		"title": "حاشية العلامة السجاعي على شرح القطر",
 		"publisher": "al-Maṭbaʿa al-maymuniyya",
@@ -7303,7 +7303,7 @@ var ourData = [
 		"author": " Ibn Hishām"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RBS5SMIA",
+		"id": "RBS5SMIA",
 		"type": "book",
 		"title": "شرح شذور الذهب في معرفة كلام العرب",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-sharfiyya",
@@ -7314,7 +7314,7 @@ var ourData = [
 		"issued": "1303h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EPQRT5P2",
+		"id": "EPQRT5P2",
 		"type": "book",
 		"title": "al-Mufaṣṣal",
 		"publisher": "Libraria P.T. Mallingii",
@@ -7326,7 +7326,7 @@ var ourData = [
 		"issued": "1879"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HDGKPPJ3",
+		"id": "HDGKPPJ3",
 		"type": "book",
 		"title": "لغة العرب",
 		"publisher": "Maṭbaʿat al-ādāb",
@@ -7336,7 +7336,7 @@ var ourData = [
 		"callnumber": "XVI D 118"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RFDKZITF",
+		"id": "RFDKZITF",
 		"type": "book",
 		"title": "Kosmographie",
 		"publisher": "Dieterischen Buchhandlung",
@@ -7349,7 +7349,7 @@ var ourData = [
 		"issued": "1849"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8KEK5XAA",
+		"id": "8KEK5XAA",
 		"type": "book",
 		"title": "أمالي السيد المرتضى",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -7363,7 +7363,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7Z2HNEMN",
+		"id": "7Z2HNEMN",
 		"type": "book",
 		"title": "أل عمده في صناعة الشعر ونقده",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -7376,7 +7376,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MHQ9K79W",
+		"id": "MHQ9K79W",
 		"type": "book",
 		"title": "كتاب مبادي اللغة",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -7389,7 +7389,7 @@ var ourData = [
 		"issued": "1325h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/735WRBHJ",
+		"id": "735WRBHJ",
 		"type": "book",
 		"title": "Manuel de la Cosmographie du Moyen Age",
 		"publisher": "Imprimerie de Bianco Luno",
@@ -7401,7 +7401,7 @@ var ourData = [
 		"issued": "1874"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MVQSGFG6",
+		"id": "MVQSGFG6",
 		"type": "book",
 		"title": "Sībawaihi's Lautlehre",
 		"publisher": "E.J. Brill",
@@ -7413,7 +7413,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RRTIBJXE",
+		"id": "RRTIBJXE",
 		"type": "book",
 		"title": "كتاب الجبال والأمكنة والمياة",
 		"publisher": "E.J. Brill",
@@ -7425,7 +7425,7 @@ var ourData = [
 		"issued": "1855"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H5RGBMZN",
+		"id": "H5RGBMZN",
 		"type": "book",
 		"title": "كتاب الفرج بعد الشدة",
 		"publisher": "Maṭbaʿat al-Hilāl",
@@ -7437,7 +7437,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F6SQ3A33",
+		"id": "F6SQ3A33",
 		"type": "book",
 		"title": "Le livre es beautés et des antithèses",
 		"publisher": "E.J. Brill",
@@ -7449,7 +7449,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FDC2W7H6",
+		"id": "FDC2W7H6",
 		"type": "book",
 		"title": "تكميل المرام بشرح شواهر أبي هشام",
 		"shortTitle": "Takmīl al-murām bi-sharḥ shawāhir Abī Hishām",
@@ -7458,7 +7458,7 @@ var ourData = [
 		"issued": "1315h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PDPTGAES",
+		"id": "PDPTGAES",
 		"type": "book",
 		"title": "طراز المجالس",
 		"publisherplace": "Miṣr",
@@ -7469,7 +7469,7 @@ var ourData = [
 		"issued": "1284h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I8F3ZWAQ",
+		"id": "I8F3ZWAQ",
 		"type": "book",
 		"title": "كتاب محاضرة الأبرار ومسامرة الأخيار في الأدبيات والنوادر والأخبار",
 		"publisher": "al-Maṭbaʿa al-ʿuthmāniyya",
@@ -7480,7 +7480,7 @@ var ourData = [
 		"issued": "1305h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MBVH44SB",
+		"id": "MBVH44SB",
 		"type": "book",
 		"title": "كتاب ألفاظ الأشباه والنظائر",
 		"publisher": "Maṭbaʿa abū al-ḍiyā",
@@ -7493,7 +7493,7 @@ var ourData = [
 		"issued": "1302h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VEDZ28BK",
+		"id": "VEDZ28BK",
 		"type": "book",
 		"title": "Ibn al Ânbarî's Asrâr al ʿArabîya",
 		"publisher": "E.J. Brill",
@@ -7504,7 +7504,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NWKGE2RK",
+		"id": "NWKGE2RK",
 		"type": "book",
 		"title": "Le livre des avares",
 		"publisher": "E.J. Brill",
@@ -7516,7 +7516,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S3JTKRQQ",
+		"id": "S3JTKRQQ",
 		"type": "book",
 		"title": "Miḥâ'îl Ṣabbâġ's Grammatik der arabischen Umgangssprache in Syrien und Aegypten",
 		"publisher": "Verlag von Karl J. Trübner",
@@ -7528,7 +7528,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QXDQZF74",
+		"id": "QXDQZF74",
 		"type": "book",
 		"title": "Die Alfîje des Ibn Muʿṭî",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -7540,7 +7540,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9U86W5VI",
+		"id": "9U86W5VI",
 		"type": "book",
 		"title": "Die historischen und geographischen Quellen in Jāqūt's Geographischem Wörterbuch",
 		"publisher": "Karl J. Trübner",
@@ -7551,7 +7551,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W9PVT69A",
+		"id": "W9PVT69A",
 		"type": "book",
 		"title": "كتاب درة الغواص في أوهام الخواص",
 		"publisher": "Maṭbaʿat al-jawāʾib",
@@ -7564,7 +7564,7 @@ var ourData = [
 		"issued": "1299h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N6CKX5SM",
+		"id": "N6CKX5SM",
 		"type": "book",
 		"title": "Al-Ḥarîrî's Durrat-al-Ġawwâṣ",
 		"publisher": "Verlag von F.C.W. Vogel",
@@ -7575,7 +7575,7 @@ var ourData = [
 		"issued": "1834"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/34AQIQBP",
+		"id": "34AQIQBP",
 		"type": "book",
 		"title": "شواهد",
 		"shortTitle": "Shawāhid",
@@ -7584,7 +7584,7 @@ var ourData = [
 		"issued": "1280h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J34769PX",
+		"id": "J34769PX",
 		"type": "book",
 		"title": "Die Kharidschitenkapitel aus dem Kâmil",
 		"publisherplace": "Stuttgart",
@@ -7595,7 +7595,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8T4GKKKM",
+		"id": "8T4GKKKM",
 		"type": "book",
 		"title": "كتاب تحفة المجالس ونزهة المجالس",
 		"publisher": "Maṭbaʿat al-saʿāda",
@@ -7608,7 +7608,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JWDDURVX",
+		"id": "JWDDURVX",
 		"type": "book",
 		"title": "شرح شواهد شذور الذهب في معرفة كلام العرب",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-ʿuthmāniyya",
@@ -7620,7 +7620,7 @@ var ourData = [
 		"issued": "1304h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RV7P44J7",
+		"id": "RV7P44J7",
 		"type": "book",
 		"title": "المنجد",
 		"publisher": "al-Maṭbaʿa al-kāthūlīkiyya li-ābāʾ al-yasūʿiyīn",
@@ -7632,13 +7632,13 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VPNVA8BZ",
+		"id": "VPNVA8BZ",
 		"type": "book",
 		"callnumber": "XVI D 144",
 		"issued": "1282h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UN3B586V",
+		"id": "UN3B586V",
 		"type": "book",
 		"title": "القصة الغائقة السنية والمجالس الرائقة البهية المسماة بزهر الكمام",
 		"publisher": "al-Maṭbaʿa al-ʿāmira al-ʿuthmāniyya",
@@ -7650,7 +7650,7 @@ var ourData = [
 		"issued": "1321h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NFFNQ636",
+		"id": "NFFNQ636",
 		"type": "book",
 		"title": "Molhat al-irab: ou les récréations grammaticales",
 		"publisher": "Librairie Orientale et Américaine",
@@ -7661,7 +7661,7 @@ var ourData = [
 		"author": "L. Pinto"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BCK2ZR24",
+		"id": "BCK2ZR24",
 		"type": "book",
 		"title": "Die Reise des Arabers Ibn Baṭūṭa durch Indien und China",
 		"publisher": "Gutenberg-Verlag",
@@ -7673,7 +7673,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W4WZZUBG",
+		"id": "W4WZZUBG",
 		"type": "book",
 		"title": "Ibn ʿAḳîl's Commentar zur Alfijja des Ibn Mâlik",
 		"publisher": "Ferd. Dümmler's Verlags-Buchhandlung",
@@ -7685,7 +7685,7 @@ var ourData = [
 		"issued": "1852"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P6KIKT3X",
+		"id": "P6KIKT3X",
 		"type": "book",
 		"title": "La pluie de rosée",
 		"publisher": "E.J. Brill",
@@ -7698,7 +7698,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G3CT3ZNS",
+		"id": "G3CT3ZNS",
 		"type": "book",
 		"title": "Geschichte von Sul und Schumul",
 		"publisher": "Verlag von M. Spirgatis",
@@ -7710,7 +7710,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H66SRZKM",
+		"id": "H66SRZKM",
 		"type": "book",
 		"title": "Kitâb al-Muwaššâ",
 		"publisher": "E.J. Brill",
@@ -7723,7 +7723,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QNTISQQU",
+		"id": "QNTISQQU",
 		"type": "book",
 		"title": "Neuarabische Geschichten aus dem Iraq",
 		"publisher": "J.C. Hinrich'ssche Buchhandlung",
@@ -7735,7 +7735,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JQ62VG2Z",
+		"id": "JQ62VG2Z",
 		"type": "book",
 		"title": "Catalogus Codicum Arabicorum",
 		"publisher": "E.J. Brill",
@@ -7747,7 +7747,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F373QUFD",
+		"id": "F373QUFD",
 		"type": "book",
 		"title": "Katalog der Bibliothek der deutschen morgenländischen Gesellschaft",
 		"publisher": "In Commission bei F.A. Brockhaus",
@@ -7759,7 +7759,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G2BNMR69",
+		"id": "G2BNMR69",
 		"type": "book",
 		"title": "Surnoms et Sobriquets dans  la littérature arabe",
 		"publisher": "Imprimerie Nationale",
@@ -7771,7 +7771,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HT8FQFNZ",
+		"id": "HT8FQFNZ",
 		"type": "book",
 		"title": "Geschichte der Arabischen Litteratur",
 		"publisher": "Verlag von Emil Felber",
@@ -7785,7 +7785,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/65CSJ4ZC",
+		"id": "65CSJ4ZC",
 		"type": "book",
 		"title": "Geschichte der Arabischen Litteratur",
 		"publisher": "C.F. Amelangs Verlag",
@@ -7797,7 +7797,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X6PXVZIN",
+		"id": "X6PXVZIN",
 		"type": "book",
 		"title": "Abriss der arabischen Litteraturgeschichte",
 		"publisherplace": "Stuttgart",
@@ -7807,7 +7807,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S3EDNK5Z",
+		"id": "S3EDNK5Z",
 		"type": "book",
 		"title": "A Hand-List of the Muḥammadan Manuscripts",
 		"publisher": "Cambridge University Press",
@@ -7819,7 +7819,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TXNTMSD5",
+		"id": "TXNTMSD5",
 		"type": "book",
 		"title": "Les manuscrits arabes de l'institut des langues orientales",
 		"publisherplace": "Saint Petersburg",
@@ -7830,7 +7830,7 @@ var ourData = [
 		"issued": "1877"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DPQJIDSS",
+		"id": "DPQJIDSS",
 		"type": "book",
 		"title": "خزائن الكتب في مشق وضواحيها",
 		"publisher": "Maṭbaʿat al-maʿārif",
@@ -7843,14 +7843,14 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XBZW2T6S",
+		"id": "XBZW2T6S",
 		"type": "article-journal",
 		"title": "Bulletin des périodiques de l'Islam",
 		"abstract": "1912-1913. Analecta Bollandiana",
 		"callnumber": "XVI G 10"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/46K33EZC",
+		"id": "46K33EZC",
 		"type": "book",
 		"title": "Bibliographie des ouvrages arabes",
 		"publisher": "Imprimerie H. Vaillant-Carmanne",
@@ -7863,7 +7863,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AC5QN4FV",
+		"id": "AC5QN4FV",
 		"type": "book",
 		"title": "Catalogue de manuscrits arabes",
 		"publisher": "E.J. Brill",
@@ -7875,7 +7875,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9D735PVU",
+		"id": "9D735PVU",
 		"type": "book",
 		"title": "Notices sommaires des manuscrits arabes du musée asiatique",
 		"publisherplace": "Saint Petersburg",
@@ -7886,7 +7886,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CXGH5UD9",
+		"id": "CXGH5UD9",
 		"type": "book",
 		"title": "Die arabischen, persischen und türkischen Handschriften der K.K. Orientalischen Akademie zu Wien",
 		"publisherplace": "Vienna",
@@ -7896,7 +7896,7 @@ var ourData = [
 		"issued": "1842"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/42Q9TC7N",
+		"id": "42Q9TC7N",
 		"type": "book",
 		"title": "Berliner Titeldrucke",
 		"publisher": "Verlag von Behrend & Co.",
@@ -7907,7 +7907,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QJWWVRNX",
+		"id": "QJWWVRNX",
 		"type": "book",
 		"title": "Bibliographie des oeuvres de Ignace Goldziher",
 		"publisher": "Imprimerie Nationale",
@@ -7918,7 +7918,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EVRVFR8N",
+		"id": "EVRVFR8N",
 		"type": "book",
 		"title": "Katalog der Orientalischen Handschriften der Stadtbibliothek zu Hamburg",
 		"publisher": "Otto Meissners Verlag",
@@ -7930,7 +7930,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FEUJVAKQ",
+		"id": "FEUJVAKQ",
 		"type": "book",
 		"title": "Catalogus Librorum Manu Scriptorum Orientalium",
 		"publisher": "Litteris Caroli Georgi",
@@ -7942,7 +7942,7 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T73XBSIW",
+		"id": "T73XBSIW",
 		"type": "book",
 		"title": "A Catalogue of the Arabic Manuscripts in the Library of the India Office",
 		"publisher": "Printed by Order of the Secretary of State for India in Council",
@@ -7953,7 +7953,7 @@ var ourData = [
 		"issued": "1877"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PAFUXHR2",
+		"id": "PAFUXHR2",
 		"type": "book",
 		"title": "Catalogue of Arabic Books in the British Museum",
 		"publisher": "Printed by Order of the Trustees of the British Museum",
@@ -7966,7 +7966,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NDN2JQXM",
+		"id": "NDN2JQXM",
 		"type": "book",
 		"title": "Die Arabischen, Persischen und Türkischen Handschriften der Kaiserlich-Königlichen Hofbibliothek zu Wien",
 		"publisher": "Druck und Verlag der K.K. Hof- und Staatsdruckerei",
@@ -7978,7 +7978,7 @@ var ourData = [
 		"issued": "1865"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TW2NCA55",
+		"id": "TW2NCA55",
 		"type": "book",
 		"title": "Die Handschriften-Verzeichnisse der Königlichen Bibliothek zu Berlin",
 		"publisher": "A. Asher & Co.",
@@ -7990,7 +7990,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9Q6PQRDE",
+		"id": "9Q6PQRDE",
 		"type": "book",
 		"title": "Catalogue des manuscrits arabes",
 		"publisher": "Imprimerie Nationale",
@@ -8001,7 +8001,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/REPS4SMG",
+		"id": "REPS4SMG",
 		"type": "book",
 		"title": "I Manoscritti Arabi, Persiani, Siriaci e Turchi",
 		"publisher": "Carlo Clausen",
@@ -8013,7 +8013,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K6E97CS8",
+		"id": "K6E97CS8",
 		"type": "book",
 		"title": "Katalog der Hebräischen, Arabischen, Persischen und Türkischen Handschriften der Kaiserlichen Universitäts- und Landesbibliothek zu Strassburg",
 		"publisher": "Verlag von Karl J. Trübner",
@@ -8024,7 +8024,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W9Q6MHXU",
+		"id": "W9Q6MHXU",
 		"type": "book",
 		"title": "Les manuscrits arabes de l'escurial",
 		"publisher": "Librairie orientaliste Paul Geuthner",
@@ -8036,7 +8036,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TVE2E69K",
+		"id": "TVE2E69K",
 		"type": "book",
 		"title": "Indices alphabetici codicum manu scriptorum persicorum turcicorum arabicorum qui in bibliotheca imperialis literarum universitatis petropolitanae adservantur",
 		"publisherplace": "Petropolis",
@@ -8046,14 +8046,14 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WKFUEQMK",
+		"id": "WKFUEQMK",
 		"type": "article-journal",
 		"title": "Mitteilungen aus Stambuler Bibliotheken",
 		"callnumber": "XVI G 30",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GRSFX3M5",
+		"id": "GRSFX3M5",
 		"type": "book",
 		"title": "Verzeichnis der Doktoren",
 		"publisher": "Buckdruckerei von Georg Schnürlen",
@@ -8065,14 +8065,14 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N6JP9DUD",
+		"id": "N6JP9DUD",
 		"type": "article-journal",
 		"title": "Special Collections in American Libraries: The Garrett Collections of Arabic Manuscripts at Princeton University Library",
 		"callnumber": "XVI G 32",
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AM7H6G9H",
+		"id": "AM7H6G9H",
 		"type": "book",
 		"title": "Publications orientales de la librairie et imprimerie",
 		"publisher": "E.J. Brill",
@@ -8082,7 +8082,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WMC2ZNQF",
+		"id": "WMC2ZNQF",
 		"type": "book",
 		"title": "I Manoscritti Sudarabici di Milano",
 		"publisher": "Casa Editrice Italiana",
@@ -8094,7 +8094,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WUIHPZ7N",
+		"id": "WUIHPZ7N",
 		"type": "book",
 		"title": "A Descriptive List of the Arabic Manuscripts Acquired by the Trustees of the British Museum since 1894",
 		"publisher": "Printed by Order of the Trustees of the British Museum",
@@ -8105,13 +8105,13 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RTA8EVKU",
+		"id": "RTA8EVKU",
 		"type": "article-journal",
 		"title": "Arabische Handschriften des Top Kapú Seraj",
 		"callnumber": "XVI G 37"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K5EBWPAH",
+		"id": "K5EBWPAH",
 		"type": "article-journal",
 		"title": "Über arabische manuskripte der Lālelī-moschee",
 		"abstract": "Nebst einigen andern, noch unbeschriebenen arabischen codices",
@@ -8119,7 +8119,7 @@ var ourData = [
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6WVMQTFT",
+		"id": "6WVMQTFT",
 		"type": "book",
 		"title": "Catalogue des manuscrits arabes persans et turcs",
 		"publisher": "Ernest Leroux, Éditeur",
@@ -8131,21 +8131,21 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FMWQNITA",
+		"id": "FMWQNITA",
 		"type": "article-journal",
 		"title": "Über einige arabische Handschriften der öffentlichen Bibliotheken in Konstantinopel",
 		"callnumber": "XVI G 40",
 		"author": "N. Rhodokanakis"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A43KPJD8",
+		"id": "A43KPJD8",
 		"type": "article-journal",
 		"title": "Arabische Handschriften der Köprülü-Bibliothek",
 		"callnumber": "XVI G 41",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G6GJCD6C",
+		"id": "G6GJCD6C",
 		"type": "book",
 		"title": "I manoscritti arabi",
 		"publisher": "Casa Editrice Italiana",
@@ -8157,7 +8157,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5DHXVRE",
+		"id": "F5DHXVRE",
 		"type": "book",
 		"title": "Essai de répertoire chronologique des éditions de Fès",
 		"publisher": "Ancienne Maison Bastide-Jourdan",
@@ -8169,7 +8169,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MXFUS2EX",
+		"id": "MXFUS2EX",
 		"type": "book",
 		"title": "Mitteilungen des Seminars für Orientalische Sprachen zu Berlin",
 		"publisher": "Reichsdruckerei",
@@ -8180,7 +8180,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AEJ6F793",
+		"id": "AEJ6F793",
 		"type": "book",
 		"title": "جامع الزيتونة عمره الله",
 		"publisher": "al-Maktaba al-ʿabdaliyya",
@@ -8188,7 +8188,7 @@ var ourData = [
 		"callnumber": "XVI G 45"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CN37V38H",
+		"id": "CN37V38H",
 		"type": "book",
 		"title": "Katalog der Islamischen, Christlich-Orientalischen, Jüdischen und Samaritanischen Handschriften der Universitäts-Bibliothek zu Leipzig",
 		"publisher": "Otto Harrassowitz",
@@ -8200,7 +8200,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IZEHPWPB",
+		"id": "IZEHPWPB",
 		"type": "book",
 		"title": "Die Arabischen Handschriften der Herzoglichen Bibliothek zu Gotha",
 		"publisher": "Friedr. Andr. Perthes",
@@ -8212,7 +8212,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P83AC6RC",
+		"id": "P83AC6RC",
 		"type": "book",
 		"title": "Die Arabischen Handschriften der K. Hof- und Staatsbibliothek in Muenchen",
 		"publisher": "In Commission der Palm'schen Hofbuchhandlung",
@@ -8223,13 +8223,13 @@ var ourData = [
 		"issued": "1866"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/84U7F5ZN",
+		"id": "84U7F5ZN",
 		"type": "article-journal",
 		"title": "Arabo settentrionale",
 		"callnumber": "XVI G 49"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E2S97PCJ",
+		"id": "E2S97PCJ",
 		"type": "book",
 		"title": "Bibliothèque",
 		"publisher": "Imprimerie Royale",
@@ -8241,14 +8241,14 @@ var ourData = [
 		"issued": "1842"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QK6AI3Z2",
+		"id": "QK6AI3Z2",
 		"type": "article-journal",
 		"title": "Die arabischen Handschriften der Sammlung Glaser in der königl. Hof- und Staats-bibliothek zu München",
 		"callnumber": "XVI G 51",
 		"author": "E. Gratzl"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3SX2PAIT",
+		"id": "3SX2PAIT",
 		"type": "book",
 		"title": "Bericht über die Ergebnisse einer zu wissenschaftlichen Zwecken mit Unterstützung der Kais. Akademie der Wissenschaften unternommenen Reise nach Constantinopel",
 		"publisher": "In Commision bei Carl Gerold's Sohn",
@@ -8259,7 +8259,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47VTU9AP",
+		"id": "47VTU9AP",
 		"type": "book",
 		"title": "Notice sommaire des manuscrits orientaux de deux bibliothèques de Lisbonne",
 		"publisher": "Imprimerie Nationale",
@@ -8271,7 +8271,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6GWBIVPF",
+		"id": "6GWBIVPF",
 		"type": "book",
 		"title": "A List of Arabic Manuscripts in Princeton University Library",
 		"publisher": "Princeton University Press",
@@ -8283,7 +8283,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2KF7JBRZ",
+		"id": "2KF7JBRZ",
 		"type": "article-journal",
 		"title": "Aus den Bibliotheken von Kairo, Damaskus und Konstantinopel",
 		"abstract": "Arabische Handschriften geschichtlichen Inhalts",
@@ -8291,7 +8291,7 @@ var ourData = [
 		"author": "J. Horovitz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3FX4RFSZ",
+		"id": "3FX4RFSZ",
 		"type": "book",
 		"title": "A List of Arabic Manuscripts in Princeton University Library",
 		"publisher": "Princeton University Press",
@@ -8303,14 +8303,14 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9X8DZACM",
+		"id": "9X8DZACM",
 		"type": "article-journal",
 		"title": "Book review: K. Vollers, Katalog der islamischen, christlich-orientalische, jüdischen und samaritanischen Handschriften der Universitäts-Bibliothek zu Leipzig",
 		"callnumber": "XVI G 57",
 		"author": "F. Kern"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QQ5IZB6B",
+		"id": "QQ5IZB6B",
 		"type": "book",
 		"title": "The Arabic and Turkish Manuscripts in the Newberry Library",
 		"publisher": "The Newberry Library",
@@ -8320,7 +8320,7 @@ var ourData = [
 		"author": "D.B. MacDonald"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2QTGN456",
+		"id": "2QTGN456",
 		"type": "chapter",
 		"title": "Bericht über die im Orient neu erschienenen arabischen Bücher",
 		"publisher": "J.B. Yahuda Orientalische Buchhandlung und Antiquariat",
@@ -8329,7 +8329,7 @@ var ourData = [
 		"callnumber": "XVI G 59"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BQV9MNDE",
+		"id": "BQV9MNDE",
 		"type": "book",
 		"title": "Notice sur les manuscrits Syriaques et Arabes conservés à l'archevêché Chaldéen de Diarbékir",
 		"publisher": "Imprimerie Nationale",
@@ -8341,7 +8341,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7SFD37CR",
+		"id": "7SFD37CR",
 		"type": "book",
 		"title": "Die arabischen Handschriften der Sammlung",
 		"publisher": "Rudolf Haupt Verlag",
@@ -8351,14 +8351,14 @@ var ourData = [
 		"author": "M. Hartmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/STDS6R84",
+		"id": "STDS6R84",
 		"type": "article-journal",
 		"title": "Über einige arabische Handschriften der Ḥamîdîé-Bibliothek",
 		"callnumber": "XVI G 62",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NC7ZA9Q6",
+		"id": "NC7ZA9Q6",
 		"type": "article-journal",
 		"title": "Notizen über einige arabische Handschriften aus Brussaer Bibliotheken",
 		"abstract": "Nebst Manuskripten der Selīm Aġá (Skutari) etc.",
@@ -8366,14 +8366,14 @@ var ourData = [
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CB5TFFU3",
+		"id": "CB5TFFU3",
 		"type": "article-journal",
 		"title": "Mitteilungen aus Stambuler Bibliotheken I.",
 		"callnumber": "XVI G 64",
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QM56EIFU",
+		"id": "QM56EIFU",
 		"type": "book",
 		"title": "Catalogo de los Manuscritos Árabes que se Conservan en la Universidad de Granada",
 		"publisher": "Tip. lit. de la Vda. é Hijos de Paulino V. Sabatel",
@@ -8384,7 +8384,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/66Q58AV4",
+		"id": "66Q58AV4",
 		"type": "book",
 		"title": "Guide de la Salle d'Exposition",
 		"publisher": "Imprimerie Nationale",
@@ -8395,7 +8395,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GACTZCVD",
+		"id": "GACTZCVD",
 		"type": "book",
 		"title": "Catalogue des manuscrits Syriaques et Arabes",
 		"publisher": "Imprimerie des Pères Dominicains",
@@ -8407,7 +8407,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9D84U497",
+		"id": "9D84U497",
 		"type": "book",
 		"title": "Katalog der Ausstellung von Handschriften aus dem islamischen Kulturkreis im Fürstensaal der K. Hof- u. Staatsbibliothek",
 		"publisherplace": "Munich",
@@ -8416,7 +8416,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RZCV48RP",
+		"id": "RZCV48RP",
 		"type": "book",
 		"title": "Die syrischen-Ramones der Synoden von Nicaea bis Chalcedon",
 		"publisherplace": "Berlin",
@@ -8426,13 +8426,13 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P7E6WX7W",
+		"id": "P7E6WX7W",
 		"type": "book",
 		"title": "Actes du quinzième congrès des Orientalistes",
 		"callnumber": "XVI V 71"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KFZIS6PX",
+		"id": "KFZIS6PX",
 		"type": "book",
 		"title": "Über Poesie und Poetik der Araber",
 		"publisherplace": "Gotha",
@@ -8442,7 +8442,7 @@ var ourData = [
 		"issued": "1856"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3IICFF9B",
+		"id": "3IICFF9B",
 		"type": "book",
 		"title": "Bemerkungen über die Echtheit der alten arabischen Gedichte",
 		"publisherplace": "Bamberg",
@@ -8452,7 +8452,7 @@ var ourData = [
 		"issued": "1872"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TRZPV5I9",
+		"id": "TRZPV5I9",
 		"type": "book",
 		"title": "Das Buch der Naturgegenstünde",
 		"publisherplace": "Kiel",
@@ -8462,7 +8462,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CVQC8NKI",
+		"id": "CVQC8NKI",
 		"type": "book",
 		"title": "Das Kitâb al-Wuhrîš",
 		"publisherplace": "Vienna",
@@ -8472,14 +8472,14 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2CBXECFG",
+		"id": "2CBXECFG",
 		"type": "book",
 		"title": "Selected and Supplementary Discoveries",
 		"callnumber": "XVI S 161",
 		"author": "A.E. Drake"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SQW3HXGM",
+		"id": "SQW3HXGM",
 		"type": "book",
 		"title": "Die heilige Schrift des Alten Testaments",
 		"publisherplace": "Leipzig",
@@ -8489,7 +8489,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NEBMGNE6",
+		"id": "NEBMGNE6",
 		"type": "book",
 		"title": "Essai sur l'Origine de l'Ecriture chez les Arabes",
 		"publisherplace": "Tunis",
@@ -8499,21 +8499,21 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5QI2VN6N",
+		"id": "5QI2VN6N",
 		"type": "book",
 		"title": "Analicta le Culte",
 		"callnumber": "XVI E 316",
 		"author": " Aphrodite"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PQ6CXA5S",
+		"id": "PQ6CXA5S",
 		"type": "book",
 		"title": "Schenke et Schenkin",
 		"callnumber": "XVI S 134",
 		"author": "V. Aptroizer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I4DUC2UX",
+		"id": "I4DUC2UX",
 		"type": "book",
 		"title": "De Opkomst van het zaidietische Imamat in Yemen",
 		"publisherplace": "Leiden",
@@ -8523,21 +8523,21 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FUS7S4ED",
+		"id": "FUS7S4ED",
 		"type": "book",
 		"title": "Die Völkertafeln der Genesis",
 		"callnumber": "XVI S 106",
 		"author": "Th. Asldt"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7H8R9DU5",
+		"id": "7H8R9DU5",
 		"type": "book",
 		"title": "Das كتاب im Quran",
 		"callnumber": "XVI E 209",
 		"author": "I. Augappid"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AC62RSX4",
+		"id": "AC62RSX4",
 		"type": "book",
 		"title": "Die Hedschasbalm",
 		"publisherplace": "Gotha",
@@ -8547,7 +8547,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NXHV6I6U",
+		"id": "NXHV6I6U",
 		"type": "book",
 		"title": "Die hebräischen arabische Poesie der Juden Yemens",
 		"publisherplace": "Strassburg",
@@ -8557,7 +8557,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HTFM52UT",
+		"id": "HTFM52UT",
 		"type": "book",
 		"title": "Das System der Hauze Orthographie",
 		"publisherplace": "Vienna",
@@ -8567,7 +8567,7 @@ var ourData = [
 		"issued": "1860"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EXI3HNN3",
+		"id": "EXI3HNN3",
 		"type": "book",
 		"title": "Die Nominalbildung zu den semitischen Sprachen",
 		"publisherplace": "Leipzig",
@@ -8577,7 +8577,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NNH3SDZE",
+		"id": "NNH3SDZE",
 		"type": "book",
 		"title": "Beiträge zur Suffixlehre der Nordsemitische",
 		"callnumber": "XVI E 301",
@@ -8585,7 +8585,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TIDQCUD2",
+		"id": "TIDQCUD2",
 		"type": "book",
 		"title": "Sprachwissenschaftliche Untersuchungen",
 		"publisherplace": "Leipzig",
@@ -8595,7 +8595,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/72RNKMHU",
+		"id": "72RNKMHU",
 		"type": "book",
 		"title": "Etymologie von ,,zu ' w. ,, Laisa",
 		"publisherplace": "Leipzig",
@@ -8605,7 +8605,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HU9DQI9H",
+		"id": "HU9DQI9H",
 		"type": "book",
 		"title": "La Poésie Arabe",
 		"publisherplace": "Paris",
@@ -8615,7 +8615,7 @@ var ourData = [
 		"issued": "1880"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S69PK3CV",
+		"id": "S69PK3CV",
 		"type": "book",
 		"title": "Studien zur Semitischen Religionsgeschichte",
 		"publisherplace": "Leipzig",
@@ -8625,7 +8625,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UX5SN7S7",
+		"id": "UX5SN7S7",
 		"type": "book",
 		"title": "Das Palästinische Arabisch",
 		"publisherplace": "Leipzig",
@@ -8635,7 +8635,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3TMM35SV",
+		"id": "3TMM35SV",
 		"type": "book",
 		"title": "Elohim aus-anhalb des Pentateuch",
 		"publisherplace": "Leipzig",
@@ -8645,7 +8645,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2B6C2SVR",
+		"id": "2B6C2SVR",
 		"type": "book",
 		"title": "Die mohamedanisch-arabische Kulturperiode",
 		"publisherplace": "Stuttgart",
@@ -8655,7 +8655,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CVG6FFXE",
+		"id": "CVG6FFXE",
 		"type": "book",
 		"title": "Deutschland und die hl. Krieg",
 		"publisherplace": "Leipzig",
@@ -8664,7 +8664,7 @@ var ourData = [
 		"author": "H. Becker"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WSI2KBIN",
+		"id": "WSI2KBIN",
 		"type": "book",
 		"title": "Der Islam und die Kolonizierung Afrikas",
 		"publisherplace": "Hamburg",
@@ -8674,7 +8674,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z2MKVIHV",
+		"id": "Z2MKVIHV",
 		"type": "book",
 		"title": "Prinzipielles zu Lammens Sirastudien",
 		"publisherplace": "Strassburg",
@@ -8684,7 +8684,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/63AFPXND",
+		"id": "63AFPXND",
 		"type": "book",
 		"title": "Volksleben im Land der Bibel",
 		"publisherplace": "Leipzig",
@@ -8694,7 +8694,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PUQBKPQ7",
+		"id": "PUQBKPQ7",
 		"type": "book",
 		"title": "Deutschland und der Islam",
 		"publisherplace": "Stuttgart",
@@ -8704,7 +8704,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P28NMTTV",
+		"id": "P28NMTTV",
 		"type": "book",
 		"title": "Die Kaurd im Kultur des alter Islam",
 		"publisherplace": "Giessen",
@@ -8714,7 +8714,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QNZDBWNE",
+		"id": "QNZDBWNE",
 		"type": "book",
 		"title": "Islamisches",
 		"publisherplace": "Heidelberg",
@@ -8723,14 +8723,14 @@ var ourData = [
 		"author": "H. Becker"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6923EN4X",
+		"id": "6923EN4X",
 		"type": "book",
 		"title": "Islam",
 		"callnumber": "XVI E 281",
 		"author": "C.H. Becker"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A3SWU378",
+		"id": "A3SWU378",
 		"type": "book",
 		"title": "Ubi sunt, qui ante su ju mundo fuise",
 		"publisherplace": "Bonn",
@@ -8740,7 +8740,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J5ET8SRP",
+		"id": "J5ET8SRP",
 		"type": "book",
 		"title": "Christentum und Islam",
 		"publisherplace": "Tübingen",
@@ -8750,7 +8750,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4FAU2IQH",
+		"id": "4FAU2IQH",
 		"type": "book",
 		"title": "Die Atiscma",
 		"publisherplace": "Giessen",
@@ -8761,7 +8761,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZBWV3DD4",
+		"id": "ZBWV3DD4",
 		"type": "book",
 		"title": "Anatole Zeitschrift für Orient forschung",
 		"publisherplace": "Leipzig",
@@ -8771,7 +8771,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/26JQ4Q4B",
+		"id": "26JQ4Q4B",
 		"type": "book",
 		"title": "The Origin of Islam in its Christian Environment",
 		"publisherplace": "London",
@@ -8781,7 +8781,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SEAPC44C",
+		"id": "SEAPC44C",
 		"type": "book",
 		"title": "Le Sultan, l'Islam et les Puissances",
 		"publisherplace": "Paris",
@@ -8791,7 +8791,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7MQZEK3W",
+		"id": "7MQZEK3W",
 		"type": "book",
 		"title": "Matériaux pour un Corpus Inscriptionum Arabicanum",
 		"publisher": "1908",
@@ -8801,7 +8801,7 @@ var ourData = [
 		"author": "M. Buchem"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QE2FN9XG",
+		"id": "QE2FN9XG",
 		"type": "book",
 		"title": "Vocabulaire arabe-français",
 		"publisherplace": "Beirut",
@@ -8811,7 +8811,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BHKDB3SC",
+		"id": "BHKDB3SC",
 		"type": "book",
 		"title": "Sprachatlas von Syrien und Palaestina",
 		"publisherplace": "Leipzig",
@@ -8821,7 +8821,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3TERPZEZ",
+		"id": "3TERPZEZ",
 		"type": "book",
 		"title": "Neuaramäische Märchen und andere Texte aus Maʿlūla",
 		"publisherplace": "Leipzig",
@@ -8831,7 +8831,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SQ6DC6VB",
+		"id": "SQ6DC6VB",
 		"type": "book",
 		"title": "Die bisher veröffentlichten arabischen Hippokrates und Galen übersetzungen",
 		"publisherplace": "Leiden",
@@ -8841,20 +8841,20 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7QXMJSJT",
+		"id": "7QXMJSJT",
 		"type": "book",
 		"title": "Besprechungen",
 		"callnumber": "XVI V 90"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7T7X9UIM",
+		"id": "7T7X9UIM",
 		"type": "book",
 		"title": "Mission des Islam",
 		"callnumber": "XVI E 222",
 		"author": "K. Beth"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PAQUKSW2",
+		"id": "PAQUKSW2",
 		"type": "book",
 		"title": "Arabische Nächte",
 		"publisherplace": "Leipzig",
@@ -8864,7 +8864,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3QAQRUQ5",
+		"id": "3QAQRUQ5",
 		"type": "book",
 		"title": "Reflexe astrologischer Keiliuschriften bei griechischen Schriftstellen",
 		"publisherplace": "Heidelberg",
@@ -8874,7 +8874,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BWTQ4PJ2",
+		"id": "BWTQ4PJ2",
 		"type": "book",
 		"title": "Zeitschrift für Assyriologie und verwandte Gebiete",
 		"publisherplace": "Strassburg",
@@ -8884,7 +8884,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G4JWIX9J",
+		"id": "G4JWIX9J",
 		"type": "book",
 		"title": "Akademische Rede",
 		"publisherplace": "Heidelberg",
@@ -8894,21 +8894,21 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SFWSF5XS",
+		"id": "SFWSF5XS",
 		"type": "book",
 		"title": "Abba fabia Maufas Orueddus",
 		"callnumber": "XVI S 150",
 		"author": "C. Besold"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XF3TC24R",
+		"id": "XF3TC24R",
 		"type": "book",
 		"title": "Zur Frage nach der Existens einer nichtsemitischer Sprache im alten Babylonien",
 		"callnumber": "XVI S 163",
 		"author": "G. Besold"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/342J8MEV",
+		"id": "342J8MEV",
 		"type": "book",
 		"title": "Zeitschrift für Assyriologie",
 		"publisherplace": "Strassburg",
@@ -8918,7 +8918,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WP37IBDG",
+		"id": "WP37IBDG",
 		"type": "book",
 		"title": "Materialien zum islamischen und jüdischen Eherecht",
 		"publisherplace": "Giessen",
@@ -8928,7 +8928,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2RWAZ2QC",
+		"id": "2RWAZ2QC",
 		"type": "book",
 		"title": "Der vom Himmelgefallene Brief Christi",
 		"publisherplace": "Vienna",
@@ -8938,7 +8938,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IBHSBQV7",
+		"id": "IBHSBQV7",
 		"type": "book",
 		"title": "Die hl. Bücher der Jesiden oder Teufelsanbeter",
 		"publisherplace": "Vienna",
@@ -8948,7 +8948,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D3WUIS2H",
+		"id": "D3WUIS2H",
 		"type": "book",
 		"title": "Studien zur Shausi-Sprache in den Bergen von Dofâr am Persischen Meerbusen",
 		"publisherplace": "Vienna",
@@ -8958,7 +8958,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NQE885DV",
+		"id": "NQE885DV",
 		"type": "book",
 		"title": "Biblia Hebraica",
 		"publisherplace": "Leipzig",
@@ -8968,7 +8968,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M5BSFMKM",
+		"id": "M5BSFMKM",
 		"type": "book",
 		"title": "Studien zur Laut- und Frommenlehre der Mehre Sprache in Süd-arabischen",
 		"publisherplace": "Vienna",
@@ -8978,7 +8978,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VZ8KJTHV",
+		"id": "VZ8KJTHV",
 		"type": "book",
 		"title": "Charakteristik der Dhammi Sprache in den Beyen von ...",
 		"publisherplace": "Vienna",
@@ -8988,7 +8988,7 @@ var ourData = [
 		"issued": "1918"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6SVX4564",
+		"id": "6SVX4564",
 		"type": "book",
 		"title": "Einige Besonderheiten aus der Sprache der Insel Soqotra",
 		"publisherplace": "Vienna",
@@ -8997,7 +8997,7 @@ var ourData = [
 		"author": "M. Bittna"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AEZJXU37",
+		"id": "AEZJXU37",
 		"type": "book",
 		"title": "Mehu Sprache im Südarabischen",
 		"publisherplace": "Vienna",
@@ -9007,7 +9007,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SBQAW3PH",
+		"id": "SBQAW3PH",
 		"type": "book",
 		"title": "Kaukasische Forschungen",
 		"publisherplace": "Vienna",
@@ -9017,7 +9017,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/THT55KUH",
+		"id": "THT55KUH",
 		"type": "book",
 		"title": "A Pilgrimage to Hija",
 		"publisherplace": "London",
@@ -9028,7 +9028,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MAMZD2F5",
+		"id": "MAMZD2F5",
 		"type": "book",
 		"title": "Dictionnaires français-arabe",
 		"publisherplace": "Paris",
@@ -9038,7 +9038,7 @@ var ourData = [
 		"issued": "1828"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SQV94JN7",
+		"id": "SQV94JN7",
 		"type": "book",
 		"title": "Die Tiessvelt Palaestinas",
 		"publisherplace": "Leipzig",
@@ -9049,7 +9049,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F59VBMSV",
+		"id": "F59VBMSV",
 		"type": "book",
 		"title": "Corpus Inscriptiorum Elarnicanim",
 		"publisherplace": "Hannover",
@@ -9058,7 +9058,7 @@ var ourData = [
 		"author": " Bork-Hüsing"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3BXHJ83H",
+		"id": "3BXHJ83H",
 		"type": "book",
 		"title": "Les Barmécides",
 		"publisherplace": "Paris",
@@ -9068,7 +9068,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RMG4E6ZU",
+		"id": "RMG4E6ZU",
 		"type": "book",
 		"title": "Haus und Hauswesen im alten Arabien",
 		"publisherplace": "Halle",
@@ -9078,7 +9078,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D2JGZ8FS",
+		"id": "D2JGZ8FS",
 		"type": "book",
 		"title": "Geschichte der christlichen Litteraturen des Orients",
 		"publisherplace": "Leipzig",
@@ -9088,7 +9088,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2SQ9BGPE",
+		"id": "2SQ9BGPE",
 		"type": "book",
 		"title": "Grundriss der vergleichende Grammatik du semitischen Sprachen",
 		"publisherplace": "Berlin",
@@ -9099,7 +9099,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AMJQUFMB",
+		"id": "AMJQUFMB",
 		"type": "book",
 		"title": "Semitische Sprachwissenschaft",
 		"publisherplace": "Leipzig",
@@ -9109,7 +9109,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3MVMQWTV",
+		"id": "3MVMQWTV",
 		"type": "book",
 		"title": "Chahár Maquāla",
 		"publisherplace": "London",
@@ -9119,7 +9119,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2WMD35C2",
+		"id": "2WMD35C2",
 		"type": "book",
 		"title": "Die Aegyptologie",
 		"publisherplace": "Leipzig",
@@ -9129,7 +9129,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KWW687MU",
+		"id": "KWW687MU",
 		"type": "book",
 		"title": "Provincia Arabia",
 		"publisherplace": "Strassburg",
@@ -9140,21 +9140,21 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H4EVBSSM",
+		"id": "H4EVBSSM",
 		"type": "book",
 		"title": "Musil",
 		"callnumber": "XVI V 99",
 		"author": "R. Buinow"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V64SBAF3",
+		"id": "V64SBAF3",
 		"type": "book",
 		"title": "Bücherbesprechungen",
 		"callnumber": "XVI V 105",
 		"author": "R. Buinow"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/53TDJHV5",
+		"id": "53TDJHV5",
 		"type": "book",
 		"title": "Geschichte der althebräischen Litteratur",
 		"publisherplace": "Leipzig",
@@ -9164,7 +9164,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XN8MCR4P",
+		"id": "XN8MCR4P",
 		"type": "book",
 		"title": "Elementarkursus des Sanscrit",
 		"publisherplace": "Vienna",
@@ -9174,7 +9174,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V92U5C24",
+		"id": "V92U5C24",
 		"type": "book",
 		"title": "Travel among the Arab Tribes",
 		"publisherplace": "London",
@@ -9184,7 +9184,7 @@ var ourData = [
 		"issued": "1825"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K8W58P8C",
+		"id": "K8W58P8C",
 		"type": "book",
 		"title": "Bogen und Pfeil bei den Völkern des Altentums",
 		"publisherplace": "Vienna",
@@ -9194,7 +9194,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JMQSXINB",
+		"id": "JMQSXINB",
 		"type": "book",
 		"title": "g,d,s und seine Derivate in der hebräischen und phönisischen Literatur",
 		"publisherplace": "Strehlen",
@@ -9204,7 +9204,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SFQJMB58",
+		"id": "SFQJMB58",
 		"type": "book",
 		"title": "Vollständige Grammatik der Alt und Neuhebräischen Sprache",
 		"publisherplace": "Vienna",
@@ -9214,14 +9214,14 @@ var ourData = [
 		"issued": "1929"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6ZAUNXCN",
+		"id": "6ZAUNXCN",
 		"type": "book",
 		"title": "Mukomkis",
 		"callnumber": "XVI E 334",
 		"author": "M. Butler"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DF8ITUT8",
+		"id": "DF8ITUT8",
 		"type": "book",
 		"title": "Annali dell Islam",
 		"publisherplace": "Milan",
@@ -9232,7 +9232,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PG5AKMF7",
+		"id": "PG5AKMF7",
 		"type": "book",
 		"title": "Chronographica Islamica",
 		"publisherplace": "Paris",
@@ -9241,7 +9241,7 @@ var ourData = [
 		"author": "L. Caetani"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JXRFV52H",
+		"id": "JXRFV52H",
 		"type": "book",
 		"title": "Studi di Storia Orientale",
 		"publisherplace": "Milan",
@@ -9252,7 +9252,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VDMMQBVT",
+		"id": "VDMMQBVT",
 		"type": "book",
 		"title": "La funzione dell Islam",
 		"publisherplace": "Rome",
@@ -9262,7 +9262,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IB74PQEG",
+		"id": "IB74PQEG",
 		"type": "book",
 		"title": "Mohammed et la fin du monde",
 		"publisherplace": "Paris",
@@ -9272,7 +9272,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SF65QDNT",
+		"id": "SF65QDNT",
 		"type": "book",
 		"title": "Arabische Grammatik",
 		"publisherplace": "Halle",
@@ -9282,7 +9282,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2RCD6QC2",
+		"id": "2RCD6QC2",
 		"type": "book",
 		"title": "Aberglaube und Volksmedizin im Lande der Bibel",
 		"publisherplace": "Hamburg",
@@ -9292,7 +9292,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/36P2CSHT",
+		"id": "36P2CSHT",
 		"type": "book",
 		"title": "Essai sur l'histoire des Arabes",
 		"publisherplace": "Paris",
@@ -9303,14 +9303,14 @@ var ourData = [
 		"issued": "1847"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SDVIWV6E",
+		"id": "SDVIWV6E",
 		"type": "book",
 		"title": "Zur judischen Wortforschung ethymologische und laegetische Beiträge",
 		"callnumber": "XVI S 48",
 		"author": " Chaysentier"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SVRIVBZ3",
+		"id": "SVRIVBZ3",
 		"type": "book",
 		"title": "Mémoires publiés par les membres de l'institut français d'Archeologie orientale du Caire",
 		"publisherplace": "Cairo",
@@ -9320,28 +9320,28 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2SKDXKZV",
+		"id": "2SKDXKZV",
 		"type": "book",
 		"title": "Quelques Légendes islamiques apocryphes",
 		"callnumber": "XVI E 134",
 		"author": "L. Cheikho"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SIZJ3CV4",
+		"id": "SIZJ3CV4",
 		"type": "book",
 		"title": "Omar Hayyâm",
 		"callnumber": "XVI V 83",
 		"author": " Christensen"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XBSJX755",
+		"id": "XBSJX755",
 		"type": "book",
 		"title": "Weitere Beiträge zur Brüsseler Vokabular",
 		"callnumber": "XVI S 74",
 		"author": "I. Christian"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z2R8TBRW",
+		"id": "Z2R8TBRW",
 		"type": "book",
 		"title": "Musique arabe aux Temps anciens",
 		"publisherplace": "Cologne",
@@ -9351,14 +9351,14 @@ var ourData = [
 		"issued": "1863"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WETX6F6H",
+		"id": "WETX6F6H",
 		"type": "book",
 		"title": "Ergänzungen und Bemerkungen zu Sa Sb Sb und Sc",
 		"callnumber": "XVI S 93",
 		"author": "I. Christian"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DHRCRPRM",
+		"id": "DHRCRPRM",
 		"type": "book",
 		"title": "Die Namen der assyrisch-babylonischen Keilinschriften",
 		"publisherplace": "Leipzig",
@@ -9368,14 +9368,14 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BDFTX2D7",
+		"id": "BDFTX2D7",
 		"type": "book",
 		"title": "Entwicklungsprobleme der alt mesopotamischen Kunst",
 		"callnumber": "XVI V 7",
 		"author": "I. Christian"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q7CQ7KPT",
+		"id": "Q7CQ7KPT",
 		"type": "book",
 		"title": "Arabian Poetry for English Readers",
 		"publisherplace": "Glasgow",
@@ -9385,7 +9385,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6WQNXHAS",
+		"id": "6WQNXHAS",
 		"type": "book",
 		"title": "Eugenio Griffini Bey",
 		"publisherplace": "Milan",
@@ -9395,7 +9395,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UUZF7SPE",
+		"id": "UUZF7SPE",
 		"type": "book",
 		"title": "Traité de Versification Arabe",
 		"publisherplace": "Leipzig",
@@ -9405,7 +9405,7 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z2QXRV4X",
+		"id": "Z2QXRV4X",
 		"type": "book",
 		"title": "Ursemitische Religion",
 		"publisherplace": "Leipzig",
@@ -9415,7 +9415,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PIFUGUU9",
+		"id": "PIFUGUU9",
 		"type": "book",
 		"title": "Kordufammiubische Studien",
 		"publisherplace": "Vienna",
@@ -9425,14 +9425,14 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TAMAJ33H",
+		"id": "TAMAJ33H",
 		"type": "book",
 		"title": "Die Feuerungen der Juden im Zeitalter der Bibel und Talmud",
 		"callnumber": "XVI V 24",
 		"author": "A. Dachler"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TJFPWDGW",
+		"id": "TJFPWDGW",
 		"type": "book",
 		"title": "Magic, Divination, and Demonologie among the Hebrews and their Neighbours",
 		"publisherplace": "Leipzig",
@@ -9441,7 +9441,7 @@ var ourData = [
 		"author": "A. Dachler"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JS39EHQP",
+		"id": "JS39EHQP",
 		"type": "book",
 		"title": "Babel und Bibel",
 		"publisherplace": "Leipzig",
@@ -9451,7 +9451,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QEW6S9T8",
+		"id": "QEW6S9T8",
 		"type": "book",
 		"title": "Assyrische Grammatik",
 		"publisherplace": "Berlin",
@@ -9461,7 +9461,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q73WEB4K",
+		"id": "Q73WEB4K",
 		"type": "book",
 		"title": "Handel und Wandel in Altbabylonien",
 		"publisherplace": "Stuttgart",
@@ -9471,7 +9471,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ISNT7VWA",
+		"id": "ISNT7VWA",
 		"type": "book",
 		"title": "Linguistique et Sociologie",
 		"publisherplace": "Paris",
@@ -9481,7 +9481,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6N4VU4T3",
+		"id": "6N4VU4T3",
 		"type": "book",
 		"title": "Abhandlungen für semitische Kortforschungen",
 		"publisherplace": "Leipzig",
@@ -9491,7 +9491,7 @@ var ourData = [
 		"issued": "1844"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/35M8BHQT",
+		"id": "35M8BHQT",
 		"type": "book",
 		"title": "Chrestimathia Aethiopica",
 		"publisherplace": "Leipzig",
@@ -9501,7 +9501,7 @@ var ourData = [
 		"issued": "1846"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W5Z7KW8V",
+		"id": "W5Z7KW8V",
 		"type": "book",
 		"title": "Grammatik der aethiopischen Sprache",
 		"publisherplace": "Leipzig",
@@ -9511,7 +9511,7 @@ var ourData = [
 		"issued": "1857"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/88V6XE94",
+		"id": "88V6XE94",
 		"type": "book",
 		"title": "Lexicon linguae Aethiopiae",
 		"publisherplace": "Leipzig",
@@ -9521,7 +9521,7 @@ var ourData = [
 		"issued": "1865"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/77T3QW4S",
+		"id": "77T3QW4S",
 		"type": "book",
 		"title": "Die Pflanzen Palaestinas",
 		"publisherplace": "Leipzig",
@@ -9531,7 +9531,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XBM3TF8K",
+		"id": "XBM3TF8K",
 		"type": "book",
 		"title": "Grammatiken der onljär arabischen Sprache",
 		"publisherplace": "Vienna",
@@ -9540,7 +9540,7 @@ var ourData = [
 		"author": "A. Doir"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47GB3GV5",
+		"id": "47GB3GV5",
 		"type": "book",
 		"title": "Die berühmten neo-hammeds arabischen Schönschreiber",
 		"callnumber": "XVI E 311",
@@ -9548,7 +9548,7 @@ var ourData = [
 		"issued": "1852"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MKPV39AU",
+		"id": "MKPV39AU",
 		"type": "book",
 		"title": "Travels in Arabia",
 		"publisherplace": "Cambridge",
@@ -9559,7 +9559,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZA6URPW5",
+		"id": "ZA6URPW5",
 		"type": "book",
 		"title": "Magie et Religion dans l'Afrique du Nord",
 		"publisherplace": "Alger",
@@ -9569,7 +9569,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2I4F2NH5",
+		"id": "2I4F2NH5",
 		"type": "book",
 		"title": "Die Israeliten zu Mekka um Davits Zeit",
 		"publisherplace": "Leipzig",
@@ -9579,7 +9579,7 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AKRG2JRJ",
+		"id": "AKRG2JRJ",
 		"type": "book",
 		"title": "Supplément aux Dictionnaires arabes",
 		"publisherplace": "Leiden",
@@ -9589,7 +9589,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QER4M4VI",
+		"id": "QER4M4VI",
 		"type": "book",
 		"title": "Dictionnaire d'étaile des Noms des Vêtements chez les Arabes",
 		"publisherplace": "Amsterdam",
@@ -9599,14 +9599,14 @@ var ourData = [
 		"issued": "1845"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FKKMP6QG",
+		"id": "FKKMP6QG",
 		"type": "book",
 		"title": "Un conte feurde",
 		"callnumber": "XVI V 110",
 		"author": " Duphesne"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2S2P8C6S",
+		"id": "2S2P8C6S",
 		"type": "book",
 		"title": "Les Arabes en Syrie avant l'Islam",
 		"publisherplace": "Paris",
@@ -9616,7 +9616,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V3U2RKRK",
+		"id": "V3U2RKRK",
 		"type": "book",
 		"title": "La matérialisation de la Priex en Orient",
 		"publisherplace": "Paris",
@@ -9625,7 +9625,7 @@ var ourData = [
 		"author": "R. Dussaud"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M8X3GJXJ",
+		"id": "M8X3GJXJ",
 		"type": "book",
 		"title": "Ehe und Familienrecht des Hebrain",
 		"publisherplace": "Munster",
@@ -9635,14 +9635,14 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TBDS6C8G",
+		"id": "TBDS6C8G",
 		"type": "book",
 		"title": "Das Reich Hira",
 		"callnumber": "XVI V 130",
 		"author": " Eichhorn"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CH8926HP",
+		"id": "CH8926HP",
 		"type": "book",
 		"title": "Die Quellen des Gemein von neuen untersucht",
 		"publisherplace": "Giessen",
@@ -9652,7 +9652,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JMMKTM8S",
+		"id": "JMMKTM8S",
 		"type": "book",
 		"title": "Sidon",
 		"publisherplace": "New York",
@@ -9662,14 +9662,14 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A559KKHK",
+		"id": "A559KKHK",
 		"type": "book",
 		"title": "Notizen zu den jüdisch-aramaïschen Papyri von Asnau",
 		"callnumber": "XVI S 132",
 		"author": "J. Epstein"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6CZ3HAZN",
+		"id": "6CZ3HAZN",
 		"type": "book",
 		"title": "Die Puimsaje zu der Bibel",
 		"publisherplace": "Berlin",
@@ -9679,7 +9679,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JSQ82CMU",
+		"id": "JSQ82CMU",
 		"type": "book",
 		"title": "Erstluige und Helsnten im alter Testament",
 		"publisherplace": "Leipzig",
@@ -9689,7 +9689,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VVSURZ93",
+		"id": "VVSURZ93",
 		"type": "book",
 		"title": "Reise durch Ismu-Arabien",
 		"publisherplace": "Leiden",
@@ -9700,7 +9700,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WJBVUD3E",
+		"id": "WJBVUD3E",
 		"type": "book",
 		"title": "Sechs phönikische Inschriften aus Idalion",
 		"publisherplace": "Strassburg",
@@ -9710,13 +9710,13 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RJHTMSHI",
+		"id": "RJHTMSHI",
 		"type": "book",
 		"title": "Zu Euting",
 		"callnumber": "XVI V 120"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q83QZHMP",
+		"id": "Q83QZHMP",
 		"type": "book",
 		"title": "An Essai of the Pre-islamitik Arabic Poetry",
 		"publisherplace": "Bombay",
@@ -9726,7 +9726,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MK6V9V9T",
+		"id": "MK6V9V9T",
 		"type": "book",
 		"title": "Westasiatische Studien",
 		"publisherplace": "Berlin",
@@ -9736,7 +9736,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AFG9U9TN",
+		"id": "AFG9U9TN",
 		"type": "book",
 		"title": "Zur Lautlehre des Marokkanisch-Arabischen",
 		"publisherplace": "Leipzig",
@@ -9746,7 +9746,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7XJ982XH",
+		"id": "7XJ982XH",
 		"type": "book",
 		"title": "Tag und Nacht in Arabischen und die semitische Tagesberechnung",
 		"publisherplace": "Leipzig",
@@ -9756,7 +9756,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GQE5DFNC",
+		"id": "GQE5DFNC",
 		"type": "book",
 		"title": "Die arabischen Vorschlagvokale und das Alif al-Wasl. Die Nabataïre und ihre Sprache der Gottesmasne",
 		"publisherplace": "Leipzig",
@@ -9765,7 +9765,7 @@ var ourData = [
 		"author": "A. Fischer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JU8Q2A2B",
+		"id": "JU8Q2A2B",
 		"type": "book",
 		"title": "Auflösung der Akkusatsirektion des transitiven Verbunis im klassischen Arabisch die Praeposotion",
 		"publisherplace": "Leipzig",
@@ -9775,7 +9775,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/95VSG9MX",
+		"id": "95VSG9MX",
 		"type": "book",
 		"title": "Die Dattelpalme",
 		"publisherplace": "Gotha",
@@ -9785,7 +9785,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NJ5IKJMH",
+		"id": "NJ5IKJMH",
 		"type": "book",
 		"title": "Kleinere Schriften",
 		"publisherplace": "Leipzig",
@@ -9796,7 +9796,7 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4WNSTQZU",
+		"id": "4WNSTQZU",
 		"type": "book",
 		"title": "Morgenländische Forschungen",
 		"publisherplace": "Leipzig",
@@ -9806,7 +9806,7 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/988AJSQE",
+		"id": "988AJSQE",
 		"type": "book",
 		"title": "Geschichte der semitische Altertums",
 		"publisherplace": "Leipzig",
@@ -9816,7 +9816,7 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6CZHNMW7",
+		"id": "6CZHNMW7",
 		"type": "book",
 		"title": "Das Wasseropfer und die damit verbundenen Heremonien",
 		"publisherplace": "Vienna",
@@ -9826,7 +9826,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WB7DCTP3",
+		"id": "WB7DCTP3",
 		"type": "book",
 		"title": "Geschichte der Araber bis auf den Sture des Chalifats von Bagdad",
 		"publisherplace": "Leipzig",
@@ -9836,7 +9836,7 @@ var ourData = [
 		"issued": "1867"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BJ8UWVMJ",
+		"id": "BJ8UWVMJ",
 		"type": "book",
 		"title": "Die grammatica Schulen der Araber",
 		"publisherplace": "Leipzig",
@@ -9846,7 +9846,7 @@ var ourData = [
 		"issued": "1862"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3ARKVMRK",
+		"id": "3ARKVMRK",
 		"type": "book",
 		"title": "Flora Aegyptiaco-Arabica",
 		"publisherplace": "Hannia",
@@ -9856,7 +9856,7 @@ var ourData = [
 		"issued": "1775"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JKZ9JX2B",
+		"id": "JKZ9JX2B",
 		"type": "book",
 		"title": "Westasiatische Studien",
 		"publisherplace": "Berlin",
@@ -9866,7 +9866,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5BEF6NS3",
+		"id": "5BEF6NS3",
 		"type": "book",
 		"title": "Schaich Adî, der grosse Heilige du Jesîdîs",
 		"publisherplace": "Kirchhain",
@@ -9876,7 +9876,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TQ2QWVWR",
+		"id": "TQ2QWVWR",
 		"type": "book",
 		"title": "Beiträge zur Erklärung der mehrlautigen Bildungen im Arabischen",
 		"publisherplace": "Leiden",
@@ -9886,7 +9886,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MBMDPCJI",
+		"id": "MBMDPCJI",
 		"type": "book",
 		"title": "Die aramäischen Fremdwörter im Arabischen",
 		"publisherplace": "Leiden",
@@ -9896,7 +9896,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R6C7U36A",
+		"id": "R6C7U36A",
 		"type": "book",
 		"title": "De vocabulis in antiquis Arabum caeminibus et in Corano peregrinio",
 		"publisherplace": "Leiden",
@@ -9906,7 +9906,7 @@ var ourData = [
 		"issued": "1880"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GDBZKSDF",
+		"id": "GDBZKSDF",
 		"type": "book",
 		"title": "The Heterodoxis of the Shistes",
 		"publisherplace": "New Haven",
@@ -9916,7 +9916,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EKHZ9VCR",
+		"id": "EKHZ9VCR",
 		"type": "book",
 		"title": "Levi Geschichte der Chadhis legende",
 		"publisherplace": "New York",
@@ -9925,7 +9925,7 @@ var ourData = [
 		"author": "I. Friedländer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XFHRT9TK",
+		"id": "XFHRT9TK",
 		"type": "book",
 		"title": "Das Heerwesen der Araber zur Zeit der Omaijaden nach Tabarî",
 		"publisherplace": "Tübingen",
@@ -9935,7 +9935,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BHIQS4G4",
+		"id": "BHIQS4G4",
 		"type": "book",
 		"title": "Die Zentralkasolinische Sprache",
 		"publisherplace": "Berlin",
@@ -9945,14 +9945,14 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T9QNDCZJ",
+		"id": "T9QNDCZJ",
 		"type": "book",
 		"title": "Der Weltkrieg 25",
 		"callnumber": "XVI E 96",
 		"author": "I. Froberger"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FU6GBFDU",
+		"id": "FU6GBFDU",
 		"type": "book",
 		"title": "Esperanto und Ido",
 		"publisherplace": "Vienna",
@@ -9962,21 +9962,21 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5HGKAWZ",
+		"id": "F5HGKAWZ",
 		"type": "book",
 		"title": "Ankündigung einer neuen Ausgabe des Lebe-Pentateuchs der Samasitauer",
 		"callnumber": "XVI S 121",
 		"author": "A. Gall"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UVCQSUSS",
+		"id": "UVCQSUSS",
 		"type": "book",
 		"title": "Couleurs chez les Arabes",
 		"callnumber": "XVI E 317",
 		"author": " Gaultier"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BN23WHDC",
+		"id": "BN23WHDC",
 		"type": "book",
 		"title": "Chinore-Inschrift aus der Zeit des Guhila Fürsten Samarasimha",
 		"publisherplace": "Vienna",
@@ -9986,7 +9986,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K85N9BRP",
+		"id": "K85N9BRP",
 		"type": "book",
 		"title": "Was hat Mohammed aus dem Judentum aufgenommen",
 		"publisherplace": "Leipzig",
@@ -9996,7 +9996,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N5UVVUBJ",
+		"id": "N5UVVUBJ",
 		"type": "book",
 		"title": "Mohtar de Valsche Profeet",
 		"publisherplace": "Leiden",
@@ -10006,7 +10006,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S8JV935B",
+		"id": "S8JV935B",
 		"type": "book",
 		"title": "Hebräische Grammatik",
 		"publisherplace": "Leipzig",
@@ -10016,7 +10016,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TIC6FS2N",
+		"id": "TIC6FS2N",
 		"type": "book",
 		"title": "Die Zukunft des Islam",
 		"publisherplace": "Vienna",
@@ -10026,7 +10026,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4D6GVNHQ",
+		"id": "4D6GVNHQ",
 		"type": "book",
 		"title": "Hebräisches und chaldäisches Handwörterbuch über das Alte Testament",
 		"publisherplace": "Leipzig",
@@ -10037,14 +10037,14 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9A5EJW2W",
+		"id": "9A5EJW2W",
 		"type": "book",
 		"title": "Bemerkungen zu Schwarslose's Kitâb as-silâh",
 		"callnumber": "XVI E 208",
 		"author": "R. Geyer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/48W5F8XP",
+		"id": "48W5F8XP",
 		"type": "book",
 		"title": "Skisse des Gescichte und Geographie Arabiens von den altesten Zeiten bis Mohammed",
 		"publisherplace": "Berlin",
@@ -10054,14 +10054,14 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JGPDZ7EC",
+		"id": "JGPDZ7EC",
 		"type": "book",
 		"title": "Mârib im Jemen",
 		"callnumber": "XVI V 15",
 		"author": " Glaser"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CRZQN3QZ",
+		"id": "CRZQN3QZ",
 		"type": "book",
 		"title": "Altjemenische Nachrichten",
 		"publisherplace": "Munich",
@@ -10071,7 +10071,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S68RZJ6U",
+		"id": "S68RZJ6U",
 		"type": "book",
 		"title": "Mémoire sur les Carmathes du Bahrain et les Fatimides",
 		"publisherplace": "Leiden",
@@ -10081,14 +10081,14 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XK2AIC4F",
+		"id": "XK2AIC4F",
 		"type": "book",
 		"title": "Hadramant",
 		"callnumber": "XVI V 77",
 		"author": "M.J. De Goeje"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q5PXWE5C",
+		"id": "Q5PXWE5C",
 		"type": "book",
 		"title": "Über Zahlenuberglauben im Islam",
 		"publisherplace": "Budapest",
@@ -10098,7 +10098,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EAASG8WA",
+		"id": "EAASG8WA",
 		"type": "book",
 		"title": "Vorlesungen über den Islam",
 		"publisherplace": "Heidelberg",
@@ -10108,7 +10108,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FUZCZEUJ",
+		"id": "FUZCZEUJ",
 		"type": "book",
 		"title": "Vorlesungen über den Islam",
 		"publisherplace": "Heidelberg",
@@ -10118,7 +10118,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FPUP8U7J",
+		"id": "FPUP8U7J",
 		"type": "book",
 		"title": "Die Zahiriten",
 		"publisherplace": "Leipzig",
@@ -10128,7 +10128,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VCIQ8IX6",
+		"id": "VCIQ8IX6",
 		"type": "book",
 		"title": "Mohammed ibn Foumat",
 		"publisherplace": "Alger",
@@ -10138,14 +10138,14 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XBIWMRM6",
+		"id": "XBIWMRM6",
 		"type": "book",
 		"title": "Die islamitische und die jüdische Philosophie des Mittelalters",
 		"callnumber": "XVI E 139",
 		"author": "I. Goldziher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EBHZK7W8",
+		"id": "EBHZK7W8",
 		"type": "book",
 		"title": "Blochet:Le Messianisme",
 		"callnumber": "XVI E 160",
@@ -10153,7 +10153,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BRQXGAD4",
+		"id": "BRQXGAD4",
 		"type": "book",
 		"title": "Muʿāwija I",
 		"publisherplace": "Budapest",
@@ -10163,14 +10163,14 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2B9FESRI",
+		"id": "2B9FESRI",
 		"type": "book",
 		"title": "Bemerkungen zur arabischen Frauenpoesie",
 		"callnumber": "XVI E 201",
 		"author": "I. Goldziher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NC6NWG62",
+		"id": "NC6NWG62",
 		"type": "book",
 		"title": "La Misāsa",
 		"publisherplace": "Alger",
@@ -10180,7 +10180,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QEG8XMIE",
+		"id": "QEG8XMIE",
 		"type": "book",
 		"title": "Stellung der islamisichen alten Orthodoxie zu den antiken WIssenschaften",
 		"publisherplace": "Berlin",
@@ -10190,7 +10190,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HNDHZ67B",
+		"id": "HNDHZ67B",
 		"type": "book",
 		"title": "Hellenisitischer Einfluss auf muʿtasilistischen Chalifats-Theorien",
 		"publisherplace": "Strassburg",
@@ -10199,7 +10199,7 @@ var ourData = [
 		"author": "I. Goldziher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T8SWPZXZ",
+		"id": "T8SWPZXZ",
 		"type": "book",
 		"title": "Le lutte des Ancêties et le culte des Morts chez les Arabes",
 		"publisherplace": "Paris",
@@ -10209,28 +10209,28 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WDAX5NTX",
+		"id": "WDAX5NTX",
 		"type": "book",
 		"title": "Beiträge zur Geschichte der Sprachgelehrsamkeit bei den Arabern",
 		"callnumber": "XVI E 299",
 		"author": "I. Goldziher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UT5BD7CP",
+		"id": "UT5BD7CP",
 		"type": "book",
 		"title": "Hyperbolische Typen im Arabischen",
 		"callnumber": "XVI E 314",
 		"author": "I. Goldziher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GXRKUS2H",
+		"id": "GXRKUS2H",
 		"type": "book",
 		"title": "Ijādat al-marīd",
 		"callnumber": "XVI E 380",
 		"author": "I. Goldziher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5KS5DRQN",
+		"id": "5KS5DRQN",
 		"type": "book",
 		"title": "Dîvâns of the Arabic Tribes",
 		"callnumber": "XVI E 333",
@@ -10238,7 +10238,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4BP78DH7",
+		"id": "4BP78DH7",
 		"type": "book",
 		"title": "Abhandlungen zur arabischen Philosophie",
 		"publisherplace": "Leiden",
@@ -10248,7 +10248,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WSK5QE6R",
+		"id": "WSK5QE6R",
 		"type": "book",
 		"title": "Der Mythos bei den Hebräern und seine geschichtliche Entwicklung",
 		"publisherplace": "Leipzig",
@@ -10258,7 +10258,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2PP3XBVX",
+		"id": "2PP3XBVX",
 		"type": "book",
 		"title": "Die christlich-arabische Litteratur",
 		"publisherplace": "Freiburg",
@@ -10268,7 +10268,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ES9V548H",
+		"id": "ES9V548H",
 		"type": "book",
 		"title": "Die suftaga und hawâla der Araber",
 		"publisherplace": "Göttingen",
@@ -10278,7 +10278,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VZSBRMKH",
+		"id": "VZSBRMKH",
 		"type": "book",
 		"title": "Die altarabischen Frauennamen",
 		"publisherplace": "Leipzig",
@@ -10288,7 +10288,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AEW39V54",
+		"id": "AEW39V54",
 		"type": "book",
 		"title": "The Haggadah",
 		"publisherplace": "London",
@@ -10298,7 +10298,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N8D2BAG4",
+		"id": "N8D2BAG4",
 		"type": "book",
 		"title": "Altorientalische Texte zur alten Testament",
 		"publisherplace": "Berlin",
@@ -10308,7 +10308,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C3V2XNS7",
+		"id": "C3V2XNS7",
 		"type": "book",
 		"title": "Palaestinas Erdgesuch in der Israelitischen Religion",
 		"publisherplace": "Berlin",
@@ -10318,7 +10318,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H4XWS75M",
+		"id": "H4XWS75M",
 		"type": "book",
 		"title": "Mohammed: Das Leben",
 		"publisherplace": "Munster",
@@ -10328,7 +10328,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/27ER98II",
+		"id": "27ER98II",
 		"type": "book",
 		"title": "Corpus Papyrorum Raineri",
 		"publisherplace": "Vindobonae",
@@ -10338,7 +10338,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N5SZUZDZ",
+		"id": "N5SZUZDZ",
 		"type": "book",
 		"title": "Arabische Eichungsstempel, Glasgewichte und Amulette aus Wiener Sammlungen",
 		"publisherplace": "Leipzig",
@@ -10348,14 +10348,14 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T6WB8FQ2",
+		"id": "T6WB8FQ2",
 		"type": "book",
 		"title": "Kataboinische Herscherzeitren",
 		"callnumber": "XVI E 136",
 		"author": "A. Grolmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WUM5WW9R",
+		"id": "WUM5WW9R",
 		"type": "book",
 		"title": "Göttersymbole und Symboltiere auf Südarabischen Denkmälern",
 		"publisherplace": "Vienna",
@@ -10365,7 +10365,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V2NPD2BK",
+		"id": "V2NPD2BK",
 		"type": "book",
 		"title": "Aethiopische Marienhymnen",
 		"publisherplace": "Leipzig",
@@ -10375,7 +10375,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/79UCER24",
+		"id": "79UCER24",
 		"type": "book",
 		"title": "Südarabien als Wirtschaftsgebiet",
 		"publisherplace": "Vienna",
@@ -10385,35 +10385,35 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IJZASDDG",
+		"id": "IJZASDDG",
 		"type": "book",
 		"title": "Über den Ursprung und die Entwicklung du Aethiopischen Schrift",
 		"callnumber": "XVI S 115",
 		"author": "A. Grolmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T2GWV2QE",
+		"id": "T2GWV2QE",
 		"type": "book",
 		"title": "Studien zu den Cyprianusgebeten",
 		"callnumber": "XVI S 116",
 		"author": "A. Grolmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WUCAD7G4",
+		"id": "WUCAD7G4",
 		"type": "book",
 		"title": "Reste einer neuen Rezension der Kindheitsgeschichte Jesu in den Taʾārura Iyasūs",
 		"callnumber": "XVI S 123",
 		"author": "A. Grolmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XFAFUI7Q",
+		"id": "XFAFUI7Q",
 		"type": "book",
 		"title": "Die im Aethiopischen Arabischen und Koptischen erhaltenen Visionen Apa Scheunte's von Aripe",
 		"callnumber": "XVI S 174",
 		"author": "A. Grolmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U29KI2X4",
+		"id": "U29KI2X4",
 		"type": "book",
 		"title": "Beiträge zur Kenntnis der Orients",
 		"publisherplace": "Halle",
@@ -10423,7 +10423,7 @@ var ourData = [
 		"issued": "1918"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FR3HI5A2",
+		"id": "FR3HI5A2",
 		"type": "book",
 		"title": "Beiträge zur Kenntnis der Orients",
 		"publisherplace": "Halle",
@@ -10433,7 +10433,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/23NTIHA3",
+		"id": "23NTIHA3",
 		"type": "book",
 		"title": "Die Alliteration im Alt-Arabischen",
 		"publisherplace": "Vienna",
@@ -10443,7 +10443,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QPRG2X7W",
+		"id": "QPRG2X7W",
 		"type": "book",
 		"title": "Das Gebet im Islam",
 		"publisherplace": "Prague",
@@ -10453,7 +10453,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H4WJ7U59",
+		"id": "H4WJ7U59",
 		"type": "book",
 		"title": "Die Mischworter im Arabischen",
 		"publisherplace": "Leiden",
@@ -10463,14 +10463,14 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D2W48BTZ",
+		"id": "D2W48BTZ",
 		"type": "book",
 		"title": "Al-Is'lâm",
 		"callnumber": "XVI E 202",
 		"author": "M. Grünert"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UCCWG8SC",
+		"id": "UCCWG8SC",
 		"type": "book",
 		"title": "Die Imâla Der Umlaut im Arabischen",
 		"publisherplace": "Vienna",
@@ -10480,7 +10480,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UQAZMFKR",
+		"id": "UQAZMFKR",
 		"type": "book",
 		"title": "Über die Imâla Einleitende Worte",
 		"publisherplace": "Vienna",
@@ -10490,7 +10490,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HNJ2EKJW",
+		"id": "HNJ2EKJW",
 		"type": "book",
 		"title": "Arabische Lesestücke",
 		"publisherplace": "Prague",
@@ -10501,7 +10501,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NAH9S7P5",
+		"id": "NAH9S7P5",
 		"type": "book",
 		"title": "El Wamsa il cavallo Arabo puro sangue",
 		"publisherplace": "Bologna",
@@ -10511,7 +10511,7 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2S5UCSKU",
+		"id": "2S5UCSKU",
 		"type": "book",
 		"title": "Il Nasib Nella Quasi da Araba",
 		"publisherplace": "Paris",
@@ -10521,14 +10521,14 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KI9UP4X8",
+		"id": "KI9UP4X8",
 		"type": "book",
 		"title": "Arabische Wüste",
 		"callnumber": "XVI V 14",
 		"author": " Güssfeldt"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DN7GFA3U",
+		"id": "DN7GFA3U",
 		"type": "book",
 		"title": "Gerasa",
 		"publisherplace": "Leipzig",
@@ -10537,7 +10537,7 @@ var ourData = [
 		"author": "H. Guthe"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W2SIPWFS",
+		"id": "W2SIPWFS",
 		"type": "book",
 		"title": "Ein Dhikr der Rhamanija",
 		"publisherplace": "Berlin",
@@ -10547,14 +10547,14 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/URJFH4MR",
+		"id": "URJFH4MR",
 		"type": "book",
 		"title": "Erinnerungen aus dem Orient",
 		"callnumber": "XVI E 219",
 		"author": "A. Haffner"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HS9DJM2D",
+		"id": "HS9DJM2D",
 		"type": "book",
 		"title": "Rapport sur une Mission Archéologique dans le Jémen",
 		"publisherplace": "Paris",
@@ -10564,7 +10564,7 @@ var ourData = [
 		"issued": "1872"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/78GKP34K",
+		"id": "78GKP34K",
 		"type": "book",
 		"title": "Deutsch-arabisches Hand Wörterbuch",
 		"publisherplace": "Heidelberg",
@@ -10573,7 +10573,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FKPV49E6",
+		"id": "FKPV49E6",
 		"type": "book",
 		"title": "Arabische Konversationsgrammatik",
 		"publisherplace": "Heidelberg",
@@ -10583,7 +10583,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6V6WUQAH",
+		"id": "6V6WUQAH",
 		"type": "book",
 		"title": "Arabisch-Deutsches Wörterbuch",
 		"publisherplace": "Heidelberg",
@@ -10593,7 +10593,7 @@ var ourData = [
 		"issued": "1925"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VG8GX744",
+		"id": "VG8GX744",
 		"type": "book",
 		"title": "Islam. Geschichte, Glaube, Recht",
 		"publisherplace": "Leipzig",
@@ -10603,14 +10603,14 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N7FICUJJ",
+		"id": "N7FICUJJ",
 		"type": "book",
 		"title": "Arabien",
 		"callnumber": "XVI E 173",
 		"author": "M. Hartmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VTXHXHRX",
+		"id": "VTXHXHRX",
 		"type": "book",
 		"title": "Metrum und Rhythmus",
 		"publisherplace": "Giessen",
@@ -10620,7 +10620,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A52EJZDZ",
+		"id": "A52EJZDZ",
 		"type": "book",
 		"title": "Das arabische Strophengedicht. I. Das Muwaššah",
 		"publisherplace": "Weimar",
@@ -10630,7 +10630,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TKJ67G9D",
+		"id": "TKJ67G9D",
 		"type": "book",
 		"title": "Der islamische Orient. Band II. Die arabische Frage",
 		"publisherplace": "Leipzig",
@@ -10640,7 +10640,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KZ8EUSEC",
+		"id": "KZ8EUSEC",
 		"type": "book",
 		"title": "Der Islam",
 		"numberofvolumes": "2",
@@ -10649,7 +10649,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AKZQ9K4Q",
+		"id": "AKZQ9K4Q",
 		"type": "book",
 		"title": "2 neue sabäische Inschriften",
 		"publisherplace": "Leipzig",
@@ -10659,7 +10659,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J29TWGSJ",
+		"id": "J29TWGSJ",
 		"type": "book",
 		"title": "Dichter der neuen Türkei",
 		"publisherplace": "Berlin",
@@ -10669,7 +10669,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SR2C7NSW",
+		"id": "SR2C7NSW",
 		"type": "book",
 		"title": "Palaestina unter den Arabern",
 		"publisherplace": "Leipzig",
@@ -10679,14 +10679,14 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B958W5IB",
+		"id": "B958W5IB",
 		"type": "book",
 		"title": "ʿIrâk",
 		"callnumber": "XVI V 123",
 		"author": "R. Hartmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8ZV9VZJH",
+		"id": "8ZV9VZJH",
 		"type": "book",
 		"title": "The prophetship and the Caliphate",
 		"publisherplace": "Lucknow",
@@ -10697,7 +10697,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3FGIIDC9",
+		"id": "3FGIIDC9",
 		"type": "book",
 		"title": "Kurzgefasste Grammatik der Vulgär-arabischen Sprache",
 		"publisherplace": "Vienna",
@@ -10707,14 +10707,14 @@ var ourData = [
 		"issued": "1869"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HJU3Z23K",
+		"id": "HJU3Z23K",
 		"type": "book",
 		"title": "Ideler Stembiederder Araber",
 		"callnumber": "XVI V 131",
 		"author": "W. Haunner"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I4RJFVJJ",
+		"id": "I4RJFVJJ",
 		"type": "book",
 		"title": "Report on international Congress of Orientalists",
 		"publisherplace": "Washington",
@@ -10724,7 +10724,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XXGDXXET",
+		"id": "XXGDXXET",
 		"type": "book",
 		"title": "Althebraiische Gedichte",
 		"publisherplace": "Weimar",
@@ -10734,7 +10734,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PWP3ZVKI",
+		"id": "PWP3ZVKI",
 		"type": "book",
 		"title": "Arabic-English Dictionary",
 		"publisherplace": "Beirut",
@@ -10744,21 +10744,21 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2R5SPXUE",
+		"id": "2R5SPXUE",
 		"type": "book",
 		"title": "Südarabische Reise",
 		"callnumber": "XVI V 112",
 		"author": "W. Hein"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7KMWQ7VH",
+		"id": "7KMWQ7VH",
 		"type": "book",
 		"title": "Südarabische Itinerare",
 		"callnumber": "XVI V 113",
 		"author": "W. Hein"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B37N3NN8",
+		"id": "B37N3NN8",
 		"type": "book",
 		"title": "Die Religion des Islam von Mohammed bis Ghazali",
 		"publisherplace": "Jena",
@@ -10768,7 +10768,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6TSD45MI",
+		"id": "6TSD45MI",
 		"type": "book",
 		"title": "Die Kultur der Araber",
 		"publisherplace": "Leipzig",
@@ -10778,7 +10778,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8JVU4IMV",
+		"id": "8JVU4IMV",
 		"type": "book",
 		"title": "Kleine Mitteilungen",
 		"publisherplace": "Vienna",
@@ -10788,7 +10788,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4ZEH9RHN",
+		"id": "4ZEH9RHN",
 		"type": "book",
 		"title": "Maimonides Comentar zum Tractat-Jeah",
 		"publisherplace": "Berlin",
@@ -10798,14 +10798,14 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G8PTVHJV",
+		"id": "G8PTVHJV",
 		"type": "book",
 		"title": "Beduinennamen aus Sentralarabien",
 		"callnumber": "XVI E 285",
 		"author": "J.J. Hess"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DUKP6TWR",
+		"id": "DUKP6TWR",
 		"type": "book",
 		"title": "Die Farb beschnungen bei innerarabischen Beduineustämmen",
 		"publisherplace": "Berlin",
@@ -10815,7 +10815,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RXEPGZXB",
+		"id": "RXEPGZXB",
 		"type": "book",
 		"title": "Beduinisches zum alten und neuen Testament",
 		"publisherplace": "Zürich",
@@ -10825,14 +10825,14 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QRPRMQFQ",
+		"id": "QRPRMQFQ",
 		"type": "book",
 		"title": "Geographische Benennungen und Pflansennamen in der nördlichen Bischári Sprache",
 		"callnumber": "XVI S 136",
 		"author": "J.J. Hess"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6EKDIFW9",
+		"id": "6EKDIFW9",
 		"type": "book",
 		"title": "Die Kultur der Gegenwart: Die orientalischen Literatur",
 		"publisherplace": "Berlin",
@@ -10842,7 +10842,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GN7ZCMNA",
+		"id": "GN7ZCMNA",
 		"type": "book",
 		"title": "New Researches into the Composition and Exegesis of the Quoran",
 		"publisherplace": "London",
@@ -10852,28 +10852,28 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PVNJ7IEK",
+		"id": "PVNJ7IEK",
 		"type": "book",
 		"title": "Temoignage de l'Eglise Syro-Maronite",
 		"callnumber": "XVI S 183",
 		"author": "J. Hobeika"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M4ACZ25X",
+		"id": "M4ACZ25X",
 		"type": "book",
 		"title": "Extraits des discours de St. Ephrem choisie de l'office fériale Maroite et traduits en Arabe",
 		"callnumber": "XVI S 189",
 		"author": "J. Hobeika"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FRA4T3QU",
+		"id": "FRA4T3QU",
 		"type": "book",
 		"title": "Rituel des offices et cérémonies en usage dans l'église syro-maronite I partie Les Ordinationes chez les Maronites",
 		"callnumber": "XVI S 191",
 		"author": "J. Hobeika"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GT2VCU96",
+		"id": "GT2VCU96",
 		"type": "book",
 		"title": "Beiträge zur arabischen Papyrusforschung",
 		"publisherplace": "Strassburg",
@@ -10882,7 +10882,7 @@ var ourData = [
 		"author": "R. Hofmeier"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VP69WFWN",
+		"id": "VP69WFWN",
 		"type": "book",
 		"title": "The Penetration of Arabia",
 		"publisherplace": "London",
@@ -10892,7 +10892,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KES9I6MK",
+		"id": "KES9I6MK",
 		"type": "book",
 		"title": "Aufsätze und Abhandlungen",
 		"publisherplace": "Munich",
@@ -10902,7 +10902,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IBBMJ2CM",
+		"id": "IBBMJ2CM",
 		"type": "book",
 		"title": "Die semitischen Völker und Sprachen",
 		"publisherplace": "Leipzig",
@@ -10912,7 +10912,7 @@ var ourData = [
 		"issued": "1863"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GPP5JEUQ",
+		"id": "GPP5JEUQ",
 		"type": "book",
 		"title": "Arabistische Anseigen",
 		"publisherplace": "Munich",
@@ -10922,7 +10922,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KPK27W8W",
+		"id": "KPK27W8W",
 		"type": "book",
 		"title": "Die Namen des Sängeticre bei den südsemitischen Völkern",
 		"publisherplace": "Leipzig",
@@ -10932,21 +10932,21 @@ var ourData = [
 		"issued": "1879"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/899NSJGD",
+		"id": "899NSJGD",
 		"type": "book",
 		"title": "Die altorientalischen Teppiche",
 		"callnumber": "XVI E 167",
 		"author": "K. Hopf"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IGJKDV9Z",
+		"id": "IGJKDV9Z",
 		"type": "book",
 		"title": "Das äthiopische Makkabaerbuch",
 		"callnumber": "XVI S 179",
 		"author": "J. Horovitz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UI4RTZE7",
+		"id": "UI4RTZE7",
 		"type": "book",
 		"title": "The Inscriptions of H. Muhammad ibn Sam Quṭbuddin Ailig and Iltutmish",
 		"publisherplace": "Calcutta",
@@ -10955,7 +10955,7 @@ var ourData = [
 		"author": "J. Horovitz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QF3X7CIQ",
+		"id": "QF3X7CIQ",
 		"type": "book",
 		"title": "A List of the published Muhamedan inscriptions of India",
 		"publisherplace": "Calcutta",
@@ -10964,14 +10964,14 @@ var ourData = [
 		"author": "J. Horovitz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2XSUW9BT",
+		"id": "2XSUW9BT",
 		"type": "book",
 		"title": "Baba Rataur the Saint of Bhatinda",
 		"callnumber": "XVI E 21",
 		"author": "J. Horovitz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ID47QB4P",
+		"id": "ID47QB4P",
 		"type": "book",
 		"title": "Koranische Untersuchungen",
 		"publisherplace": "Leipzig",
@@ -10981,7 +10981,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2ABTH4H8",
+		"id": "2ABTH4H8",
 		"type": "book",
 		"title": "Zur Muhammadlegende",
 		"publisherplace": "Strassburg",
@@ -10990,7 +10990,7 @@ var ourData = [
 		"author": "J. Horovitz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2CJIRW2R",
+		"id": "2CJIRW2R",
 		"type": "book",
 		"title": "Muhammeds Himmelfahrt",
 		"publisherplace": "Strassburg",
@@ -11000,7 +11000,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XV2UFEQE",
+		"id": "XV2UFEQE",
 		"type": "book",
 		"title": "Ind. Mohammedauer",
 		"publisherplace": "Berlin",
@@ -11010,7 +11010,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UN7SU88C",
+		"id": "UN7SU88C",
 		"type": "book",
 		"title": "Enzyklopädie des Islam",
 		"publisherplace": "Leiden",
@@ -11020,7 +11020,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NB5DAQHU",
+		"id": "NB5DAQHU",
 		"type": "book",
 		"title": "A Grammar of the Classical Arabic callnumber",
 		"publisherplace": "Allahabad",
@@ -11030,7 +11030,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/33S8WSCA",
+		"id": "33S8WSCA",
 		"type": "book",
 		"title": "Sumenische und babylonische Mythen",
 		"publisherplace": "Berlin",
@@ -11040,7 +11040,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P4E23Z4J",
+		"id": "P4E23Z4J",
 		"type": "book",
 		"title": "Die Sprache der Hethiter",
 		"publisherplace": "Leipzig",
@@ -11050,7 +11050,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZK2TTPDS",
+		"id": "ZK2TTPDS",
 		"type": "book",
 		"title": "Das Getreide im alten Babyloniën",
 		"publisherplace": "Vienna",
@@ -11060,14 +11060,14 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P2ZCGHWC",
+		"id": "P2ZCGHWC",
 		"type": "book",
 		"title": "Maria",
 		"callnumber": "XVI S 95",
 		"author": "F. Hrozny"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TQ93IPFC",
+		"id": "TQ93IPFC",
 		"type": "book",
 		"title": "Über das Bier im alten Babylonien und Aegypten",
 		"publisherplace": "Vienna",
@@ -11077,7 +11077,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JHV2RPGX",
+		"id": "JHV2RPGX",
 		"type": "book",
 		"title": "Une nouvelle source de Quorân",
 		"publisherplace": "Paris",
@@ -11087,7 +11087,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9D7W53F5",
+		"id": "9D7W53F5",
 		"type": "book",
 		"title": "Historie des Arabes",
 		"publisherplace": "Paris",
@@ -11097,7 +11097,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RVBF9T9P",
+		"id": "RVBF9T9P",
 		"type": "book",
 		"title": "Über das Meisis genamte  Spiel",
 		"publisherplace": "Leipzig",
@@ -11107,7 +11107,7 @@ var ourData = [
 		"issued": "1813"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FZUH9MKU",
+		"id": "FZUH9MKU",
 		"type": "book",
 		"title": "Die einheimischen Quellen zur Geschichte Elams I Teil Alttestamentliche Texte",
 		"publisherplace": "Leipzig",
@@ -11117,7 +11117,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WEMXFHMR",
+		"id": "WEMXFHMR",
 		"type": "book",
 		"title": "Die iranischen Eigennamen in den Achämenideninschriften",
 		"publisherplace": "Yorcker",
@@ -11127,14 +11127,14 @@ var ourData = [
 		"issued": "1877"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/76PQPEZC",
+		"id": "76PQPEZC",
 		"type": "book",
 		"title": "Die Sprache Islams Hwarizmi v. Musik Islams",
 		"callnumber": "XVI S 154",
 		"author": "G. Hüsing"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8GJ2RPQX",
+		"id": "8GJ2RPQX",
 		"type": "book",
 		"title": "Das Buch Daniel",
 		"publisherplace": "Leipzig",
@@ -11144,7 +11144,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZMX5TNQN",
+		"id": "ZMX5TNQN",
 		"type": "book",
 		"title": "Die Bücher Ezra und Nehemija",
 		"publisherplace": "Leiden",
@@ -11154,7 +11154,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W9F66TMK",
+		"id": "W9F66TMK",
 		"type": "book",
 		"title": "Über den Gottesbegriff der alten Hebräer und ihre Geschichtsschreibung",
 		"publisherplace": "Leiden",
@@ -11164,7 +11164,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C75S5CSU",
+		"id": "C75S5CSU",
 		"type": "book",
 		"title": "Das Buch Ester",
 		"publisherplace": "Leiden",
@@ -11174,7 +11174,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PTDRWZDE",
+		"id": "PTDRWZDE",
 		"type": "book",
 		"title": "Das Beduinen leben im Lichte der Beduinenpoesie",
 		"publisherplace": "Braunschweig",
@@ -11184,7 +11184,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TSKMT2EU",
+		"id": "TSKMT2EU",
 		"type": "book",
 		"title": "Die Bektaschije in ihrem Verhältnis zu verwandten alten erscheinungen",
 		"publisherplace": "Munich",
@@ -11194,7 +11194,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UCMHE7K7",
+		"id": "UCMHE7K7",
 		"type": "book",
 		"title": "Östliche Kulturelemente im Abendland",
 		"publisherplace": "Berlin",
@@ -11204,7 +11204,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/37CDSSAM",
+		"id": "37CDSSAM",
 		"type": "book",
 		"title": "Altarabisches Beduinenleben",
 		"publisherplace": "Berlin",
@@ -11214,7 +11214,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ATRQPMVR",
+		"id": "ATRQPMVR",
 		"type": "book",
 		"title": "Die Geschichte des Schattentheater",
 		"publisherplace": "Berlin",
@@ -11224,7 +11224,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QVKG3SBQ",
+		"id": "QVKG3SBQ",
 		"type": "book",
 		"title": "Tauben und Fluglüchner",
 		"publisherplace": "Strassburg",
@@ -11233,7 +11233,7 @@ var ourData = [
 		"author": "G. Jakob"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7WRPBPS6",
+		"id": "7WRPBPS6",
 		"type": "book",
 		"title": "Studien in arabischen Dichtern",
 		"publisherplace": "Berlin",
@@ -11243,7 +11243,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JD9UUI9P",
+		"id": "JD9UUI9P",
 		"type": "book",
 		"title": "Soliman des frossur Diwan",
 		"publisherplace": "Berlin",
@@ -11253,7 +11253,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/92JHKQU3",
+		"id": "92JHKQU3",
 		"type": "book",
 		"title": "Das Hohelied auf grund arabischer und anderer Parallelen",
 		"publisherplace": "Berlin",
@@ -11263,7 +11263,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H7NUQSA3",
+		"id": "H7NUQSA3",
 		"type": "book",
 		"title": "Der Divan Sultan Mehmed II",
 		"publisherplace": "Berlin",
@@ -11273,7 +11273,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6IT8KWI5",
+		"id": "6IT8KWI5",
 		"type": "book",
 		"title": "Hilfsbuch für Vorlesungen über das Osmanisch-Türkische",
 		"publisherplace": "Berlin",
@@ -11283,7 +11283,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QTAN5FG3",
+		"id": "QTAN5FG3",
 		"type": "book",
 		"title": "Vorträge türkischer Meddâli's",
 		"publisherplace": "Berlin",
@@ -11293,7 +11293,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PU84VJPG",
+		"id": "PU84VJPG",
 		"type": "book",
 		"title": "Türkische Bibliothek",
 		"publisherplace": "Berlin",
@@ -11303,7 +11303,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G8N75CAI",
+		"id": "G8N75CAI",
 		"type": "book",
 		"title": "Die Religion Babyloniens und Assyriens",
 		"publisherplace": "Giessen",
@@ -11313,7 +11313,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HW38G5JU",
+		"id": "HW38G5JU",
 		"type": "book",
 		"title": "Bildermappe zur Religion Babyloniens und Assyriens",
 		"publisherplace": "Giessen",
@@ -11322,7 +11322,7 @@ var ourData = [
 		"author": " Jastrow"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E6QEXWHK",
+		"id": "E6QEXWHK",
 		"type": "book",
 		"title": "Contumes palestinae Naplonse et son district",
 		"publisherplace": "Paris",
@@ -11332,7 +11332,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H2FBMNHD",
+		"id": "H2FBMNHD",
 		"type": "book",
 		"title": "Handbuch der altorientalischen Geisteskultur",
 		"publisherplace": "Leipzig",
@@ -11342,7 +11342,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8SV338MB",
+		"id": "8SV338MB",
 		"type": "book",
 		"title": "Die Dâmonen und ihre cohwehr",
 		"publisherplace": "Leipzig",
@@ -11352,7 +11352,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X5MH6Z7G",
+		"id": "X5MH6Z7G",
 		"type": "book",
 		"title": "Yumkir-Ezemiak Kordofau - Texte im Dialekt von Gebel Dais",
 		"publisherplace": "Vienna",
@@ -11362,28 +11362,28 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V23BM4SI",
+		"id": "V23BM4SI",
 		"type": "book",
 		"title": "Sarikat Islam",
 		"callnumber": "XVI E 124",
 		"author": "Th.W. Juynboll"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5JPVQ9Q5",
+		"id": "5JPVQ9Q5",
 		"type": "book",
 		"title": "Hadith sonderabdruck aus der Enzyklopädie des Islam",
 		"callnumber": "XVI E 25",
 		"author": "Th.W. Juynboll"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B4C662W6",
+		"id": "B4C662W6",
 		"type": "book",
 		"title": "Über die Bodentung des Wortes Taichisik",
 		"callnumber": "XVI E 309",
 		"author": "Th.W. Juynboll"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/STBNBVVZ",
+		"id": "STBNBVVZ",
 		"type": "book",
 		"title": "De Hoofdregelen der Sja-fiʿitische Leer van het Pandrecht",
 		"publisherplace": "Leiden",
@@ -11393,7 +11393,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8T5TT3PC",
+		"id": "8T5TT3PC",
 		"type": "book",
 		"title": "Das Alte Testament im Lichte des Alten Orients",
 		"publisherplace": "Leipzig",
@@ -11404,7 +11404,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SGHKNNXA",
+		"id": "SGHKNNXA",
 		"type": "book",
 		"title": "Eine Weibesgeschichte und andere Novellen",
 		"publisherplace": "Leipzig",
@@ -11413,7 +11413,7 @@ var ourData = [
 		"author": "J. Kadri"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VKDKCCSE",
+		"id": "VKDKCCSE",
 		"type": "book",
 		"title": "Islamische Schattenspielfiguren aus Aegypten",
 		"publisherplace": "Strassburg",
@@ -11423,13 +11423,13 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HZQEQ7CV",
+		"id": "HZQEQ7CV",
 		"type": "book",
 		"title": "Kalendar 1908/1909 mit einem Anhang",
 		"callnumber": "XVI S 180"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/46H7F2CZ",
+		"id": "46H7F2CZ",
 		"type": "book",
 		"title": "Das augeblische Bilderverbot des Islam",
 		"publisherplace": "Nüremberg",
@@ -11439,7 +11439,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RG5BVM5I",
+		"id": "RG5BVM5I",
 		"type": "book",
 		"title": "Zur Orientalischen Altestumskunde",
 		"publisherplace": "Vienna",
@@ -11450,14 +11450,14 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2FKU5WJC",
+		"id": "2FKU5WJC",
 		"type": "book",
 		"title": "Arabic Palaeography",
 		"callnumber": "XVI E 302",
 		"author": "I. Karabacek"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K4JGANTD",
+		"id": "K4JGANTD",
 		"type": "book",
 		"title": "Beitrage zur Geschichte der Marjaditen",
 		"publisherplace": "Leipzig",
@@ -11467,7 +11467,7 @@ var ourData = [
 		"issued": "1874"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A4ZU775A",
+		"id": "A4ZU775A",
 		"type": "book",
 		"title": "Die Apokrypgen und Pseudoepographen des alten Testaments",
 		"publisherplace": "Tübingen",
@@ -11477,14 +11477,14 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NP25FE8A",
+		"id": "NP25FE8A",
 		"type": "book",
 		"title": "The Transliteration of Pehlevi",
 		"callnumber": "XVI S 144",
 		"author": "I. Kirste"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WVVG55ZN",
+		"id": "WVVG55ZN",
 		"type": "book",
 		"title": "Geschichte des Volkes Israel",
 		"publisherplace": "Gotha",
@@ -11495,7 +11495,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G2WWESSX",
+		"id": "G2WWESSX",
 		"type": "book",
 		"title": "Geschichte des Volkes Israel",
 		"publisherplace": "Gotha",
@@ -11506,7 +11506,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4B85JGEW",
+		"id": "4B85JGEW",
 		"type": "book",
 		"title": "Die alttestamentliche Wissenschaft",
 		"publisherplace": "Leipzig",
@@ -11516,7 +11516,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GZXUFXJU",
+		"id": "GZXUFXJU",
 		"type": "book",
 		"title": "Geschichte der Hebraër",
 		"publisherplace": "Gotha",
@@ -11526,7 +11526,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P8THEVIE",
+		"id": "P8THEVIE",
 		"type": "book",
 		"title": "Gestalten und Gedanken in Israel",
 		"publisherplace": "Leipzig",
@@ -11535,7 +11535,7 @@ var ourData = [
 		"author": "R. Kittel"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CANV4U5X",
+		"id": "CANV4U5X",
 		"type": "book",
 		"title": "Politisch-eclipöse Leit aus des Sasgonidenseit",
 		"publisherplace": "Leipzig",
@@ -11545,7 +11545,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7F7M9G8F",
+		"id": "7F7M9G8F",
 		"type": "book",
 		"title": "Beiträge zur geographie und Geschichte Galilaäs",
 		"publisherplace": "Leipzig",
@@ -11555,7 +11555,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M7MCNE96",
+		"id": "M7MCNE96",
 		"type": "book",
 		"title": "Die Himmelstadt",
 		"publisherplace": "Leipzig",
@@ -11565,7 +11565,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MPPFIQAJ",
+		"id": "MPPFIQAJ",
 		"type": "book",
 		"title": "Sebna und Eljakim",
 		"callnumber": "XVI S 89",
@@ -11573,14 +11573,14 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ND2XWAVS",
+		"id": "ND2XWAVS",
 		"type": "book",
 		"title": "Hasnurapis",
 		"callnumber": "XVI S 110",
 		"author": " Koschaker"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UKMVSZI5",
+		"id": "UKMVSZI5",
 		"type": "book",
 		"title": "Poesya staroarabka",
 		"callnumber": "XVI E 216",
@@ -11588,21 +11588,21 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GCWG46WV",
+		"id": "GCWG46WV",
 		"type": "book",
 		"title": "Die ältesten Erwajungen der Türken in der arabischen Literatur",
 		"callnumber": "XVI E 291",
 		"author": "F. Kowalski"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5VKAH4ZD",
+		"id": "5VKAH4ZD",
 		"type": "book",
 		"title": "Piozenki Ludove anatolske o rozbojniku arakydeym",
 		"callnumber": "XVI S 107",
 		"author": "F. Kowalski"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P9HCITJ2",
+		"id": "P9HCITJ2",
 		"type": "book",
 		"title": "Koraimische Texte im Dialekt von Troki",
 		"publisherplace": "Krakow",
@@ -11612,7 +11612,7 @@ var ourData = [
 		"issued": "1929"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FSUXSN4A",
+		"id": "FSUXSN4A",
 		"type": "book",
 		"title": "Le studiownad forma poesji Ludo tureckizel",
 		"publisherplace": "Krakow",
@@ -11622,21 +11622,21 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7REZT59D",
+		"id": "7REZT59D",
 		"type": "book",
 		"title": "Gesty towarsynszacc woruszeuiom w ludow nuizufmauskicah",
 		"callnumber": "XVI E 295",
 		"author": "F. Kowalski"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R53VJRDJ",
+		"id": "R53VJRDJ",
 		"type": "book",
 		"title": "Übersicht über die neueste türkische Literatur",
 		"callnumber": "XVI S 76",
 		"author": "Fr. Kaelitz-Greifenhorst"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JRJS8EPP",
+		"id": "JRJS8EPP",
 		"type": "book",
 		"title": "Osmanische Urkunden in türkischen Sprache",
 		"publisherplace": "Vienna",
@@ -11646,7 +11646,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CJ97P22H",
+		"id": "CJ97P22H",
 		"type": "book",
 		"title": "Die Verfassungsgesetze des osmanischen Reiches",
 		"publisherplace": "Vienna",
@@ -11656,7 +11656,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/46A9XNIT",
+		"id": "46A9XNIT",
 		"type": "book",
 		"title": "Das Leben des Muhamed",
 		"publisherplace": "Leipzig",
@@ -11666,7 +11666,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QEIHTTV5",
+		"id": "QEIHTTV5",
 		"type": "book",
 		"title": "Beiträge zur thaiaktessistik des Lehre vom Glauben im Islam",
 		"publisherplace": "Leipzig",
@@ -11676,7 +11676,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PKE5B89P",
+		"id": "PKE5B89P",
 		"type": "book",
 		"title": "Über die Religion der vorislamische Araber",
 		"publisherplace": "Leipzig",
@@ -11686,7 +11686,7 @@ var ourData = [
 		"issued": "1863"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8D4BE2QU",
+		"id": "8D4BE2QU",
 		"type": "book",
 		"title": "Geschichte der Lurschen den Ideen des Islam",
 		"publisherplace": "Leipzig",
@@ -11696,7 +11696,7 @@ var ourData = [
 		"issued": "1868"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2NMHPZVU",
+		"id": "2NMHPZVU",
 		"type": "book",
 		"title": "Semitische Kulturentlehnungen",
 		"publisherplace": "Stuttgart",
@@ -11706,7 +11706,7 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R7VJZGRG",
+		"id": "R7VJZGRG",
 		"type": "book",
 		"title": "Culturgeschichte des Orients unter den Chalifen",
 		"publisherplace": "Vienna",
@@ -11716,14 +11716,14 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TPGXH68U",
+		"id": "TPGXH68U",
 		"type": "book",
 		"title": "Gesammelte Abhandlungen",
 		"callnumber": "XVI E 389",
 		"author": "A. Kremer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UZGWP4RI",
+		"id": "UZGWP4RI",
 		"type": "book",
 		"title": "Beiträge zur Geographie des nördlichen Syriens",
 		"publisherplace": "Vienna",
@@ -11733,7 +11733,7 @@ var ourData = [
 		"issued": "1852"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MA6CTEFN",
+		"id": "MA6CTEFN",
 		"type": "book",
 		"title": "Mittelsyrien und Damaskus",
 		"publisherplace": "Vienna",
@@ -11743,7 +11743,7 @@ var ourData = [
 		"issued": "1853"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I4ZF6NCJ",
+		"id": "I4ZF6NCJ",
 		"type": "book",
 		"title": "Discours prononcé au septième congrès international des Orientalistes",
 		"publisherplace": "Vienna",
@@ -11753,7 +11753,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/83HCBWHZ",
+		"id": "83HCBWHZ",
 		"type": "book",
 		"title": "The Use of Writing for the Preservation of Ancient Arabic Poetry",
 		"publisherplace": "Cambridge",
@@ -11763,14 +11763,14 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T82RJHGW",
+		"id": "T82RJHGW",
 		"type": "book",
 		"title": "Eduard Glaser's astronomische Beobachtungen im Jemen im Jahre 1883",
 		"callnumber": "XVI V 115",
 		"author": "H. Kumpholz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H2WJKSVU",
+		"id": "H2WJKSVU",
 		"type": "book",
 		"title": "Zu den griechischen Elementen im Arabischen und Türkischen",
 		"publisherplace": "Munich",
@@ -11779,7 +11779,7 @@ var ourData = [
 		"author": " Krumbacher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UQRH5I7U",
+		"id": "UQRH5I7U",
 		"type": "book",
 		"title": "Aus berühmten Handschriften und seltenen Drucken in bayrischen Bibliotheken",
 		"publisherplace": "Munich",
@@ -11789,14 +11789,14 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S7JQVX7R",
+		"id": "S7JQVX7R",
 		"type": "book",
 		"title": "Sinica",
 		"callnumber": "XVI S 131",
 		"author": " Kühnut"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/623WIHEQ",
+		"id": "623WIHEQ",
 		"type": "book",
 		"title": "Gesänge russischen Kriegsgefangener",
 		"publisherplace": "Vienna",
@@ -11806,7 +11806,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/48R97G5E",
+		"id": "48R97G5E",
 		"type": "book",
 		"title": "Übersicht über die im Aramäischen, Arabischen, Hebräischen übliche Bildung des Nomina",
 		"publisherplace": "Göttingen",
@@ -11816,7 +11816,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F94S87HD",
+		"id": "F94S87HD",
 		"type": "book",
 		"title": "Turim",
 		"publisherplace": "Göttingen",
@@ -11826,7 +11826,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9NWX5R6B",
+		"id": "9NWX5R6B",
 		"type": "book",
 		"title": "Die 4 Evangelien arabisch",
 		"publisherplace": "Leipzig",
@@ -11836,7 +11836,7 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2RCGX226",
+		"id": "2RCGX226",
 		"type": "book",
 		"title": "Arabes mitsati",
 		"publisherplace": "Göttingen",
@@ -11846,7 +11846,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7X9T89RW",
+		"id": "7X9T89RW",
 		"type": "book",
 		"title": "Fatima et les Filles de Mahomet",
 		"publisherplace": "Rome",
@@ -11856,7 +11856,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K5X6V6KR",
+		"id": "K5X6V6KR",
 		"type": "book",
 		"title": "L'Islam Croyonices et institutions",
 		"publisherplace": "Beirut",
@@ -11866,7 +11866,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZCE234XG",
+		"id": "ZCE234XG",
 		"type": "book",
 		"title": "Iyād ibn Abīhi",
 		"publisherplace": "Rome",
@@ -11876,7 +11876,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GJVTVFHZ",
+		"id": "GJVTVFHZ",
 		"type": "book",
 		"title": "Les Ahalis et l'Organisation militaire de la Mecque au siècle de l'Hégire",
 		"publisherplace": "Paris",
@@ -11886,7 +11886,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8BE2GCGD",
+		"id": "8BE2GCGD",
 		"type": "book",
 		"title": "Quoran et TRadition",
 		"publisherplace": "Paris",
@@ -11895,7 +11895,7 @@ var ourData = [
 		"author": "H. Lammens S.J."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F495SBGX",
+		"id": "F495SBGX",
 		"type": "book",
 		"title": "L'avénement des Marwamētes et le Califat de Marwān Ier",
 		"publisherplace": "Beirut",
@@ -11905,14 +11905,14 @@ var ourData = [
 		"issued": "1929"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IPDMSQAS",
+		"id": "IPDMSQAS",
 		"type": "book",
 		"title": "A propos de Ali ibn Abi Tâlib",
 		"callnumber": "XVI E 159",
 		"author": "H. Lammens S.J."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IVEUAD75",
+		"id": "IVEUAD75",
 		"type": "book",
 		"title": "Mahomed fut il succèse",
 		"publisherplace": "Rome",
@@ -11921,7 +11921,7 @@ var ourData = [
 		"author": "H. Lammens S.J."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BXV68S4A",
+		"id": "BXV68S4A",
 		"type": "book",
 		"title": "La lité Arabe de Tarif a la Veille de l'Hegire",
 		"publisherplace": "Beirut",
@@ -11931,7 +11931,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JPU4M54K",
+		"id": "JPU4M54K",
 		"type": "book",
 		"title": "Le Berceau de l'Islam",
 		"publisherplace": "Rome",
@@ -11941,14 +11941,14 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UTDMGEX5",
+		"id": "UTDMGEX5",
 		"type": "book",
 		"title": "Tar on vendetta",
 		"callnumber": "XVI E 367",
 		"author": "H. Lammens S.J."
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TEEJIZN9",
+		"id": "TEEJIZN9",
 		"type": "book",
 		"title": "Critica Arabica",
 		"publisherplace": "Leiden",
@@ -11958,7 +11958,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5RHHRHJ8",
+		"id": "5RHHRHJ8",
 		"type": "book",
 		"title": "La langue Arabe et ses Dialektes",
 		"publisherplace": "Leiden",
@@ -11968,7 +11968,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5K24VXW",
+		"id": "F5K24VXW",
 		"type": "book",
 		"title": "Langue des Béduinis-Amazeh. Texte Arabe",
 		"publisherplace": "Leiden",
@@ -11978,7 +11978,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C59C7D7U",
+		"id": "C59C7D7U",
 		"type": "book",
 		"title": "Etudes sur les dialectes de l'Arabie Méridionale",
 		"publisherplace": "Leiden",
@@ -11988,7 +11988,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CFXDNKKG",
+		"id": "CFXDNKKG",
 		"type": "book",
 		"title": "Etudes sur les dialectes de l'Arabie Méridionale",
 		"publisherplace": "Leiden",
@@ -11998,7 +11998,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RX588AKS",
+		"id": "RX588AKS",
 		"type": "book",
 		"title": "Arabic-English Lexicon",
 		"callnumber": "XVI E 363",
@@ -12006,7 +12006,7 @@ var ourData = [
 		"issued": "1863"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JRU9DMTQ",
+		"id": "JRU9DMTQ",
 		"type": "book",
 		"title": "Numismatique des Arabes avant l'Islamisme",
 		"publisherplace": "Paris",
@@ -12016,7 +12016,7 @@ var ourData = [
 		"issued": "1869"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JGZKDUPB",
+		"id": "JGZKDUPB",
 		"type": "book",
 		"title": "Numismatique des Arabes avant l'Islamisme",
 		"publisherplace": "Paris",
@@ -12026,7 +12026,7 @@ var ourData = [
 		"issued": "1859"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5JNE34HS",
+		"id": "5JNE34HS",
 		"type": "book",
 		"title": "Die Religionen des Orients",
 		"publisherplace": "Leipzig",
@@ -12036,7 +12036,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8U6DHA7X",
+		"id": "8U6DHA7X",
 		"type": "book",
 		"title": "Die Religionen des Orients und die altgermanische Religion",
 		"publisherplace": "Leipzig",
@@ -12046,7 +12046,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PCEHKFJU",
+		"id": "PCEHKFJU",
 		"type": "book",
 		"title": "Die Juden in Arabien zur Zeit Mohammeds",
 		"publisherplace": "Berlin",
@@ -12056,7 +12056,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TQ8QWMU8",
+		"id": "TQ8QWMU8",
 		"type": "book",
 		"title": "Memmon",
 		"publisherplace": "Berlin",
@@ -12067,7 +12067,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AUA6D53K",
+		"id": "AUA6D53K",
 		"type": "book",
 		"title": "Ephemeris für semitische Epigraphik",
 		"publisherplace": "Giessen",
@@ -12078,7 +12078,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BP7767VH",
+		"id": "BP7767VH",
 		"type": "book",
 		"title": "Vom Wiener orientalischen Kongress",
 		"publisherplace": "Dresden",
@@ -12088,7 +12088,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5IA8FXTK",
+		"id": "5IA8FXTK",
 		"type": "book",
 		"title": "Der Krieg und der islamische Orient",
 		"publisherplace": "Leipzig",
@@ -12097,7 +12097,7 @@ var ourData = [
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D7HXQRDC",
+		"id": "D7HXQRDC",
 		"type": "book",
 		"title": "Digennu-Arabisch",
 		"publisherplace": "Bonn",
@@ -12107,7 +12107,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CE8XUXJQ",
+		"id": "CE8XUXJQ",
 		"type": "book",
 		"title": "Geʿes Studien",
 		"publisherplace": "Göttingen",
@@ -12116,7 +12116,7 @@ var ourData = [
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BWI9JFGD",
+		"id": "BWI9JFGD",
 		"type": "book",
 		"title": "Nabatäische-friedrische Bilinguen",
 		"publisherplace": "Strassburg",
@@ -12125,7 +12125,7 @@ var ourData = [
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X7TJNM4X",
+		"id": "X7TJNM4X",
 		"type": "book",
 		"title": "Arabische Strassenansufe",
 		"publisherplace": "Berlin",
@@ -12134,7 +12134,7 @@ var ourData = [
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EW3B38M5",
+		"id": "EW3B38M5",
 		"type": "book",
 		"title": "Der Caissiner Strassenhandel in seinen Ausrufen",
 		"publisherplace": "Weimar",
@@ -12144,7 +12144,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KK5RTPCG",
+		"id": "KK5RTPCG",
 		"type": "book",
 		"title": "Der Entsifferung der Mohammedanischen Inschriften",
 		"publisherplace": "Berlin",
@@ -12154,14 +12154,14 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PQ6TT9H3",
+		"id": "PQ6TT9H3",
 		"type": "book",
 		"title": "Arabic humor",
 		"callnumber": "XVI E 277",
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R3TAQUZU",
+		"id": "R3TAQUZU",
 		"type": "book",
 		"title": "Publications of the Juive An Expedition to Algeria",
 		"publisherplace": "Leiden",
@@ -12171,14 +12171,14 @@ var ourData = [
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X8S6F99W",
+		"id": "X8S6F99W",
 		"type": "book",
 		"title": "Amerkformen in orientalische Bedeutung",
 		"callnumber": "XVI S 119",
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/27UCZP3M",
+		"id": "27UCZP3M",
 		"type": "book",
 		"title": "Ruimmstatture und Schrift denkmäle Syriens",
 		"publisherplace": "Leipzig",
@@ -12188,14 +12188,14 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SASQ7JGN",
+		"id": "SASQ7JGN",
 		"type": "book",
 		"title": "Die Inschriften des Königs Rahman",
 		"callnumber": "XVI S 147",
 		"author": "E. Littmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PZXA67JN",
+		"id": "PZXA67JN",
 		"type": "book",
 		"title": "Das Markospiel im Schattenspiel aus Aleppo",
 		"publisherplace": "Heidelberg",
@@ -12205,7 +12205,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/69BT7ISE",
+		"id": "69BT7ISE",
 		"type": "book",
 		"title": "Die altamkassischen Klarig lieder",
 		"publisherplace": "Strassburg",
@@ -12215,7 +12215,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G6FAIBRD",
+		"id": "G6FAIBRD",
 		"type": "book",
 		"title": "Tharsis oder Ninive",
 		"publisherplace": "Leipzig",
@@ -12225,14 +12225,14 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A8Z8AGUJ",
+		"id": "A8Z8AGUJ",
 		"type": "book",
 		"title": "Eure und Wichke",
 		"callnumber": "XVI E 326",
 		"author": "I. Löw"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NMVWRR9Q",
+		"id": "NMVWRR9Q",
 		"type": "book",
 		"title": "Aramaische Pflanzennamen",
 		"publisherplace": "Leipzig",
@@ -12242,7 +12242,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H4MM3R2T",
+		"id": "H4MM3R2T",
 		"type": "book",
 		"title": "Die Echtheit der merkebitischen Inschrift im Lourer",
 		"publisherplace": "Vienna",
@@ -12252,14 +12252,14 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6F6TD67W",
+		"id": "6F6TD67W",
 		"type": "book",
 		"title": "Die Benutzung der Glanzenwelt aus der alttestamentlischen Religion",
 		"callnumber": "XVI V 98",
 		"author": "Fr. Lundgreen"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2M9GJDV4",
+		"id": "2M9GJDV4",
 		"type": "book",
 		"title": "The Pictorial Aspects of ancient Arabian Poetry",
 		"callnumber": "XVI E 327",
@@ -12267,7 +12267,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W8ATZXDQ",
+		"id": "W8ATZXDQ",
 		"type": "book",
 		"title": "The callnumber of the Nawar or sult the nomad Smiths of palestine",
 		"publisherplace": "London",
@@ -12276,7 +12276,7 @@ var ourData = [
 		"author": "St. Macalistu"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KCFU6TSF",
+		"id": "KCFU6TSF",
 		"type": "book",
 		"title": "De l'incirisite de Beyrouth",
 		"callnumber": "XVI E 318",
@@ -12284,7 +12284,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NMTPAC87",
+		"id": "NMTPAC87",
 		"type": "book",
 		"title": "Studien zur Theorie der Möglichkeit und Ähulischkeit",
 		"publisherplace": "Vienna",
@@ -12294,7 +12294,7 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9GC94T75",
+		"id": "9GC94T75",
 		"type": "book",
 		"title": "Reise nach Südarabien",
 		"publisherplace": "Braunschweig",
@@ -12304,7 +12304,7 @@ var ourData = [
 		"issued": "1873"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PCTQI2ZQ",
+		"id": "PCTQI2ZQ",
 		"type": "book",
 		"title": "Wiede's Reise in Hadhramant",
 		"publisherplace": "Braunschweig",
@@ -12314,13 +12314,13 @@ var ourData = [
 		"issued": "1873"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5A494QXP",
+		"id": "5A494QXP",
 		"type": "book",
 		"title": "El-Mawrâêz waʾl-I ʾTeiâi fi Dhikr-el-Khitat waʾl-Athâi",
 		"author": " Moqurîzî and  Wiet"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/43UBT7R8",
+		"id": "43UBT7R8",
 		"type": "book",
 		"title": "Altjüdische Sprache Methsik und Lunastheosophie",
 		"publisherplace": "Duse",
@@ -12330,7 +12330,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7TUSE4BP",
+		"id": "7TUSE4BP",
 		"type": "book",
 		"title": "The Relations between Arabs and Israelites prior to the Rise of Islam",
 		"publisherplace": "London",
@@ -12340,7 +12340,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/826MEJKN",
+		"id": "826MEJKN",
 		"type": "book",
 		"title": "Select ARabic-Papyri of the Rylands Collection",
 		"publisherplace": "Manchester",
@@ -12349,7 +12349,7 @@ var ourData = [
 		"author": "D.S. Margoliouth"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3X7VTW96",
+		"id": "3X7VTW96",
 		"type": "book",
 		"title": "Studien zur semitischen Philologie und Religionsgeschichte",
 		"publisherplace": "Giessen",
@@ -12359,7 +12359,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/38EF7KC4",
+		"id": "38EF7KC4",
 		"type": "book",
 		"title": "Die Rhetorik der Araber",
 		"publisherplace": "Copenhagen",
@@ -12369,7 +12369,7 @@ var ourData = [
 		"issued": "1853"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CDR6VKCE",
+		"id": "CDR6VKCE",
 		"type": "book",
 		"title": "Eine Studien fahst nach Kordofan",
 		"publisherplace": "Hamburg",
@@ -12379,7 +12379,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9IBEVK8D",
+		"id": "9IBEVK8D",
 		"type": "book",
 		"title": "Die Dichtung der Afrikaner",
 		"publisherplace": "Berlin",
@@ -12389,7 +12389,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3EUGC2AJ",
+		"id": "3EUGC2AJ",
 		"type": "book",
 		"title": "Mélanges de la faculté orientale",
 		"publisherplace": "Beirut",
@@ -12398,7 +12398,7 @@ var ourData = [
 		"callnumber": "XVI V 124"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47AQUEB9",
+		"id": "47AQUEB9",
 		"type": "book",
 		"title": "Grammatica Syriaca",
 		"publisherplace": "Halle",
@@ -12408,7 +12408,7 @@ var ourData = [
 		"issued": "1867"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UNRRTJWZ",
+		"id": "UNRRTJWZ",
 		"type": "book",
 		"title": "Die Blutsache bei den Israeliten",
 		"publisherplace": "Leipzig",
@@ -12418,14 +12418,14 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K6448KW8",
+		"id": "K6448KW8",
 		"type": "book",
 		"title": "Der musikalische Wortaksent im Japanischen",
 		"callnumber": "XVI S 128",
 		"author": "E. Meyer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GZWP86K9",
+		"id": "GZWP86K9",
 		"type": "book",
 		"title": "Die Sagen der Inder",
 		"publisherplace": "Frankfurt",
@@ -12434,7 +12434,7 @@ var ourData = [
 		"author": "J. Micha"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7D988WPT",
+		"id": "7D988WPT",
 		"type": "book",
 		"title": "Centenario Volume sec",
 		"publisherplace": "Palermo",
@@ -12444,13 +12444,13 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QBAJF7QX",
+		"id": "QBAJF7QX",
 		"type": "book",
 		"title": "Mitteilungen der Deutschen Orient-Gesellschaft",
 		"callnumber": "XVI S 118"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XZSUBMT6",
+		"id": "XZSUBMT6",
 		"type": "book",
 		"title": "Aus dem Jemen",
 		"publisherplace": "Leipzig",
@@ -12459,14 +12459,14 @@ var ourData = [
 		"author": "E. Mittwoch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EH3TP3WS",
+		"id": "EH3TP3WS",
 		"type": "book",
 		"title": "Abessinische Kinderspiele Ambasische Texte",
 		"callnumber": "XVI S 164",
 		"author": "E. Mittwoch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JUNSZI77",
+		"id": "JUNSZI77",
 		"type": "book",
 		"title": "Deutschland, die Türkei und der hl. Krieg",
 		"publisherplace": "Berlin",
@@ -12475,7 +12475,7 @@ var ourData = [
 		"author": "E. Mittwoch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K83KPFX2",
+		"id": "K83KPFX2",
 		"type": "book",
 		"title": "Zur Entstehunggeschichte des islamischen Gebets und Kultus",
 		"publisherplace": "Berlin",
@@ -12485,7 +12485,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TWF8DUN4",
+		"id": "TWF8DUN4",
 		"type": "book",
 		"title": "Piselia Antum pajanonum",
 		"publisherplace": "Berlin",
@@ -12495,7 +12495,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RAVDGWGQ",
+		"id": "RAVDGWGQ",
 		"type": "book",
 		"title": "Semitisch und Inologermassisch",
 		"publisherplace": "Copenhagen",
@@ -12505,7 +12505,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JAED8U29",
+		"id": "JAED8U29",
 		"type": "book",
 		"title": "De l'État présent et de l'avenir de l'Islam",
 		"publisherplace": "Paris",
@@ -12515,7 +12515,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NKZQBWEZ",
+		"id": "NKZQBWEZ",
 		"type": "book",
 		"title": "Sabäische Denkmäler",
 		"publisherplace": "Vienna",
@@ -12525,7 +12525,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7S8M9U7K",
+		"id": "7S8M9U7K",
 		"type": "book",
 		"title": "The Life of Mohammad",
 		"publisherplace": "Cambridge",
@@ -12535,7 +12535,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7RZKGZ5T",
+		"id": "7RZKGZ5T",
 		"type": "book",
 		"title": "Esedriel-Studien",
 		"publisherplace": "Vienna",
@@ -12546,7 +12546,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q2VDI9ZK",
+		"id": "Q2VDI9ZK",
 		"type": "book",
 		"title": "Die Propheten",
 		"publisherplace": "Vienna",
@@ -12556,7 +12556,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DVUXQTSF",
+		"id": "DVUXQTSF",
 		"type": "book",
 		"title": "Türkische Grammatik",
 		"publisherplace": "Berlin",
@@ -12566,14 +12566,14 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/577S6B5B",
+		"id": "577S6B5B",
 		"type": "book",
 		"title": "Die Formen Qudttal und Quattil in der Soguoti Sprache",
 		"callnumber": "XVI E 175",
 		"author": "H. Müller"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3VS9SMK8",
+		"id": "3VS9SMK8",
 		"type": "book",
 		"title": "Memoir of Heinrich Lebendst Fleischer",
 		"publisherplace": "Washington",
@@ -12583,7 +12583,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D39ZB5RT",
+		"id": "D39ZB5RT",
 		"type": "book",
 		"title": "Arabia",
 		"publisherplace": "Stuttgart",
@@ -12593,7 +12593,7 @@ var ourData = [
 		"issued": "1894"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QF9PU6IZ",
+		"id": "QF9PU6IZ",
 		"type": "book",
 		"title": "Die Bergrondigt im Lichte der Strophentheorie",
 		"publisherplace": "Vienna",
@@ -12603,7 +12603,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PE8XVEXE",
+		"id": "PE8XVEXE",
 		"type": "book",
 		"title": "Monumenta Talmudica",
 		"publisherplace": "Vienna",
@@ -12614,7 +12614,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/36EUU9N3",
+		"id": "36EUU9N3",
 		"type": "book",
 		"title": "Zur vergl semitischen Sprachforschung",
 		"publisherplace": "Leiden",
@@ -12624,7 +12624,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/32UWD8IH",
+		"id": "32UWD8IH",
 		"type": "book",
 		"title": "Die Gesetze Haunurabro",
 		"publisherplace": "Vienna",
@@ -12634,7 +12634,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PIW74K4E",
+		"id": "PIW74K4E",
 		"type": "book",
 		"title": "Himgarische Studien",
 		"publisherplace": "Leipzig",
@@ -12643,7 +12643,7 @@ var ourData = [
 		"author": "H. Müller"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3Z4QZ678",
+		"id": "3Z4QZ678",
 		"type": "book",
 		"title": "Die letzten Zeiten von Granada",
 		"publisherplace": "Munich",
@@ -12653,7 +12653,7 @@ var ourData = [
 		"issued": "1863"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4DF8EFXS",
+		"id": "4DF8EFXS",
 		"type": "book",
 		"title": "Der Anspruch auf göttliche Inkarnation ind. Pharzonumamen",
 		"publisherplace": "Leipzig",
@@ -12663,7 +12663,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IM5SH8DJ",
+		"id": "IM5SH8DJ",
 		"type": "book",
 		"title": "Ancient Arabic Poetry",
 		"publisherplace": "London",
@@ -12673,7 +12673,7 @@ var ourData = [
 		"issued": "1879"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F3FV4NZ7",
+		"id": "F3FV4NZ7",
 		"type": "book",
 		"title": "Sammelband Orientalia",
 		"publisherplace": "New York",
@@ -12685,7 +12685,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2N6JV45H",
+		"id": "2N6JV45H",
 		"type": "book",
 		"title": "Arabia Petraea",
 		"publisherplace": "Vienna",
@@ -12696,7 +12696,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FIPDSWJP",
+		"id": "FIPDSWJP",
 		"type": "book",
 		"title": "Griechische Inschriften aus Arabia Petraea",
 		"publisherplace": "Vienna",
@@ -12706,14 +12706,14 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BHAGC2H2",
+		"id": "BHAGC2H2",
 		"type": "book",
 		"title": "Arabia Petraea",
 		"callnumber": "XVI V 101",
 		"author": "A. Musil"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T8UTHNTU",
+		"id": "T8UTHNTU",
 		"type": "book",
 		"title": "In Nordostarabien und Südmesopotamien",
 		"publisherplace": "Vienna",
@@ -12723,7 +12723,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J9SIFBE3",
+		"id": "J9SIFBE3",
 		"type": "book",
 		"title": "Zur Leitgeschichte von Arabien",
 		"publisherplace": "Leipzig",
@@ -12732,7 +12732,7 @@ var ourData = [
 		"author": "A. Musil"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NXF4TID2",
+		"id": "NXF4TID2",
 		"type": "book",
 		"title": "Afrika nach der Bearbeitung der Τεωγϱαφϲκη νφηγηστς des Claudius Ptolemäus von Hwarismi",
 		"publisherplace": "Vienna",
@@ -12742,7 +12742,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EECUQIP4",
+		"id": "EECUQIP4",
 		"type": "book",
 		"title": "Die Gideon-Saul Legende und die Überlieferung der Schlacht bei Basor",
 		"publisherplace": "Vienna",
@@ -12751,7 +12751,7 @@ var ourData = [
 		"author": "H. Mzik"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WSK3RP8A",
+		"id": "WSK3RP8A",
 		"type": "book",
 		"title": "Ptolemäus und die Kasten der arabischen Geographen",
 		"publisherplace": "Vienna",
@@ -12761,7 +12761,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RZQUWVR4",
+		"id": "RZQUWVR4",
 		"type": "book",
 		"title": "All Battāni seu Albatenii opus astronomicum",
 		"publisherplace": "Milan",
@@ -12771,7 +12771,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3PISE4C8",
+		"id": "3PISE4C8",
 		"type": "book",
 		"title": "Gli Studi di E. Carusi Sui Disitti Orientali",
 		"publisherplace": "Rome",
@@ -12781,7 +12781,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VR7DEFCW",
+		"id": "VR7DEFCW",
 		"type": "book",
 		"title": "Bibliografia",
 		"publisherplace": "Rome",
@@ -12791,7 +12791,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FNQTE5KE",
+		"id": "FNQTE5KE",
 		"type": "book",
 		"title": "Les Noms géographiques du Monde Musulman",
 		"publisherplace": "Cairo",
@@ -12801,7 +12801,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8BKD979B",
+		"id": "8BKD979B",
 		"type": "book",
 		"title": "L'Arabo Parlato",
 		"publisherplace": "Milan",
@@ -12811,7 +12811,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/224GRR5R",
+		"id": "224GRR5R",
 		"type": "book",
 		"title": "Il poema nustico arabo d'Ibn al Fārid in una recente traduzione italiana",
 		"publisherplace": "Rome",
@@ -12821,7 +12821,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HPVUGN5V",
+		"id": "HPVUGN5V",
 		"type": "book",
 		"title": "Brevis Linguae Syriacae",
 		"publisherplace": "Leipzig",
@@ -12831,7 +12831,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6M2X4Z35",
+		"id": "6M2X4Z35",
 		"type": "book",
 		"title": "Orientalische Sprachstudien",
 		"publisherplace": "Vienna",
@@ -12841,7 +12841,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VPQEWSQC",
+		"id": "VPQEWSQC",
 		"type": "book",
 		"title": "The Kashf al-Mahjub",
 		"publisherplace": "Leiden",
@@ -12851,7 +12851,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7IVD55N3",
+		"id": "7IVD55N3",
 		"type": "book",
 		"title": "Die Engel und Geistervorstellungen des Korans",
 		"publisherplace": "Rostock",
@@ -12861,7 +12861,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VK3498BW",
+		"id": "VK3498BW",
 		"type": "book",
 		"title": "Handbuch der altarabischen Altertumskunde",
 		"publisherplace": "Copenhagen",
@@ -12871,7 +12871,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6GQIWR5M",
+		"id": "6GQIWR5M",
 		"type": "book",
 		"title": "Die altarabische Mundreligion und die mosaische Überlieferung",
 		"publisherplace": "Strassburg",
@@ -12881,7 +12881,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K4U9GKVU",
+		"id": "K4U9GKVU",
 		"type": "book",
 		"title": "Reise nach Innerarabien",
 		"publisherplace": "Braunschweig",
@@ -12891,7 +12891,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ES4M7CMX",
+		"id": "ES4M7CMX",
 		"type": "book",
 		"title": "Untersuchungen zum Arduquar-Roman",
 		"publisherplace": "Berlin",
@@ -12901,7 +12901,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IDBS5TGS",
+		"id": "IDBS5TGS",
 		"type": "book",
 		"title": "Geschichte des Quorâns",
 		"publisherplace": "Göttingen",
@@ -12911,14 +12911,14 @@ var ourData = [
 		"issued": "1860"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G4922Q4B",
+		"id": "G4922Q4B",
 		"type": "book",
 		"title": "Arabia and Aram",
 		"callnumber": "XVI E 149",
 		"author": "Th. Nöldeke"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PC5DWK4C",
+		"id": "PC5DWK4C",
 		"type": "book",
 		"title": "Beiträge zur semitischen Sprachwissenschaft",
 		"publisherplace": "Strassburg",
@@ -12928,7 +12928,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/347NW7X7",
+		"id": "347NW7X7",
 		"type": "book",
 		"title": "Beiträge zur semitischen Sprachwissenschaft",
 		"publisherplace": "Strassburg",
@@ -12938,7 +12938,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2DZQVMXJ",
+		"id": "2DZQVMXJ",
 		"type": "book",
 		"title": "Orientalische Skizzen",
 		"publisherplace": "Berlin",
@@ -12948,14 +12948,14 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M2G4AGIN",
+		"id": "M2G4AGIN",
 		"type": "book",
 		"title": "The Koran",
 		"callnumber": "XVI E 271",
 		"author": "Th. Nöldeke"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VAJWE59J",
+		"id": "VAJWE59J",
 		"type": "book",
 		"title": "Die Ghassomischen Fürsten aus dem Hause Gafna's",
 		"publisherplace": "Berlin",
@@ -12965,7 +12965,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H37AW7MB",
+		"id": "H37AW7MB",
 		"type": "book",
 		"title": "Die semitischen Sprachen",
 		"publisherplace": "Leipzig",
@@ -12975,7 +12975,7 @@ var ourData = [
 		"issued": "1887"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IAHT4Q2H",
+		"id": "IAHT4Q2H",
 		"type": "book",
 		"title": "Spredrsaal: Der Gott",
 		"publisherplace": "Berlin",
@@ -12985,7 +12985,7 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XBAQE6FW",
+		"id": "XBAQE6FW",
 		"type": "book",
 		"title": "Beiträge zur Kenntnis der Poesie der alten Araber",
 		"publisherplace": "Hannover",
@@ -12995,14 +12995,14 @@ var ourData = [
 		"issued": "1864"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/S7WH52BC",
+		"id": "S7WH52BC",
 		"type": "book",
 		"title": "Die Ureinwohner des hl. Landes",
 		"callnumber": "XVI V 94",
 		"author": "H. Nolte"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/88EIES9V",
+		"id": "88EIES9V",
 		"type": "book",
 		"title": "Orientalische Studien",
 		"publisherplace": "Giessen",
@@ -13013,21 +13013,21 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7ARJACPU",
+		"id": "7ARJACPU",
 		"type": "book",
 		"title": "Amalek",
 		"callnumber": "XVI S 146",
 		"author": "Th. Nöldeke"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XACWM2IN",
+		"id": "XACWM2IN",
 		"type": "book",
 		"title": "Figre Lieder",
 		"callnumber": "XVI S 177",
 		"author": "Th. Nöldeke"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KUHG9RBC",
+		"id": "KUHG9RBC",
 		"type": "book",
 		"title": "Handkommentar zum alten Testament",
 		"publisherplace": "Göttingen",
@@ -13037,14 +13037,14 @@ var ourData = [
 		"issued": "1903"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7CMABSQT",
+		"id": "7CMABSQT",
 		"type": "book",
 		"title": "Der aegyptische Sudan",
 		"callnumber": "XVI V 82",
 		"author": "E. Oberhummer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/P8JUIK7R",
+		"id": "P8JUIK7R",
 		"type": "book",
 		"title": "Der Djerid und des Djerid-Spiel",
 		"publisherplace": "Leipzig",
@@ -13054,7 +13054,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HXJPH4PK",
+		"id": "HXJPH4PK",
 		"type": "book",
 		"title": "Der Neue Orient",
 		"publisherplace": "Berlin",
@@ -13062,7 +13062,7 @@ var ourData = [
 		"callnumber": "XVI V 65"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8UQUJ3NH",
+		"id": "8UQUJ3NH",
 		"type": "book",
 		"title": "Der Neue Orient",
 		"publisherplace": "Berlin",
@@ -13070,7 +13070,7 @@ var ourData = [
 		"callnumber": "XVI V 128"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FS26HQGR",
+		"id": "FS26HQGR",
 		"type": "book",
 		"title": "Orient Journal asiatique",
 		"publisherplace": "Paris",
@@ -13079,7 +13079,7 @@ var ourData = [
 		"issued": "1810"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/C25UPJEJ",
+		"id": "C25UPJEJ",
 		"type": "book",
 		"title": "Paradigmen der arabischen Schriftsprache",
 		"publisherplace": "Vienna",
@@ -13088,14 +13088,14 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WIXAEUH8",
+		"id": "WIXAEUH8",
 		"type": "book",
 		"title": "Vocabulaire arabe-français",
 		"callnumber": "XVI E 196",
 		"author": "G. Parmentier"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7DAM8GIB",
+		"id": "7DAM8GIB",
 		"type": "book",
 		"title": "Der Eid bei den Semiten",
 		"publisherplace": "Strassburg",
@@ -13105,7 +13105,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KQV8EPPV",
+		"id": "KQV8EPPV",
 		"type": "book",
 		"title": "Zwei altarabische Übersetzungen des Buches Ruth",
 		"publisherplace": "Berlin",
@@ -13115,7 +13115,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WM5W4VCK",
+		"id": "WM5W4VCK",
 		"type": "book",
 		"title": "Femmes arabes",
 		"publisherplace": "Paris",
@@ -13125,7 +13125,7 @@ var ourData = [
 		"issued": "1858"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PZZ89BKH",
+		"id": "PZZ89BKH",
 		"type": "book",
 		"title": "Brevis lingae Armenicae",
 		"publisherplace": "Leipzig",
@@ -13135,7 +13135,7 @@ var ourData = [
 		"issued": "1872"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TCADQR2C",
+		"id": "TCADQR2C",
 		"type": "book",
 		"title": "Prince de Saxelobourg et Gotha, Une Médaille Commémorative de la Fondation et de l'Achévement de la Ville de Sultanije",
 		"publisherplace": "Brussel",
@@ -13145,7 +13145,7 @@ var ourData = [
 		"issued": "1891"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N8IPSCV6",
+		"id": "N8IPSCV6",
 		"type": "book",
 		"title": "Manuale della Lingua Persiana",
 		"publisherplace": "Leipzig",
@@ -13155,7 +13155,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BS26TRV5",
+		"id": "BS26TRV5",
 		"type": "book",
 		"title": "A History of Arabia felix or Jemen from the Commencement of the Christian era to the present Time",
 		"publisherplace": "Bombay",
@@ -13165,21 +13165,21 @@ var ourData = [
 		"issued": "1859"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AEFS96K4",
+		"id": "AEFS96K4",
 		"type": "book",
 		"title": "Phonographische AUfnahmen in den k. und k. Kriegsgefangenen lager",
 		"callnumber": "XVI S 156",
 		"author": "R. Pöh"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TEJV5I2Q",
+		"id": "TEJV5I2Q",
 		"type": "book",
 		"title": "Die Geschichte der Heilschriftenzifferung",
 		"callnumber": "XVI S 80",
 		"author": "I. Pollak"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NSUDPGTV",
+		"id": "NSUDPGTV",
 		"type": "book",
 		"title": "Philosophie des Islam",
 		"publisherplace": "Prague",
@@ -13189,7 +13189,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PVSDKN9N",
+		"id": "PVSDKN9N",
 		"type": "book",
 		"title": "Aethiopische Grammatik",
 		"publisherplace": "Karlsruhe",
@@ -13199,14 +13199,14 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WU2MED2M",
+		"id": "WU2MED2M",
 		"type": "book",
 		"title": "Bemerkungen zum 49. Psalm",
 		"callnumber": "XVI S 114",
 		"author": "F. Praetorius"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/45BXK8AD",
+		"id": "45BXK8AD",
 		"type": "book",
 		"title": "Altorientalische Symbolik",
 		"publisherplace": "Berlin",
@@ -13216,14 +13216,14 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NS3R2NRG",
+		"id": "NS3R2NRG",
 		"type": "book",
 		"title": "Über die Blutsache bei den vorislamischen Arabern",
 		"callnumber": "XVI E 297",
 		"author": "G. Proksch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PT24IRMA",
+		"id": "PT24IRMA",
 		"type": "book",
 		"title": "Die geographischen Verhältnisse Syriens und Arabiens",
 		"publisherplace": "Leipzig",
@@ -13233,7 +13233,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/22Q78SFV",
+		"id": "22Q78SFV",
 		"type": "book",
 		"title": "Qurán The Historical Development",
 		"publisherplace": "Madras",
@@ -13242,7 +13242,7 @@ var ourData = [
 		"issued": "1898"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KPBGS66D",
+		"id": "KPBGS66D",
 		"type": "book",
 		"title": "Christians at Mecca",
 		"publisherplace": "London",
@@ -13252,7 +13252,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/87W4K8K6",
+		"id": "87W4K8K6",
 		"type": "book",
 		"title": "Rahad us-Sudur wa Ayat u-Sudur",
 		"publisherplace": "London",
@@ -13262,7 +13262,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HSBHDXPG",
+		"id": "HSBHDXPG",
 		"type": "book",
 		"title": "Die syntaktischen Verhältnisse des Arabischen",
 		"publisherplace": "Leiden",
@@ -13272,7 +13272,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9DDNPWHH",
+		"id": "9DDNPWHH",
 		"type": "book",
 		"title": "Mohammed und die Jemen",
 		"publisherplace": "Leipzig",
@@ -13282,7 +13282,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/33UWMK8N",
+		"id": "33UWMK8N",
 		"type": "book",
 		"title": "Papyri juristischen Inhaltes in hieralische und demotisch in Schrift",
 		"publisherplace": "Vienna",
@@ -13292,14 +13292,14 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8ZU8ID8B",
+		"id": "8ZU8ID8B",
 		"type": "book",
 		"title": "Aramäische Inschriften aus Kappadozien",
 		"callnumber": "XVI S 159",
 		"author": "H. Reichelt"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XMAHRXB2",
+		"id": "XMAHRXB2",
 		"type": "book",
 		"title": "Das persönliche Fürwort und die Verbalflexion in den chamito-semitischen Sprachen",
 		"publisherplace": "Vienna",
@@ -13309,7 +13309,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/42ERVQHX",
+		"id": "42ERVQHX",
 		"type": "book",
 		"title": "Die Sprachliche Stellung des Nuba",
 		"publisherplace": "Vienna",
@@ -13319,7 +13319,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/A2KNDW3Z",
+		"id": "A2KNDW3Z",
 		"type": "book",
 		"title": "Accademia dei Lincei Le tradusioni degli Evangelii in Arabo et in Etiopico",
 		"publisherplace": "Rome",
@@ -13329,7 +13329,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2BJVK8VJ",
+		"id": "2BJVK8VJ",
 		"type": "book",
 		"title": "Arabische Syntax",
 		"publisherplace": "Heidelberg",
@@ -13339,14 +13339,14 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4GC2GE2A",
+		"id": "4GC2GE2A",
 		"type": "book",
 		"title": "Das persönliche Fürwort und die Verbalflexion in den chamito-semitischen Sprachen",
 		"callnumber": "XVI S 169",
 		"author": "L. Reinisch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R77V5W8M",
+		"id": "R77V5W8M",
 		"type": "book",
 		"title": "Die Städte gründungender Araber im Islam",
 		"publisherplace": "Leipzig",
@@ -13356,7 +13356,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EG8BZM9C",
+		"id": "EG8BZM9C",
 		"type": "book",
 		"title": "Beiträge zur Dschihâd Literatur",
 		"publisherplace": "Stuttgart",
@@ -13366,7 +13366,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KF2BHWI9",
+		"id": "KF2BHWI9",
 		"type": "book",
 		"title": "Quâsim Emûn tahrir el marʾa",
 		"publisherplace": "Stuttgart",
@@ -13376,7 +13376,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3B9ZBPDK",
+		"id": "3B9ZBPDK",
 		"type": "book",
 		"title": "Über fatalistische Tendensen in den Anschauungen der Araber",
 		"publisherplace": "Strassburg",
@@ -13385,7 +13385,7 @@ var ourData = [
 		"author": "O. Rescher"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VQMH64PE",
+		"id": "VQMH64PE",
 		"type": "book",
 		"title": "Südarabische Expedition",
 		"publisherplace": "Vienna",
@@ -13396,7 +13396,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IQ7ZTB3Q",
+		"id": "IQ7ZTB3Q",
 		"type": "book",
 		"title": "Wort und Sachforschung im Arabischen",
 		"publisherplace": "Vienna",
@@ -13406,7 +13406,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6J27FK22",
+		"id": "6J27FK22",
 		"type": "book",
 		"title": "Studien zur Lexikographie und Grammatik des Altsüdarabischen",
 		"publisherplace": "Vienna",
@@ -13416,7 +13416,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8CK55ZKR",
+		"id": "8CK55ZKR",
 		"type": "book",
 		"title": "Katabamische Texte ur Bodenuritschaft",
 		"publisherplace": "Vienna",
@@ -13426,7 +13426,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/T9887TS2",
+		"id": "T9887TS2",
 		"type": "book",
 		"title": "Des Grundsatz der Offentlichkeit in der südarabischen Urkunden",
 		"publisherplace": "Vienna",
@@ -13436,7 +13436,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NB4GWZ5G",
+		"id": "NB4GWZ5G",
 		"type": "book",
 		"title": "Anseige von Oppenheim Inschriften aus Syrien",
 		"callnumber": "XVI E 154",
@@ -13444,21 +13444,21 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GM9TVPHK",
+		"id": "GM9TVPHK",
 		"type": "book",
 		"title": "Über zwei Al-Madîra geschene Sommenfinsternisse",
 		"callnumber": "XVI E 264",
 		"author": "N. Rhodokanakis"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/45ZKX2T5",
+		"id": "45ZKX2T5",
 		"type": "book",
 		"title": "Omphalos und Erwen Sopiia",
 		"callnumber": "XVI V 16",
 		"author": "N. Rhodokanakis"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WMMTIITA",
+		"id": "WMMTIITA",
 		"type": "book",
 		"title": "Die Bodemistschaft im alten Südarabien",
 		"publisherplace": "Vienna",
@@ -13468,21 +13468,21 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HMM9D5HD",
+		"id": "HMM9D5HD",
 		"type": "book",
 		"title": "Deutsche Alsum Expedition",
 		"callnumber": "XVI S 92",
 		"author": "N. Rhodokanakis"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NDTBU3GP",
+		"id": "NDTBU3GP",
 		"type": "book",
 		"title": "Zur semitischen Sprachwissenschaft",
 		"callnumber": "XVI S 104",
 		"author": "N. Rhodokanakis"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/55GTVVZQ",
+		"id": "55GTVVZQ",
 		"type": "book",
 		"title": "Altjüdisches Schrifttums aussenhalb der Bibel",
 		"publisherplace": "Augsburg",
@@ -13492,13 +13492,13 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BC892MW3",
+		"id": "BC892MW3",
 		"type": "book",
 		"title": "Rivista degli studi Bolletina orientali",
 		"callnumber": "XVI S 139"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IETF76KI",
+		"id": "IETF76KI",
 		"type": "book",
 		"title": "Das Familien Sklaven und Erbrecht im Quorân",
 		"publisherplace": "Leipzig",
@@ -13508,7 +13508,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UI77JZMG",
+		"id": "UI77JZMG",
 		"type": "book",
 		"title": "Reisen in Arabien",
 		"publisherplace": "Halle",
@@ -13518,21 +13518,21 @@ var ourData = [
 		"issued": "1842"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PG6DXKZT",
+		"id": "PG6DXKZT",
 		"type": "book",
 		"title": "Fikr-System",
 		"callnumber": "XVI E 169",
 		"author": "W. Rosen"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E4SAPFQQ",
+		"id": "E4SAPFQQ",
 		"type": "book",
 		"title": "Hutba Larij Ibn Hams",
 		"callnumber": "XVI E 168",
 		"author": "W. Rosen"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9EVHFBQ4",
+		"id": "9EVHFBQ4",
 		"type": "book",
 		"title": "Die Dynastie der Lahmiden in Al-Hîra",
 		"publisherplace": "Berlin",
@@ -13542,7 +13542,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QZPJ4NTS",
+		"id": "QZPJ4NTS",
 		"type": "book",
 		"title": "Les sociétés sécrètes chez les Musulmans",
 		"publisherplace": "Paris",
@@ -13552,14 +13552,14 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BHGQCK7T",
+		"id": "BHGQCK7T",
 		"type": "book",
 		"title": "Les anomalies du Râmâyana",
 		"callnumber": "XVI S 173",
 		"author": "M.A. Roussel"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JQZQ44MJ",
+		"id": "JQZQ44MJ",
 		"type": "book",
 		"title": "Die Abhängigkeit des Quorans von Judentum und Christentum",
 		"publisherplace": "Stuttgart",
@@ -13569,21 +13569,21 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3QTXZXUH",
+		"id": "3QTXZXUH",
 		"type": "book",
 		"title": "Zur Etymologie von يلح",
 		"callnumber": "XVI E 284",
 		"author": "R. Rušičker"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UTQBJNQW",
+		"id": "UTQBJNQW",
 		"type": "book",
 		"title": "Die Wurzel rʿ in den semitischen Sprachen",
 		"callnumber": "XVI E 308",
 		"author": "R. Rušičker"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5EGIUAWE",
+		"id": "5EGIUAWE",
 		"type": "book",
 		"title": "Reise in Syrien und Mesopotamien",
 		"publisherplace": "Leipzig",
@@ -13593,7 +13593,7 @@ var ourData = [
 		"issued": "1883"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/267HJA6Q",
+		"id": "267HJA6Q",
 		"type": "book",
 		"title": "Die Chronik von Abela",
 		"publisherplace": "Berlin",
@@ -13603,14 +13603,14 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KI3SV26X",
+		"id": "KI3SV26X",
 		"type": "book",
 		"title": "Litteratur-Buch stücke aus Chinesisch-Turestan",
 		"callnumber": "XVI S 148",
 		"author": "E. Sachau"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47QHKK6R",
+		"id": "47QHKK6R",
 		"type": "book",
 		"title": "Ein Verzeichnis muhammedanischen Dynastien",
 		"publisherplace": "Berlin",
@@ -13620,7 +13620,7 @@ var ourData = [
 		"issued": "1923"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PTI9JAND",
+		"id": "PTI9JAND",
 		"type": "book",
 		"title": "Indo-arabische Studien zur Aussprache und Geschichte des Indischen",
 		"publisherplace": "Berlin",
@@ -13630,7 +13630,7 @@ var ourData = [
 		"issued": "1888"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z9TR9QW5",
+		"id": "Z9TR9QW5",
 		"type": "book",
 		"title": "Skizze des Fellisdri-Dialekts von Mosul",
 		"publisherplace": "Berlin",
@@ -13640,7 +13640,7 @@ var ourData = [
 		"issued": "1895"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EHD2GW9N",
+		"id": "EHD2GW9N",
 		"type": "book",
 		"title": "Zur historischen Geographie von Nordsyrien",
 		"publisherplace": "Berlin",
@@ -13650,14 +13650,14 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GQZQ8ZFU",
+		"id": "GQZQ8ZFU",
 		"type": "book",
 		"title": "Bemerkungen zu cilicischen Eigennamen",
 		"callnumber": "XVI E 338",
 		"author": "E. Sachau"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J5QU4KUD",
+		"id": "J5QU4KUD",
 		"type": "book",
 		"title": "Traité élémentaire de la prosedie et de l'art métrique des Arabes",
 		"publisherplace": "Paris",
@@ -13667,7 +13667,7 @@ var ourData = [
 		"issued": "1831"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/87RWFP29",
+		"id": "87RWFP29",
 		"type": "book",
 		"title": "Zu Josef v. Karabacets Riza-i Abbasi",
 		"publisherplace": "Strassburg",
@@ -13676,7 +13676,7 @@ var ourData = [
 		"author": "Fr. Sarre"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5UEJN264",
+		"id": "5UEJN264",
 		"type": "book",
 		"title": "Zeichnungen von Riza-i Abbasi",
 		"publisherplace": "Munich",
@@ -13686,14 +13686,14 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7VMREQWM",
+		"id": "7VMREQWM",
 		"type": "book",
 		"title": "Riza Abbasi",
 		"callnumber": "XVI V 116",
 		"author": "Fr. Sarre"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WBMK2XJR",
+		"id": "WBMK2XJR",
 		"type": "book",
 		"title": "Die haggadischen Elemente",
 		"publisherplace": "Leipzig",
@@ -13703,21 +13703,21 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R939N7VX",
+		"id": "R939N7VX",
 		"type": "book",
 		"title": "Mecca and Idda",
 		"callnumber": "XVI V 72",
 		"author": " Scheltema"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KFC7FTGQ",
+		"id": "KFC7FTGQ",
 		"type": "book",
 		"title": "Studien von Kalila wa-Dimna",
 		"callnumber": "XVI S 96",
 		"author": "J. Schleifer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/VQPEVIQJ",
+		"id": "VQPEVIQJ",
 		"type": "book",
 		"title": "Der babylonische Talmud",
 		"publisherplace": "Vienna",
@@ -13727,7 +13727,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AH9HR6ZZ",
+		"id": "AH9HR6ZZ",
 		"type": "book",
 		"title": "Audiatur et altera pars",
 		"publisherplace": "Vienna",
@@ -13737,14 +13737,14 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8FZCGTCS",
+		"id": "8FZCGTCS",
 		"type": "book",
 		"title": "Die hl. Schriften des alten Bundes",
 		"callnumber": "XVI S 127",
 		"author": "N. Schlägl"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TJ8A9NRR",
+		"id": "TJ8A9NRR",
 		"type": "book",
 		"title": "Die Occupatio im islamischen Recht",
 		"publisherplace": "Strassburg",
@@ -13754,7 +13754,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FNAEVQ9I",
+		"id": "FNAEVQ9I",
 		"type": "book",
 		"title": "Das südwestliche Arabien",
 		"publisherplace": "Frankfurt",
@@ -13764,7 +13764,7 @@ var ourData = [
 		"issued": "1813"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JCDF983D",
+		"id": "JCDF983D",
 		"type": "book",
 		"title": "Assyrisches Syllaba",
 		"publisherplace": "Berlin",
@@ -13774,7 +13774,7 @@ var ourData = [
 		"issued": "1880"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SS5F24FT",
+		"id": "SS5F24FT",
 		"type": "book",
 		"title": "Der Fatalismus",
 		"publisherplace": "Bonn",
@@ -13784,7 +13784,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J5EAPXXE",
+		"id": "J5EAPXXE",
 		"type": "book",
 		"title": "Lemfe an Feise im Arabischen",
 		"publisherplace": "Berlin",
@@ -13794,14 +13794,14 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H27WRUFP",
+		"id": "H27WRUFP",
 		"type": "book",
 		"title": "Aus den Göttergischen gekksten Anseigen",
 		"callnumber": "XVI E 322",
 		"author": "F. Schultherz"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AIZKDFZW",
+		"id": "AIZKDFZW",
 		"type": "book",
 		"title": "Homonyme Wurter im Syrischen",
 		"publisherplace": "Berlin",
@@ -13811,7 +13811,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZPBSFR5S",
+		"id": "ZPBSFR5S",
 		"type": "book",
 		"title": "Zur Formenlekse des semitischn Vertronung",
 		"publisherplace": "Vienna",
@@ -13821,7 +13821,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9DESHBDQ",
+		"id": "9DESHBDQ",
 		"type": "book",
 		"title": "Beiträge zur Kenntnis des Lebens der mohammedanischen Städter Fellachen und Beduinen im heutigen Aegypten",
 		"publisherplace": "Heidelberg",
@@ -13831,7 +13831,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TCM537MD",
+		"id": "TCM537MD",
 		"type": "book",
 		"title": "Varia",
 		"publisherplace": "Berlin",
@@ -13840,7 +13840,7 @@ var ourData = [
 		"author": "F. Schwally"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U4AVRCWX",
+		"id": "U4AVRCWX",
 		"type": "book",
 		"title": "Semitische Kriegsaltertümer",
 		"publisherplace": "Leipzig",
@@ -13850,7 +13850,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8TR6ZMDQ",
+		"id": "8TR6ZMDQ",
 		"type": "book",
 		"title": "Die Abbasidensorides Samarra",
 		"publisherplace": "Leipzig",
@@ -13860,7 +13860,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z6NSQDC5",
+		"id": "Z6NSQDC5",
 		"type": "book",
 		"title": "Iran im Mitteralter nach den arabischen Geographen",
 		"publisherplace": "Leipzig",
@@ -13870,14 +13870,14 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G24QFHTE",
+		"id": "G24QFHTE",
 		"type": "book",
 		"title": "Die Heiligen des Alten Testament",
 		"callnumber": "XVI S 127",
 		"author": "E. Kaybak"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MGZUQPDV",
+		"id": "MGZUQPDV",
 		"type": "book",
 		"title": "Die Waffen der alten Araber aus ihren Dichtern dargestellt",
 		"publisherplace": "Leipzig",
@@ -13887,7 +13887,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QWE24Q3W",
+		"id": "QWE24Q3W",
 		"type": "book",
 		"title": "Arabische Pflanzennamen aus Aegypten, ALgerien, Jemen",
 		"publisherplace": "Berlin",
@@ -13897,7 +13897,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q9WB53FU",
+		"id": "Q9WB53FU",
 		"type": "book",
 		"title": "Grammatik der Hindustan-Sprache",
 		"publisherplace": "Vienna",
@@ -13906,7 +13906,7 @@ var ourData = [
 		"author": "A. Seidel"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MM2FDJQA",
+		"id": "MM2FDJQA",
 		"type": "book",
 		"title": "Schlüssel zur chinesischen Konversations grammatik",
 		"publisherplace": "Heidelberg",
@@ -13916,7 +13916,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ABPDUFJT",
+		"id": "ABPDUFJT",
 		"type": "book",
 		"title": "Chinesischen Konversations grammatik",
 		"publisherplace": "Heidelberg",
@@ -13926,7 +13926,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3SEF5TKV",
+		"id": "3SEF5TKV",
 		"type": "book",
 		"title": "The Historical Development of the Quran",
 		"publisherplace": "London",
@@ -13936,7 +13936,7 @@ var ourData = [
 		"issued": "1905"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3U82XJBW",
+		"id": "3U82XJBW",
 		"type": "book",
 		"title": "Gilgal. Ein Beitrag zur Geschichte der Einwanderung Israels in Palestina",
 		"publisherplace": "Leipzig",
@@ -13946,20 +13946,20 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D7Q9EAGR",
+		"id": "D7Q9EAGR",
 		"type": "book",
 		"title": "Literarisches Zentralblatt für Deutschland",
 		"callnumber": "XVI S 75",
 		"author": " Das semitische Institut"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EF7644E5",
+		"id": "EF7644E5",
 		"type": "book",
 		"title": "Separatabsug aus dem Anseigen der philosophischen-historischen Klasse",
 		"callnumber": "XVI V 102"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ISTUEQ2M",
+		"id": "ISTUEQ2M",
 		"type": "book",
 		"title": "Fleischses Briefe an Hassler aus den Jahren 1823-1870",
 		"publisherplace": "Tübingen",
@@ -13969,7 +13969,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W4MW897P",
+		"id": "W4MW897P",
 		"type": "book",
 		"title": "Arabistische Anseigen",
 		"callnumber": "XVI E 155",
@@ -13977,7 +13977,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8HMSEJZX",
+		"id": "8HMSEJZX",
 		"type": "book",
 		"title": "Die geographische Lage",
 		"publisherplace": "New York",
@@ -13987,7 +13987,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZAPMWDII",
+		"id": "ZAPMWDII",
 		"type": "book",
 		"title": "Brevis linguae guaram Grammatica Breve Noticia de la lingua guesani",
 		"publisherplace": "Stuttgart",
@@ -13997,7 +13997,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GAN537SM",
+		"id": "GAN537SM",
 		"type": "book",
 		"title": "Grammatica Italo-Araba",
 		"publisherplace": "Milan",
@@ -14007,7 +14007,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PJ6EVZTE",
+		"id": "PJ6EVZTE",
 		"type": "book",
 		"title": "Studien für die persischen Fremdwörter im klassischen Arabisch",
 		"publisherplace": "Göttingen",
@@ -14017,7 +14017,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SS8DCE7T",
+		"id": "SS8DCE7T",
 		"type": "book",
 		"title": "Bibliotheca Indica",
 		"publisherplace": "Leipzig",
@@ -14027,7 +14027,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PIM3ET3E",
+		"id": "PIM3ET3E",
 		"type": "book",
 		"title": "Observations sur le Seus Figuré",
 		"publisherplace": "Paris",
@@ -14037,7 +14037,7 @@ var ourData = [
 		"issued": "1839"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AE6PG2XM",
+		"id": "AE6PG2XM",
 		"type": "book",
 		"title": "Taif al-Layâl",
 		"callnumber": "XVI E 343",
@@ -14045,7 +14045,7 @@ var ourData = [
 		"issued": "1838"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F5GVUWS6",
+		"id": "F5GVUWS6",
 		"type": "book",
 		"title": "Kinship and Marriage in Early Arabia",
 		"publisherplace": "Cambridge",
@@ -14055,7 +14055,7 @@ var ourData = [
 		"issued": "1885"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6WPTW4UV",
+		"id": "6WPTW4UV",
 		"type": "book",
 		"title": "The Religion of the Semites",
 		"publisherplace": "Edinburgh",
@@ -14065,7 +14065,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6QSGD7JJ",
+		"id": "6QSGD7JJ",
 		"type": "book",
 		"title": "Politique Musulmane de la Hollande",
 		"publisherplace": "Paris",
@@ -14075,21 +14075,21 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZFC5ST9U",
+		"id": "ZFC5ST9U",
 		"type": "book",
 		"title": "Heiligbrolog von den Islam",
 		"callnumber": "XVI E 132",
 		"author": "H. Snouck"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8UDPD4N7",
+		"id": "8UDPD4N7",
 		"type": "book",
 		"title": "Saed es-Suvênî ein seltsauer Walî in Hadhramod",
 		"callnumber": "XVI E 109",
 		"author": "H. Snouck"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HZHPNQ6Z",
+		"id": "HZHPNQ6Z",
 		"type": "book",
 		"title": "Die Shîʿa in Aleppo",
 		"publisherplace": "Strassburg",
@@ -14099,7 +14099,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6FJPI2QF",
+		"id": "6FJPI2QF",
 		"type": "book",
 		"title": "Baalbeck in islamischen Zeit",
 		"publisherplace": "Berlin",
@@ -14109,14 +14109,14 @@ var ourData = [
 		"issued": "1922"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E5RCP74I",
+		"id": "E5RCP74I",
 		"type": "book",
 		"title": "Das Heiligtum des Shaikh Muhascin in Aleppo",
 		"callnumber": "XVI V 111",
 		"author": "M. Sobemheim"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2PP55V7Q",
+		"id": "2PP55V7Q",
 		"type": "book",
 		"title": "Arabische Grammatik",
 		"publisherplace": "Berlin",
@@ -14126,7 +14126,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2EC4EN29",
+		"id": "2EC4EN29",
 		"type": "book",
 		"title": "Arabische Grammatik",
 		"publisherplace": "Berlin",
@@ -14136,7 +14136,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3TUGN43I",
+		"id": "3TUGN43I",
 		"type": "book",
 		"title": "Arabische Grammatik",
 		"publisherplace": "Berlin",
@@ -14146,7 +14146,7 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PTM3SWQV",
+		"id": "PTM3SWQV",
 		"type": "book",
 		"title": "Die Schreiben Muhammeds an die Stämme Arabiens",
 		"callnumber": "XVI E 207",
@@ -14154,7 +14154,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UMHRIXN2",
+		"id": "UMHRIXN2",
 		"type": "book",
 		"title": "Muhammed und der Koran",
 		"publisherplace": "Hamburg",
@@ -14164,7 +14164,7 @@ var ourData = [
 		"issued": "1889"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DGZJ4UFN",
+		"id": "DGZJ4UFN",
 		"type": "book",
 		"title": "Das Leben un die Lehre des Mohammed",
 		"publisherplace": "Berlin",
@@ -14175,7 +14175,7 @@ var ourData = [
 		"issued": "1861"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PVD63GH4",
+		"id": "PVD63GH4",
 		"type": "book",
 		"title": "Geist des Ostens",
 		"publisherplace": "Munich",
@@ -14186,7 +14186,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PMMT674B",
+		"id": "PMMT674B",
 		"type": "book",
 		"title": "Die europäischen Übersetzungen aus dem Arabischen bis Mitte des 17 Jahrhundert",
 		"publisherplace": "Vienna",
@@ -14196,14 +14196,14 @@ var ourData = [
 		"issued": "1904"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2T2H4MMT",
+		"id": "2T2H4MMT",
 		"type": "book",
 		"title": "Il Rangstreit Literatur",
 		"callnumber": "XVI E 205",
 		"author": "M. Steinschneider"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B2Z5QMWK",
+		"id": "B2Z5QMWK",
 		"type": "book",
 		"title": "Persian-English Dictionary",
 		"publisherplace": "London",
@@ -14212,14 +14212,14 @@ var ourData = [
 		"author": "F.J. Steingass"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EQBEBZT4",
+		"id": "EQBEBZT4",
 		"type": "book",
 		"title": "Die Pfeilschuss des Olbrapaliten Anaxagoras",
 		"callnumber": "XVI V 22",
 		"author": " Stem-Karabacek"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I88VQ5JU",
+		"id": "I88VQ5JU",
 		"type": "book",
 		"title": "Lehrbuch der Einleitung in das alte Testament",
 		"publisherplace": "Tübingen",
@@ -14229,7 +14229,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/MSDI8NWI",
+		"id": "MSDI8NWI",
 		"type": "book",
 		"title": "Persian Literature",
 		"publisherplace": "London",
@@ -14239,7 +14239,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZDWKBTAG",
+		"id": "ZDWKBTAG",
 		"type": "book",
 		"title": "Fársnáma",
 		"publisherplace": "London",
@@ -14249,7 +14249,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EHZW78CV",
+		"id": "EHZW78CV",
 		"type": "book",
 		"title": "Der Kampf im Arabien",
 		"publisherplace": "Braunschweig",
@@ -14259,7 +14259,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/926P5SB9",
+		"id": "926P5SB9",
 		"type": "book",
 		"title": "Grammatik des Tunisischen Arabisch",
 		"publisherplace": "Leipzig",
@@ -14269,7 +14269,7 @@ var ourData = [
 		"issued": "1896"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GXW38SXV",
+		"id": "GXW38SXV",
 		"type": "book",
 		"title": "Landberg, Etudes sur les dialectes de l'Arabie Méridionale",
 		"publisherplace": "Göttingen",
@@ -14279,7 +14279,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47IJIKUF",
+		"id": "47IJIKUF",
 		"type": "book",
 		"title": "Flowers and Trees of Palestine",
 		"publisherplace": "London",
@@ -14289,7 +14289,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7AMSD24D",
+		"id": "7AMSD24D",
 		"type": "book",
 		"title": "Babylonisch-Assyrische Geschichte",
 		"publisherplace": "Gotha",
@@ -14299,7 +14299,7 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3TJK3JAI",
+		"id": "3TJK3JAI",
 		"type": "book",
 		"title": "Denkmäler Palästinas aus der Zeit Jesu",
 		"publisherplace": "Leipzig",
@@ -14309,7 +14309,7 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J98RQ2I9",
+		"id": "J98RQ2I9",
 		"type": "book",
 		"title": "Palaestina und seine Kultur in 5 Jahrtausenden",
 		"publisherplace": "Leipzig",
@@ -14319,7 +14319,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2HCHF8FE",
+		"id": "2HCHF8FE",
 		"type": "book",
 		"title": "Denkmäler Palästinas aus der Zeit Jesu",
 		"publisherplace": "Leipzig",
@@ -14329,7 +14329,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KTC8PIZK",
+		"id": "KTC8PIZK",
 		"type": "book",
 		"title": "Beiträge zur Kenntnis des islamischen Vereinswesens auf Grund von Bast Madad et-Taufîg",
 		"publisherplace": "Berlin",
@@ -14339,7 +14339,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F8CQB5Z4",
+		"id": "F8CQB5Z4",
 		"type": "book",
 		"title": "Die arabische Übersetzung der Poetik des Aristoteles",
 		"publisherplace": "Vienna",
@@ -14349,7 +14349,7 @@ var ourData = [
 		"issued": "1928"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AIARHJKG",
+		"id": "AIARHJKG",
 		"type": "book",
 		"title": "Topographische Erläuterung er Küstenfahrt Neaichs vom Indus bis zum Euphrat",
 		"publisherplace": "Vienna",
@@ -14359,7 +14359,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8DTGBRD2",
+		"id": "8DTGBRD2",
 		"type": "book",
 		"title": "Der Ursprung des Islam und das Christentum",
 		"publisherplace": "Uppsala",
@@ -14369,7 +14369,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Z69TQBZ6",
+		"id": "Z69TQBZ6",
 		"type": "book",
 		"title": "Altbabylonische Tempelrechnungen",
 		"publisherplace": "Vienna",
@@ -14379,7 +14379,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WCCZNED7",
+		"id": "WCCZNED7",
 		"type": "book",
 		"title": "Die Entstehung des semitischen Sprachtypus",
 		"publisherplace": "Vienna",
@@ -14389,28 +14389,28 @@ var ourData = [
 		"issued": "1916"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/447SSPHU",
+		"id": "447SSPHU",
 		"type": "book",
 		"title": "Zur Bedeutung von Akzent und Vokal im Semitischen",
 		"callnumber": "XVI S 119",
 		"author": "H. Torceyner"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/XCFWQ45N",
+		"id": "XCFWQ45N",
 		"type": "book",
 		"title": "Der Vorme Samheribs",
 		"callnumber": "XVI S 120",
 		"author": "H. Torceyner"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/AGPRW7X7",
+		"id": "AGPRW7X7",
 		"type": "book",
 		"title": "Zur semitischen Verbalbildung",
 		"callnumber": "XVI S 172",
 		"author": "H. Torceyner"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/56VQNMBM",
+		"id": "56VQNMBM",
 		"type": "book",
 		"title": "The Commercial-Theological Terms in the Koran",
 		"publisherplace": "Leiden",
@@ -14420,7 +14420,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G6789BSK",
+		"id": "G6789BSK",
 		"type": "book",
 		"title": "Ezra Studies",
 		"publisherplace": "Chicago",
@@ -14430,7 +14430,7 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/CJXQCTIP",
+		"id": "CJXQCTIP",
 		"type": "book",
 		"title": "Deutschland und der Islam",
 		"publisherplace": "Berlin",
@@ -14439,7 +14439,7 @@ var ourData = [
 		"author": "D. Frietsch"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2I3S2DEP",
+		"id": "2I3S2DEP",
 		"type": "book",
 		"title": "Darstellung der arabischen Verskunst",
 		"publisherplace": "Bonn",
@@ -14449,7 +14449,7 @@ var ourData = [
 		"issued": "1830"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/64PAZMIW",
+		"id": "64PAZMIW",
 		"type": "book",
 		"title": "L'Algérie Légendaire",
 		"publisherplace": "Algiers",
@@ -14459,7 +14459,7 @@ var ourData = [
 		"issued": "1892"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6SCBESZ9",
+		"id": "6SCBESZ9",
 		"type": "book",
 		"title": "Beitrage zur arabischen Grammatik",
 		"publisherplace": "Munich",
@@ -14469,7 +14469,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BPK37TBF",
+		"id": "BPK37TBF",
 		"type": "book",
 		"title": "Literatur denkmäler aus Ungams Türkenseit",
 		"publisherplace": "Berlin",
@@ -14479,7 +14479,7 @@ var ourData = [
 		"issued": "1927"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EWKFPSHD",
+		"id": "EWKFPSHD",
 		"type": "book",
 		"title": "Hebräische Grammatik",
 		"publisherplace": "Tübingen",
@@ -14489,7 +14489,7 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PWKFBEMA",
+		"id": "PWKFBEMA",
 		"type": "book",
 		"title": "Travels in the Arabian Desert",
 		"publisherplace": "London",
@@ -14499,7 +14499,7 @@ var ourData = [
 		"issued": "1881"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/32I9596J",
+		"id": "32I9596J",
 		"type": "book",
 		"title": "Allgemeine Verfassungs und Verwaltungsgeschichte",
 		"publisherplace": "Berlin",
@@ -14509,7 +14509,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/58FTEP5W",
+		"id": "58FTEP5W",
 		"type": "book",
 		"title": "Die Ehe im Islam",
 		"publisherplace": "Vienna",
@@ -14519,14 +14519,14 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SAP7DE59",
+		"id": "SAP7DE59",
 		"type": "book",
 		"title": "Les Haduira et Nalsita",
 		"callnumber": "XVI E 150",
 		"author": "G. Vloten"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/N5DGZJPQ",
+		"id": "N5DGZJPQ",
 		"type": "book",
 		"title": "Volkssprache und Schriftsprache im alten Arabien",
 		"publisherplace": "Strassburg",
@@ -14536,7 +14536,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4NEM3D9M",
+		"id": "4NEM3D9M",
 		"type": "book",
 		"title": "Über Rassenfarben in der arabischen Literatur",
 		"publisherplace": "Jena",
@@ -14545,7 +14545,7 @@ var ourData = [
 		"author": "K. Vollers"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WUV4DBEN",
+		"id": "WUV4DBEN",
 		"type": "book",
 		"title": "Aegypten und die Bibel",
 		"publisherplace": "Leiden",
@@ -14555,7 +14555,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BZAA9NN7",
+		"id": "BZAA9NN7",
 		"type": "book",
 		"title": "Lexicon Persica-Latinum",
 		"publisherplace": "Bonn",
@@ -14566,7 +14566,7 @@ var ourData = [
 		"issued": "1855"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/923T7MJ3",
+		"id": "923T7MJ3",
 		"type": "book",
 		"title": "Supplementum Lexici Persico-Latini",
 		"publisherplace": "Bonn",
@@ -14576,7 +14576,7 @@ var ourData = [
 		"issued": "1867"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7TQQAJ8P",
+		"id": "7TQQAJ8P",
 		"type": "book",
 		"title": "Handbuch der türkischen Sprache",
 		"publisherplace": "Giessen",
@@ -14586,7 +14586,7 @@ var ourData = [
 		"issued": "1869"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/QXU242AC",
+		"id": "QXU242AC",
 		"type": "book",
 		"title": "Neu-arabische Grammatik",
 		"publisherplace": "Giessen",
@@ -14596,7 +14596,7 @@ var ourData = [
 		"issued": "1861"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2KU9XVDE",
+		"id": "2KU9XVDE",
 		"type": "book",
 		"title": "Arabien vor dem Islam",
 		"publisherplace": "Leipzig",
@@ -14606,7 +14606,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2UEBP3AU",
+		"id": "2UEBP3AU",
 		"type": "book",
 		"title": "Studien zur hethitischen Sprache",
 		"publisherplace": "Leipzig",
@@ -14616,7 +14616,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UVV9FAJ6",
+		"id": "UVV9FAJ6",
 		"type": "book",
 		"title": "Grammatik der amanisch-türkischen Sprache",
 		"publisherplace": "Berlin",
@@ -14626,7 +14626,7 @@ var ourData = [
 		"issued": "1917"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/PWU79BHA",
+		"id": "PWU79BHA",
 		"type": "book",
 		"title": "Festschrift Eduard Sachau",
 		"publisherplace": "Berlin",
@@ -14636,7 +14636,7 @@ var ourData = [
 		"issued": "1915"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U9XSIEF5",
+		"id": "U9XSIEF5",
 		"type": "book",
 		"title": "Die poetische Literatur der Araber",
 		"publisherplace": "Stuttgart",
@@ -14646,7 +14646,7 @@ var ourData = [
 		"issued": "1837"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/82Q43IPT",
+		"id": "82Q43IPT",
 		"type": "book",
 		"title": "Historisch-kritische Einleitung in den Koran",
 		"publisherplace": "Leipzig",
@@ -14656,7 +14656,7 @@ var ourData = [
 		"issued": "1878"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UX9RRTA8",
+		"id": "UX9RRTA8",
 		"type": "book",
 		"title": "Gedichte der islamitischen Völker von Mohammed bis Sultan Selim",
 		"publisherplace": "Stuttgart",
@@ -14666,7 +14666,7 @@ var ourData = [
 		"issued": "1866"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GNEJGJQB",
+		"id": "GNEJGJQB",
 		"type": "book",
 		"title": "Die arabische Nominalform Fâʿûl",
 		"publisherplace": "Munich",
@@ -14676,7 +14676,7 @@ var ourData = [
 		"issued": "1899"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/H9I9NKUG",
+		"id": "H9I9NKUG",
 		"type": "book",
 		"title": "Das arabische Reich und sein Sturz",
 		"publisherplace": "Berlin",
@@ -14686,7 +14686,7 @@ var ourData = [
 		"issued": "1902"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/B5RX9FTW",
+		"id": "B5RX9FTW",
 		"type": "book",
 		"title": "Die Ehe bei den Arabern",
 		"publisherplace": "Göttingen",
@@ -14696,7 +14696,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4MX4R2XR",
+		"id": "4MX4R2XR",
 		"type": "book",
 		"title": "Reste arabischen Heidentums",
 		"publisherplace": "Berlin",
@@ -14706,7 +14706,7 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R25D68NT",
+		"id": "R25D68NT",
 		"type": "book",
 		"title": "Skizzen und Vorarbeiten",
 		"publisherplace": "Berlin",
@@ -14716,7 +14716,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X9WIEUGM",
+		"id": "X9WIEUGM",
 		"type": "book",
 		"title": "Die Tharïsäer und die Sadduzäen",
 		"publisherplace": "Hannover",
@@ -14726,7 +14726,7 @@ var ourData = [
 		"issued": "1924"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D9Q3NBE3",
+		"id": "D9Q3NBE3",
 		"type": "book",
 		"title": "Israelitisch-jüdische Religion",
 		"publisherplace": "Berlin",
@@ -14736,7 +14736,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EB8HFNB4",
+		"id": "EB8HFNB4",
 		"type": "book",
 		"title": "Zur allgemeinen Charakteristik der arabischen Poesie",
 		"publisherplace": "Innsbruck",
@@ -14746,7 +14746,7 @@ var ourData = [
 		"issued": "1870"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M6SVQ5U4",
+		"id": "M6SVQ5U4",
 		"type": "book",
 		"title": "Bar Hebraeus",
 		"publisherplace": "Leiden",
@@ -14756,7 +14756,7 @@ var ourData = [
 		"issued": "1919"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3MQ2FSM2",
+		"id": "3MQ2FSM2",
 		"type": "book",
 		"title": "Het Oudste Arameesch",
 		"publisherplace": "Utrecht",
@@ -14766,7 +14766,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W9B23E2Q",
+		"id": "W9B23E2Q",
 		"type": "book",
 		"title": "Mohammed en de Joden te Medina",
 		"publisherplace": "Leiden",
@@ -14776,7 +14776,7 @@ var ourData = [
 		"issued": "1908"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/4UUIS9ZU",
+		"id": "4UUIS9ZU",
 		"type": "book",
 		"title": "Über Musikautomaten bei den Arabern",
 		"publisherplace": "Palermo",
@@ -14786,7 +14786,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KWFACANB",
+		"id": "KWFACANB",
 		"type": "book",
 		"title": "Zur Physik bei den Arabern",
 		"publisherplace": "Halle",
@@ -14796,7 +14796,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5K2S7ARU",
+		"id": "5K2S7ARU",
 		"type": "book",
 		"title": "Zur Physik bei den Arabern",
 		"publisherplace": "Halle",
@@ -14806,7 +14806,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D4EVJQJG",
+		"id": "D4EVJQJG",
 		"type": "book",
 		"title": "Beiträge zur Geschichte der Naturwissenschaften",
 		"publisherplace": "Erlangen",
@@ -14816,14 +14816,14 @@ var ourData = [
 		"issued": "1910"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/EIF2TU86",
+		"id": "EIF2TU86",
 		"type": "book",
 		"title": "Kleine Mitteilungen aus Naturwissenschaften bei den Arabern",
 		"callnumber": "XVI E 71",
 		"author": "E. Wiedemann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KK9DWT73",
+		"id": "KK9DWT73",
 		"type": "book",
 		"title": "Das Buch der Sprüche",
 		"publisherplace": "Freiburg",
@@ -14832,7 +14832,7 @@ var ourData = [
 		"author": "H. Wiesmann"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/BDJEZRGG",
+		"id": "BDJEZRGG",
 		"type": "book",
 		"title": "Maqrîzî aus Mémoires de l'Institut français d'archéologie orientale de Caïre",
 		"publisherplace": "Cairo",
@@ -14842,7 +14842,7 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/9CSHJ896",
+		"id": "9CSHJ896",
 		"type": "book",
 		"title": "Die Politische Werksamkeit der Propheten Israels",
 		"publisherplace": "Leipzig",
@@ -14852,14 +14852,14 @@ var ourData = [
 		"issued": "1913"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/KG97SF9X",
+		"id": "KG97SF9X",
 		"type": "book",
 		"title": "Das Skythenprobleme im Jenenniasbuche",
 		"callnumber": "XVI S 90",
 		"author": "F. Wilke"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E4VZ4XUE",
+		"id": "E4VZ4XUE",
 		"type": "book",
 		"title": "Das Matnichat",
 		"publisherplace": "Leipzig",
@@ -14869,7 +14869,7 @@ var ourData = [
 		"issued": "1884"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5C42RXFE",
+		"id": "5C42RXFE",
 		"type": "book",
 		"title": "Arabisch-Semitisch-Orientalisch",
 		"publisherplace": "Berlin",
@@ -14879,7 +14879,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/E8IE2DWK",
+		"id": "E8IE2DWK",
 		"type": "book",
 		"title": "Die jüdische Literatur",
 		"publisherplace": "Berlin",
@@ -14890,13 +14890,13 @@ var ourData = [
 		"issued": "1897"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/I7XFZ2RK",
+		"id": "I7XFZ2RK",
 		"type": "book",
 		"title": "Wochenschrift für klassische Philologie",
 		"callnumber": "XVI V 69"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/UN463ENE",
+		"id": "UN463ENE",
 		"type": "book",
 		"title": "Arabic-English Dictionary",
 		"publisherplace": "Beirut",
@@ -14906,7 +14906,7 @@ var ourData = [
 		"issued": "1893"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HAHCMQ55",
+		"id": "HAHCMQ55",
 		"type": "book",
 		"title": "A Grammar of the Arabic callnumber",
 		"publisherplace": "London",
@@ -14916,7 +14916,7 @@ var ourData = [
 		"issued": "1874"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/6BDBBJ75",
+		"id": "6BDBBJ75",
 		"type": "book",
 		"title": "Religionsgeschichtliche Versuche und Vorarbeiten",
 		"publisherplace": "Giessen",
@@ -14926,7 +14926,7 @@ var ourData = [
 		"issued": "1911"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W9PMGT87",
+		"id": "W9PMGT87",
 		"type": "book",
 		"title": "Der babylonische Talmud",
 		"publisherplace": "Leipzig",
@@ -14936,13 +14936,13 @@ var ourData = [
 		"issued": "1886"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/U68545EZ",
+		"id": "U68545EZ",
 		"type": "book",
 		"title": "Wiener Medizinische Wochenschrift",
 		"callnumber": "XVI S 175"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/J58JFKCJ",
+		"id": "J58JFKCJ",
 		"type": "book",
 		"title": "Aus Israels Lehrhallen",
 		"publisherplace": "Leipzig",
@@ -14953,7 +14953,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IQIGP5RP",
+		"id": "IQIGP5RP",
 		"type": "book",
 		"title": "Der Midrasch",
 		"publisherplace": "Leipzig",
@@ -14964,7 +14964,7 @@ var ourData = [
 		"issued": "1882"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/RN2MTG3F",
+		"id": "RN2MTG3F",
 		"type": "book",
 		"title": "Der Imâm el-Schâfiʾi",
 		"publisherplace": "Göttingen",
@@ -14974,7 +14974,7 @@ var ourData = [
 		"issued": "1890"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WPPSGGHP",
+		"id": "WPPSGGHP",
 		"type": "book",
 		"title": "Genealogische Tabellen der arabischen Stämme und Familien",
 		"publisherplace": "Göttingen",
@@ -14984,7 +14984,7 @@ var ourData = [
 		"issued": "1852"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/SX25FC4X",
+		"id": "SX25FC4X",
 		"type": "book",
 		"title": "Übersetzungen arabischer Werke",
 		"publisherplace": "Göttingen",
@@ -14994,7 +14994,7 @@ var ourData = [
 		"issued": "1877"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/K2ZX8XB3",
+		"id": "K2ZX8XB3",
 		"type": "book",
 		"title": "Vergleichungstabellen der mohammedanischen und christlichen Zeitrechnung",
 		"publisherplace": "Leipzig",
@@ -15004,7 +15004,7 @@ var ourData = [
 		"issued": "1854"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IBEAFUIF",
+		"id": "IBEAFUIF",
 		"type": "book",
 		"title": "Register zu den genealogischen Tabellen der Arabischen Stammen und Familien",
 		"publisherplace": "Göttingen",
@@ -15014,7 +15014,7 @@ var ourData = [
 		"issued": "1853"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/3Z6E3QWE",
+		"id": "3Z6E3QWE",
 		"type": "book",
 		"title": "Die Sprache des Pentateuch",
 		"publisherplace": "Berlin",
@@ -15024,14 +15024,14 @@ var ourData = [
 		"issued": "1929"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/NZVZQKRJ",
+		"id": "NZVZQKRJ",
 		"type": "book",
 		"title": "Über <HEBREW> und <HEBREW> im alten Testament",
 		"callnumber": "XVI S 176",
 		"author": "A.S. Vahuda"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/W4SBWH26",
+		"id": "W4SBWH26",
 		"type": "book",
 		"title": "Nouvelles contributions à la acumiematique Orientale",
 		"callnumber": "XVI E 274",
@@ -15039,7 +15039,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/5Q66W8DX",
+		"id": "5Q66W8DX",
 		"type": "book",
 		"title": "Der Totenismus und die Religion Israels",
 		"publisherplace": "Freiburg",
@@ -15049,7 +15049,7 @@ var ourData = [
 		"issued": "1901"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/M63U5ATA",
+		"id": "M63U5ATA",
 		"type": "book",
 		"title": "Arabien und die ARaber seit hundert Jahren",
 		"publisherplace": "Halle",
@@ -15059,7 +15059,7 @@ var ourData = [
 		"issued": "1875"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/FZ9I8P9D",
+		"id": "FZ9I8P9D",
 		"type": "book",
 		"title": "Materialien zur Volksreligion Israels",
 		"publisherplace": "Leipzig",
@@ -15069,7 +15069,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WWETSSDD",
+		"id": "WWETSSDD",
 		"type": "book",
 		"title": "Arabia The Cradle of Islam",
 		"publisherplace": "London",
@@ -15078,7 +15078,7 @@ var ourData = [
 		"author": "S.M. Zwemer"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/D6X6KZIZ",
+		"id": "D6X6KZIZ",
 		"type": "book",
 		"title": "Die Christologie des Islam",
 		"publisherplace": "Stuttgart",
@@ -15088,7 +15088,7 @@ var ourData = [
 		"issued": "1921"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/HDGU37T2",
+		"id": "HDGU37T2",
 		"type": "book",
 		"title": "Der Wein in der Bibel",
 		"publisherplace": "Freiburg",
@@ -15098,7 +15098,7 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/V4XIFD92",
+		"id": "V4XIFD92",
 		"type": "article-journal",
 		"title": "Book review: كتاب الألفاظ الفارسية المعربة",
 		"page": "13-22",
@@ -15107,7 +15107,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/X7JM5AXB",
+		"id": "X7JM5AXB",
 		"type": "book",
 		"title": "شرح ديوان",
 		"publisher": "Elektro-tipografija \"Yriek\"",
@@ -15120,7 +15120,7 @@ var ourData = [
 		"issued": "1909"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47G9JIGP",
+		"id": "47G9JIGP",
 		"type": "book",
 		"title": "Materialy dlja Xapakteristiki poetičeskago tvorčestva",
 		"publisher": "Tipografija Imperatorskoi Akademii Nauk",
@@ -15132,7 +15132,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/R9D83J28",
+		"id": "R9D83J28",
 		"type": "book",
 		"title": "Verbljud ili vedro?",
 		"publisher": "Tipografija Imperatorskoi Akademii Nauk",
@@ -15143,7 +15143,7 @@ var ourData = [
 		"issued": "1906"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/7KWEI6K9",
+		"id": "7KWEI6K9",
 		"type": "article-journal",
 		"title": "Īūeuph al-Magribī i ego slovar",
 		"abstract": "al-Magribi and his dictionary",
@@ -15152,7 +15152,7 @@ var ourData = [
 		"issued": "1926"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZZI3JPPT",
+		"id": "ZZI3JPPT",
 		"type": "book",
 		"title": "Arabskaya Xrestomatija",
 		"publisher": "Tipografija Imperatorskoi Akademii Nauk",
@@ -15164,7 +15164,7 @@ var ourData = [
 		"issued": "1876"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/8G3T7SU5",
+		"id": "8G3T7SU5",
 		"type": "book",
 		"title": "Polveka isnanskoi arabistiki",
 		"publisher": "Izlatelstvo Akademi Nauk USSR",
@@ -15176,14 +15176,14 @@ var ourData = [
 		"issued": "1920"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/IWBE8GU3",
+		"id": "IWBE8GU3",
 		"type": "article-journal",
 		"title": "Book review: Catalogue of the Turkish Manuscripts in the British Museum, Verzeichniss der persischen Handschriften der kgl. Bibliothek zu Berlin, Verzeichniss der arabischen Handschriften der kgl. Bibliothek zu Berlin",
 		"abstract": "Otdelnii ottisk iz zanisok vostačnago otdelenija imp. ryssk. arxeol. obšč. [Separate offprints from the Oriental Studies Department of the Imperial Russian Archeological Society]",
 		"callnumber": "XVI G 33"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/JI64BKSN",
+		"id": "JI64BKSN",
 		"type": "book",
 		"title": "Arabskija Rykopici Sorodskoi biblijuteki v Aleksandrii",
 		"publisher": "Tipografija Imperatorskoi Akademii Nauk",
@@ -15194,7 +15194,7 @@ var ourData = [
 		"issued": "1914"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/G8H3RJK2",
+		"id": "G8H3RJK2",
 		"type": "article-journal",
 		"title": "Neizvestnaja antologija",
 		"abstract": "An unknown anthology of Ibn Mammati",
@@ -15202,7 +15202,7 @@ var ourData = [
 		"author": "I.Y. Kratchkovsky"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/47SXX9Q6",
+		"id": "47SXX9Q6",
 		"type": "book",
 		"title": "Materialy iz arabskix istochnikov dlya kultyrnoi istorii sacanidskoi Percii",
 		"publisher": "Tipografija Imperatorskoi Akademii Nauk",
@@ -15214,7 +15214,7 @@ var ourData = [
 		"issued": "1907"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/GE3FF792",
+		"id": "GE3FF792",
 		"type": "book",
 		"title": "Xamasa Buxturi i eja pervyi izsledovatel v evrope",
 		"publisher": "Tipografija Imperatorskoi Akademii Nauk",
@@ -15226,14 +15226,14 @@ var ourData = [
 		"issued": "1912"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/TRIER4KN",
+		"id": "TRIER4KN",
 		"type": "article-journal",
 		"title": "Book review The Diwān of Ḥassan b. Thābit",
 		"abstract": "In Russian",
 		"callnumber": "XVI A 117"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/ZZ4WNETS",
+		"id": "ZZ4WNETS",
 		"type": "book",
 		"title": "كتاب الأغاني",
 		"publisher": "Maṭbaʿa al-taqaddum bi-shāriʿ Muḥammad ʿAlī",
@@ -15247,7 +15247,7 @@ var ourData = [
 		"editor": " Aḥmad al-Shanqīṭī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/WWJ8ZMPB",
+		"id": "WWJ8ZMPB",
 		"type": "book",
 		"title": "كتاب الأغاني",
 		"publisher": "Brill",
@@ -15262,7 +15262,7 @@ var ourData = [
 		"issued": "1305h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/Q2Z8RMFP",
+		"id": "Q2Z8RMFP",
 		"type": "book",
 		"title": "Tables Alphabétiques du Kitâb al-Aġânî",
 		"publisher": "E.J. Brill",
@@ -15274,7 +15274,7 @@ var ourData = [
 		"issued": "1900"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/2R77C9EW",
+		"id": "2R77C9EW",
 		"type": "book",
 		"title": "مصدق الفضل",
 		"publisher": "Maṭbaʿa majlis dāʾirat al-maʿārif al-niẓāmiyya",
@@ -15287,7 +15287,7 @@ var ourData = [
 		"issued": "1323h"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/DVN2IMK3",
+		"id": "DVN2IMK3",
 		"type": "book",
 		"title": "فقه اللغة",
 		"shortTitle": "Fiqh al-lugha",
@@ -15295,7 +15295,7 @@ var ourData = [
 		"author": " al-Thaʿālibī"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/F592CNF2",
+		"id": "F592CNF2",
 		"type": "book",
 		"title": "Mani, seine Lehre und seine Schriften",
 		"publisher": "F.A. Brockhaus",
@@ -15307,7 +15307,7 @@ var ourData = [
 		"issued": "1862"
 	},
 	{
-		"id": "http://zotero.org/users/170941/items/477JR5U4",
+		"id": "477JR5U4",
 		"type": "manuscript",
 		"title": "المسألة رابع عشرة [الى] المسألة حادي وعشرون",
 		"callnumber": "XVI C 54"
