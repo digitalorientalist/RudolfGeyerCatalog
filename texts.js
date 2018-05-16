@@ -74,11 +74,8 @@ var texts =
         ,
         "foundItemsCatalog":
             {
-                "english": {
-                    "found": "Found ",
-                    "items": " items:"
-                },
-                "german": " Artikel gefunden:"
+                "english": "Number of results:",
+                "german": " Anzahl der Ergebnisse:"
             },
         "authorCatalog":
             {

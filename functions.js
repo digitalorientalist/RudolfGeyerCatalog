@@ -70,14 +70,21 @@ function modalInfo(number, language) {
 var reducedCatalog = {};
 var yearIndex = [];
 var yearOrderIndex = [];
-var oldData = ourData;
+var searchData = [];
 
 
 window.onload = function () {
-    switchLanguage("german");
-    //renderTableGeyer(ourData, "All entries of the Geyer Catalogue");
+    ourData.sort(function (a, b) {
+        // indexing for year
+        // return parseInt(a.issued) - parseInt(b.issued);
+        // indexing for title
+        return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
+    });
     reducingCatalog();
-    indexingCatalog();
+    switchLanguage("german");
+
+    // indexingCatalog();
+    //renderTableGeyer(ourData, "All entries of the Geyer Catalogue");
 
 }
 // ------------
@@ -169,8 +176,7 @@ function renderTableEntry(data, i, language) {
     tableHTML += "</p></div></td></tr>";
 }
 
-function renderTableGeyer(data, heading, language) {
-
+function renderTableGeyer(data, heading, language, numberEntries) {
     tableHTML = "<table id=\"tableCatalog\" class=\"table table-striped\"><tbody>";
 
     for (i = 0; i < data.length; i++) {
@@ -180,51 +186,33 @@ function renderTableGeyer(data, heading, language) {
     tableHTML += '</tbody></table>';
 
     catalogGeyer.innerHTML = tableHTML;
-    document.getElementById("titleSearch").innerHTML = Object.values(texts[heading])[language];
+    if (typeof numberEntries !== "undefined"){
+        document.getElementById("titleSearch").innerHTML = Object.values(texts[heading])[language] + " " + numberEntries;
+    } else {
+        document.getElementById("titleSearch").innerHTML = Object.values(texts[heading])[language];
+    }
 }
 
 // ------------
 // Searching keyword and showing results
 
 function searchCatalog(input) {
-
+    searchData = [];
     // Declare variables 
     var filter, fields, number, y;
-    number = 0;
     inputLower = input.toLowerCase();
     normalizedInput = accent_fold(inputLower);
-    tableHTML = "<table id=\"tableCatalog\" class=\"table table-striped\"><tbody>";
-    var lengthCat = Object.keys(reducedCatalog);
-    
-    yearOrderIndex.forEach(function(y){
-        if (reducedCatalog[y].includes(normalizedInput)) {
-            console.log(reducedCatalog);
-            console.log(oldData);
-            number++;
-            renderTableEntry(oldData, y, lanIndex);
+
+    for (i = 0; i < ourData.length; i++) {
+        if (reducedCatalog[i].includes(normalizedInput)) {
+            searchData.push(ourData[i]);
         }
-    })
-    
-    // for (y = 0; y < lengthCat.length; y++) {
-    //     if (reducedCatalog[y].includes(normalizedInput)) {
-    //         number++;
-    //         renderTableEntry(ourData, y, lanIndex);
-    //     }
-    // }
-    if (number == 0) {
+    }
+
+    if (searchData.length == 0) {
         renderTableGeyer(ourData, "noResultsTitleCatalog", lanIndex);
     } else {
-        tableHTML += '</tbody></table>';
-
-        if (lanIndex == 0) {
-            document.getElementById("titleSearch").innerHTML = texts.foundItemsCatalog.english.found + number + texts.foundItemsCatalog.english.items;
-        } else if (lanIndex == 1) {
-            document.getElementById("titleSearch").innerHTML = number + texts.foundItemsCatalog.german;
-        }
-
-
-        catalogGeyer.innerHTML = tableHTML;
-
+        renderTableGeyer(searchData, "foundItemsCatalog", lanIndex, searchData.length);
     }
 }
 
@@ -289,24 +277,23 @@ function reducingCatalog() {
 
 
 
-function indexingCatalog(){
-    initialOrderID = ourData.map(a => a.id) ;
-    // indexing for year
+function indexingCatalog() {
     ourData.sort(function (a, b) {
-        return parseInt(a.issued) - parseInt(b.issued);
+        // indexing for year
+        // return parseInt(a.issued) - parseInt(b.issued);
+        // indexing for title
+        return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
     });
-    yearOrderID = ourData.map(a => a.id) ;
-    
-    for (id in yearOrderID){
-        yearOrderIndex.push(initialOrderID.findIndex(item => item === yearOrderID[id]));
-    }
-
-    
+    // yearOrderID = ourData.map(a => a.id);
+    // for (id in yearOrderID) {
+    //     yearOrderIndex.push(initialOrderID.findIndex(item => item === yearOrderID[id]));
+    // }
+    // console.log(ourData);
 }
 
 
 
-if ((/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent))==false) {
+if ((/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) == false) {
     tippy('.btn', {
         animation: 'perspective',
         dynamicTitle: true
