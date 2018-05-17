@@ -17,45 +17,45 @@ function modalInfo(number, language) {
         "<div class=\"modal-dialog\">" +
         "<div class=\"modal-content\">" +
         "<div class=\"modal-header text-warning\">" +
-        "<h3 class=\"headline\">" + ourData[number].title + "</h3>" +
+        "<h3 class=\"headline\">" + searchData[number].title + "</h3>" +
         "</div>" +
         "<div class=\"modal-body\">";
-    if (ourData[number].hasOwnProperty('shortTitle') == true) {
-        modalText += "<i>" + ourData[number].shortTitle + "</i><br>";
+    if (searchData[number].hasOwnProperty('shortTitle') == true) {
+        modalText += "<i>" + searchData[number].shortTitle + "</i><br>";
 
     }
-    if (ourData[number].hasOwnProperty('author') == true) {
-        modalText += authorLan + ourData[number].author + "<br>";
+    if (searchData[number].hasOwnProperty('author') == true) {
+        modalText += authorLan + searchData[number].author + "<br>";
 
     }
-    if (ourData[number].hasOwnProperty('editor') == true) {
-        modalText += editorLan + ourData[number].editor + "<br>";
+    if (searchData[number].hasOwnProperty('editor') == true) {
+        modalText += editorLan + searchData[number].editor + "<br>";
 
     }
-    if (ourData[number].hasOwnProperty('translator') == true) {
-        modalText += translatorLan + ourData[number].translator + "<br>";
+    if (searchData[number].hasOwnProperty('translator') == true) {
+        modalText += translatorLan + searchData[number].translator + "<br>";
     }
-    if (ourData[number].hasOwnProperty('numberofvolumes') == true) {
-        modalText += numberVolumesLan + ourData[number].numberofvolumes + "<br>";
+    if (searchData[number].hasOwnProperty('numberofvolumes') == true) {
+        modalText += numberVolumesLan + searchData[number].numberofvolumes + "<br>";
     }
-    if (ourData[number].hasOwnProperty('publisher') == true) {
-        modalText += publisherLan + ourData[number].publisher + "<br>";
+    if (searchData[number].hasOwnProperty('publisher') == true) {
+        modalText += publisherLan + searchData[number].publisher + "<br>";
 
     }
-    if (ourData[number].hasOwnProperty('publisherplace') == true) {
-        modalText += placeLan + ourData[number].publisherplace + "<br>";
+    if (searchData[number].hasOwnProperty('publisherplace') == true) {
+        modalText += placeLan + searchData[number].publisherplace + "<br>";
 
     }
-    if (ourData[number].hasOwnProperty('issued') == true) {
-        modalText += yearLan + ourData[number].issued;
+    if (searchData[number].hasOwnProperty('issued') == true) {
+        modalText += yearLan + searchData[number].issued;
 
     }
-    if (ourData[number].hasOwnProperty('abstract') == true) {
-        modalText += "<hr><p class=\"text-success\"><b>" + additionalLan + "</b><br>" + ourData[number].abstract + "</p>";
+    if (searchData[number].hasOwnProperty('abstract') == true) {
+        modalText += "<hr><p class=\"text-success\"><b>" + additionalLan + "</b><br>" + searchData[number].abstract + "</p>";
 
     }
-    if (ourData[number].hasOwnProperty('callnumber') == true) {
-        modalText += "<hr>" + callNumberLan + ourData[number].callnumber + "<br>";
+    if (searchData[number].hasOwnProperty('callnumber') == true) {
+        modalText += "<hr>" + callNumberLan + searchData[number].callnumber + "<br>";
 
     }
     modalText += "</div>" +
@@ -68,24 +68,13 @@ function modalInfo(number, language) {
 
 // Initial loading of the catalog
 var reducedCatalog = {};
-var yearIndex = [];
-var yearOrderIndex = [];
-var searchData = [];
+var searchData = ourData;
 
 
 window.onload = function () {
-    ourData.sort(function (a, b) {
-        // indexing for year
-        // return parseInt(a.issued) - parseInt(b.issued);
-        // indexing for title
-        return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
-    });
-    reducingCatalog();
+    indexingTitleCatalog();
+    reducingCatalog(ourData);
     switchLanguage("german");
-
-    // indexingCatalog();
-    //renderTableGeyer(ourData, "All entries of the Geyer Catalogue");
-
 }
 // ------------
 
@@ -214,6 +203,8 @@ function searchCatalog(input) {
     } else {
         renderTableGeyer(searchData, "foundItemsCatalog", lanIndex, searchData.length);
     }
+    console.log(ourData[2]);
+    console.log(reducedCatalog[2]);
 }
 
 // Search should initiate too by hitting 'Enter' key
@@ -240,6 +231,44 @@ document.getElementById("flagTip").onclick = function () {
     switchLanguage(nextLanguage);
 }
 
+
+
+// document.getElementById("sortYear").onclick = handler();
+
+// function handler() {
+//     alert('clicked');
+// }
+
+// function handler(){
+//     indexingTitleCatalog();
+//     document.getElementById("searchButton").click();
+// }
+// document.getElementById("sortYear").onclick = handlerYear;
+
+// function handlerYear(){
+//     indexingYearCatalog();
+//     document.getElementById("searchButton").click();
+// }
+
+// // document.getElementById("sortTitle").click( function(){
+// //     console.log("yes");
+    
+// // });
+// // document.getElementById("sortYear").addEventListener("select", function(){
+// //     indexingYearCatalog();
+// //     document.getElementById("searchButton").click();
+// // });
+
+document.getElementById("sortTitle").addEventListener("click", function(){
+    indexingTitleCatalog();
+    searchCatalog(document.getElementById("searchTip").value);
+})
+document.getElementById("sortYear").addEventListener("click", function(){
+    indexingYearCatalog();
+    searchCatalog(document.getElementById("searchTip").value);
+})
+
+
 // Search should be agnostic to capital/small letters, accents and different transliterations.
 
 var accentMap = {
@@ -263,9 +292,9 @@ function accent_fold(s) {
 
 // ----------
 
-function reducingCatalog() {
-    for (var y = 0; y < ourData.length; y++) {
-        yValue = Object.values(ourData[y]);
+function reducingCatalog(catalog) {
+    for (var y = 0; y < catalog.length; y++) {
+        yValue = Object.values(catalog[y]);
         relevantYValue = yValue.slice(2);
         realYValue = relevantYValue.join(" ");
         lowerCaseYValue = realYValue.toLowerCase();
@@ -277,18 +306,17 @@ function reducingCatalog() {
 
 
 
-function indexingCatalog() {
+function indexingTitleCatalog() {
     ourData.sort(function (a, b) {
-        // indexing for year
-        // return parseInt(a.issued) - parseInt(b.issued);
-        // indexing for title
         return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
     });
-    // yearOrderID = ourData.map(a => a.id);
-    // for (id in yearOrderID) {
-    //     yearOrderIndex.push(initialOrderID.findIndex(item => item === yearOrderID[id]));
-    // }
-    // console.log(ourData);
+    reducingCatalog(ourData);
+}
+function indexingYearCatalog() {
+    ourData.sort(function (a, b) {
+        return parseInt(a.issued) - parseInt(b.issued);
+    });
+    reducingCatalog(ourData);
 }
 
 

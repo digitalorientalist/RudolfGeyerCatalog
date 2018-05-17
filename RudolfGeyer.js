@@ -1487,6 +1487,7 @@ var ourData = [
 	{
 		"id": "NCQ53Z62",
 		"type": "manuscript",
+		"title": "",
 		"callnumber": "XVI A 133",
 		"issued": "1308h"
 	},
@@ -4683,6 +4684,7 @@ var ourData = [
 	{
 		"id": "76VBZDS6",
 		"type": "manuscript",
+		"title": "",
 		"callnumber": "XVI C 57",
 		"issued": "416h"
 	},
@@ -6462,6 +6464,7 @@ var ourData = [
 	{
 		"id": "SPI3D5KP",
 		"type": "manuscript",
+		"title": "",
 		"callnumber": "XVI D 41",
 		"issued": "1128H"
 	},
@@ -6687,6 +6690,7 @@ var ourData = [
 	{
 		"id": "5AK8A8UM",
 		"type": "manuscript",
+		"title": "",
 		"callnumber": "XVI D 63"
 	},
 	{
@@ -7634,6 +7638,7 @@ var ourData = [
 	{
 		"id": "VPNVA8BZ",
 		"type": "book",
+		"title": "",
 		"callnumber": "XVI D 144",
 		"issued": "1282h"
 	},
