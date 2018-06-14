@@ -54,6 +54,30 @@ var texts =
                 "german": "Geb einen Begriff ein und drück auf die Eingabetaste oder klick auf Suchen"
             }
         ,
+        "sortBy":
+            {
+                "english": "Sort by: ",
+                "german": "Sortiere nach: "
+            }
+        ,
+        "sortTitleCaption":
+            {
+                "english": "Title",
+                "german": "Titel"
+            }
+        ,
+        "sortAuthorCaption":
+            {
+                "english": "Author",
+                "german": "Verfasser"
+            }
+        ,
+        "sortYearCaption":
+            {
+                "english": "Year",
+                "german": "Jahre"
+            }
+        ,
         "beginTitleCatalog":
             {
                 "english": "All entries of the Geyer Catalogue",
@@ -127,6 +151,11 @@ var texts =
             {
                 "english": "Call Number: ",
                 "german": "Rufnummer: "
+            },
+        "urlCatalog":
+            {
+                "english": "Click here for a digitized copy",
+                "german": "Klicken Sie hier für eine digitalisierte Kopie"
             },
         "closeCatalog":
             {

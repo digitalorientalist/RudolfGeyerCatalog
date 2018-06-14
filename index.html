@@ -21,10 +21,14 @@
     <!-- TippyTip -->
     <script src="https://unpkg.com/tippy.js@2.5.2/dist/tippy.all.min.js"></script>
 
-    <script src="RudolfGeyer.js"></script>
+
+
+    <script src="GeyerFull.js"></script>
     <script src="texts.js"></script>
 
+
     <link rel="stylesheet" href="extrastyle.css">
+
 
     <title>Catalogue of Rudolf Geyer</title>
 </head>
@@ -100,17 +104,19 @@
                 </h2>
             </div>
             <div class="col-3" style="text-align: right">
-                <b>Sort by: </b>
+                <span id="sortBy"></span>
                 <div class="btn-group btn-group-toggle" id="ordering" data-toggle="buttons">
-                    <label class="btn btn-outline-secondary active" id="sortTitle">
-                        <input type="radio" name="options" autocomplete="off" checked>
-                        Title
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="options" id="sortTitle" autocomplete="off">
+                        <span id="sortTitleCaption"></span>
                     </label>
-                    <label class="btn btn-outline-secondary" id="sortAuthor">
-                        <input type="radio" name="options" autocomplete="off">Author
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="options" id="sortAuthor" autocomplete="off">
+                        <span id="sortAuthorCaption"></span>
                     </label>
-                    <label class="btn btn-outline-secondary" id="sortYear">
-                        <input type="radio" name="options" autocomplete="off">Year
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="options" id="sortYear" autocomplete="off">
+                        <span id="sortYearCaption"></span>
                     </label>
                 </div>
             </div>
@@ -123,8 +129,8 @@
 
     <div class='container' id="catalogGeyer"></div>
 
-    <script src="functions.js"></script>
     <div class="container" id="modalDiv"></div>
+
     <footer>
         <div class="container-fluid">
             <div class="row">
@@ -149,6 +155,9 @@
             </div>
         </div>
     </footer>
+
+
+    <script src="functions.js"></script>
 
 </body>
 

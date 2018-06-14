@@ -11,6 +11,7 @@ function modalInfo(number, language) {
     var yearLan = Object.values(texts.yearCatalog)[language];
     var additionalLan = Object.values(texts.additionalCatalog)[language];
     var callNumberLan = Object.values(texts.callNumberCatalog)[language];
+    var urlLan = Object.values(texts.urlCatalog)[language];
     var closeLan = Object.values(texts.closeCatalog)[language];
 
     modalText = "<div class=\"modal fade\" id=\"myModal\" tabindex=\"-1\">" +
@@ -20,44 +21,49 @@ function modalInfo(number, language) {
         "<h3 class=\"headline\">" + searchData[number].title + "</h3>" +
         "</div>" +
         "<div class=\"modal-body\">";
-    if (searchData[number].hasOwnProperty('shortTitle') == true) {
+    if (searchData[number].hasOwnProperty('shortTitle')) {
         modalText += "<i>" + searchData[number].shortTitle + "</i><br>";
 
     }
-    if (searchData[number].hasOwnProperty('author') == true) {
-        modalText += authorLan + searchData[number].author + "<br>";
+    if (searchData[number].hasOwnProperty('author')) {
+        modalText += authorLan + printNames(searchData[number].author) + "<br>";
 
     }
-    if (searchData[number].hasOwnProperty('editor') == true) {
-        modalText += editorLan + searchData[number].editor + "<br>";
+    if (searchData[number].hasOwnProperty('editor')) {
+        modalText += editorLan + printNames(searchData[number].editor) + "<br>";
 
     }
-    if (searchData[number].hasOwnProperty('translator') == true) {
-        modalText += translatorLan + searchData[number].translator + "<br>";
+    if (searchData[number].hasOwnProperty('translator')) {
+        modalText += translatorLan + printNames(searchData[number].translator) + "<br>";
     }
-    if (searchData[number].hasOwnProperty('numberofvolumes') == true) {
-        modalText += numberVolumesLan + searchData[number].numberofvolumes + "<br>";
+    if (searchData[number].hasOwnProperty('number-of-volumes')) {
+        modalText += numberVolumesLan + searchData[number]["number-of-volumes"] + "<br>";
     }
-    if (searchData[number].hasOwnProperty('publisher') == true) {
+    if (searchData[number].hasOwnProperty('publisher')) {
         modalText += publisherLan + searchData[number].publisher + "<br>";
 
     }
-    if (searchData[number].hasOwnProperty('publisherplace') == true) {
-        modalText += placeLan + searchData[number].publisherplace + "<br>";
+    if (searchData[number].hasOwnProperty('publisher-place')) {
+        modalText += placeLan + searchData[number]["publisher-place"] + "<br>";
 
     }
-    if (searchData[number].hasOwnProperty('issued') == true) {
-        modalText += yearLan + searchData[number].issued;
+    if (searchData[number].hasOwnProperty('issued')) {
+        modalText += yearLan + searchData[number].issued["date-parts"][0][0];
 
     }
-    if (searchData[number].hasOwnProperty('abstract') == true) {
+    if (searchData[number].hasOwnProperty('abstract')) {
         modalText += "<hr><p class=\"text-success\"><b>" + additionalLan + "</b><br>" + searchData[number].abstract + "</p>";
 
     }
-    if (searchData[number].hasOwnProperty('callnumber') == true) {
-        modalText += "<hr>" + callNumberLan + searchData[number].callnumber + "<br>";
+    if (searchData[number].hasOwnProperty('language')) {
+        modalText += "<hr>" + callNumberLan + searchData[number].language + "<br>";
 
     }
+    if (searchData[number].hasOwnProperty('URL')) {
+        modalText += '<a href="' + searchData[number].URL + '" target="_blank">' + urlLan + '</a><br>';
+
+    }
+
     modalText += "</div>" +
         "<div class=\"modal-footer\">" +
         "<button type=\"button\" class=\"btn btn-blue\" data-dismiss=\"modal\">" + closeLan + "</button>" +
@@ -72,7 +78,7 @@ var searchData = ourData;
 
 
 window.onload = function () {
-    indexingTitleCatalog();
+    // indexingTitleCatalog();
     reducingCatalog(ourData);
     switchLanguage("german");
 }
@@ -93,7 +99,6 @@ function switchLanguage(language) {
         nextLanIndex = lanIndex + 1;
     }
     nextLanguage = languages[nextLanIndex];
-
     for (key in toBeTranslated) {
 
         if (toBeTranslated[key].includes("Tip")) {
@@ -122,6 +127,34 @@ function switchLanguage(language) {
 // Building up a table from catalog entries
 var tableHTML
 
+// This function takes all the names for a given category and prints them in the format 'first' - 'preposition' - 'last'.
+function printNames(entry) {
+    if (!entry) {
+        return;
+    }
+    namesString = ""
+
+    for (var name = 0; name < entry.length; name++) {
+        if (entry[name]["given"] != "") {
+            namesString += entry[name]["given"];
+        }
+        if (entry[name].hasOwnProperty("non-dropping-particle")) {
+            namesString += " " + entry[name]["non-dropping-particle"];
+        }
+        namesString += " " + entry[name]["family"];
+        if (name == entry.length - 1) {
+            namesString += ". ";
+        } else {
+            namesString += ", ";
+        }
+    }
+
+    return namesString;
+}
+
+
+
+
 function renderTableEntry(data, i, language) {
 
     var authorLan = Object.values(texts.authorCatalog)[language];
@@ -133,39 +166,32 @@ function renderTableEntry(data, i, language) {
         data[i].title +
         "</p><p class=\"text-muted text font-weight-light\">"
 
-    if (data[i].hasOwnProperty('editor') == true && data[i].hasOwnProperty('author') == false && data[i].hasOwnProperty('translator') == false) {
-        tableHTML += editorLan + data[i].editor;
-
-    } else if (data[i].hasOwnProperty('editor') == false && data[i].hasOwnProperty('author') == true && data[i].hasOwnProperty('translator') == false) {
-        tableHTML += authorLan + data[i].author;
-
-    } else if (data[i].hasOwnProperty('editor') == false && data[i].hasOwnProperty('author') == false && data[i].hasOwnProperty('translator') == false) {
+    if (data[i].hasOwnProperty('author')) {
+        tableHTML += authorLan + printNames(data[i].author);
+    } else {
         tableHTML += "<i>" + noAuthorLan + "</i>";
-
-    } else if (data[i].hasOwnProperty('editor') == true && data[i].hasOwnProperty('author') == true && data[i].hasOwnProperty('translator') == false) {
-        tableHTML += authorLan + data[i].author + ". " + editorLan + data[i].editor;
-
-    } else if (data[i].hasOwnProperty('editor') == false && data[i].hasOwnProperty('author') == true && data[i].hasOwnProperty('translator') == true) {
-        tableHTML += authorLan + data[i].author + ". " + translatorLan + data[i].translator;
-    } else if (data[i].hasOwnProperty('editor') == true && data[i].hasOwnProperty('author') == false && data[i].hasOwnProperty('translator') == true) {
-        tableHTML += editorLan + data[i].editor + ". " + translatorLan + data[i].translator;
-    } else if (data[i].hasOwnProperty('editor') == true && data[i].hasOwnProperty('author') == true && data[i].hasOwnProperty('translator') == true) {
-        tableHTML += authorLan + data[i].author + ". " + editorLan + data[i].editor + ". " + translatorLan + data[i].translator;
-    } else if (data[i].hasOwnProperty('editor') == false && data[i].hasOwnProperty('author') == false && data[i].hasOwnProperty('translator') == true) {
-        tableHTML += translatorLan + data[i].translator;
     }
+    if (data[i].hasOwnProperty('editor') == true) {
+        tableHTML += editorLan + printNames(data[i].editor);
+    }
+    if (data[i].hasOwnProperty('translator') == true) {
+        tableHTML += editorLan + printNames(data[i].translator);
+    }
+
+
     tableHTML += "</p></div></td><div class=\"entry text text-right\"><td><p class=\"text blue\">"
     if (data[i].issued) {
-        tableHTML += data[i].issued;
+        tableHTML += data[i].issued["date-parts"];
     }
     tableHTML += "<br>"
-    if (data[i].publisherplace) {
-        tableHTML += data[i].publisherplace;
+    if (data[i]["publisher-place"]) {
+        tableHTML += data[i]["publisher-place"];
     }
     tableHTML += "</p></div></td></tr>";
 }
 
 function renderTableGeyer(data, heading, language, numberEntries) {
+    document.getElementById("catalogGeyer").innerHTML = "";
     tableHTML = "<table id=\"tableCatalog\" class=\"table table-striped\"><tbody>";
 
     for (i = 0; i < data.length; i++) {
@@ -174,8 +200,8 @@ function renderTableGeyer(data, heading, language, numberEntries) {
 
     tableHTML += '</tbody></table>';
 
-    catalogGeyer.innerHTML = tableHTML;
-    if (typeof numberEntries !== "undefined"){
+    document.getElementById("catalogGeyer").innerHTML = tableHTML;
+    if (typeof numberEntries !== "undefined") {
         document.getElementById("titleSearch").innerHTML = Object.values(texts[heading])[language] + " " + numberEntries;
     } else {
         document.getElementById("titleSearch").innerHTML = Object.values(texts[heading])[language];
@@ -189,8 +215,7 @@ function searchCatalog(input) {
     searchData = [];
     // Declare variables 
     var filter, fields, number, y;
-    inputLower = input.toLowerCase();
-    normalizedInput = accent_fold(inputLower);
+    normalizedInput = accent_fold(input);
 
     for (i = 0; i < ourData.length; i++) {
         if (reducedCatalog[i].includes(normalizedInput)) {
@@ -232,40 +257,29 @@ document.getElementById("flagTip").onclick = function () {
 }
 
 
-
-// document.getElementById("sortYear").onclick = handler();
-
-// function handler() {
-//     alert('clicked');
-// }
-
-// function handler(){
-//     indexingTitleCatalog();
-//     document.getElementById("searchButton").click();
-// }
-// document.getElementById("sortYear").onclick = handlerYear;
-
-// function handlerYear(){
-//     indexingYearCatalog();
-//     document.getElementById("searchButton").click();
-// }
-
-// // document.getElementById("sortTitle").click( function(){
-// //     console.log("yes");
-    
-// // });
-// // document.getElementById("sortYear").addEventListener("select", function(){
-// //     indexingYearCatalog();
-// //     document.getElementById("searchButton").click();
-// // });
-
-document.getElementById("sortTitle").addEventListener("click", function(){
+document.getElementById("sortTitleCaption").addEventListener("click", function () {
     indexingTitleCatalog();
-    searchCatalog(document.getElementById("searchTip").value);
+    if (document.getElementById("searchTip").value != "") {
+        searchCatalog(document.getElementById("searchTip").value);
+    } else {
+        renderTableGeyer(ourData, "beginTitleCatalog", lanIndex);
+    }
 })
-document.getElementById("sortYear").addEventListener("click", function(){
+document.getElementById("sortAuthorCaption").addEventListener("click", function () {
+    indexingAuthorCatalog();
+    if (document.getElementById("searchTip").value != "") {
+        searchCatalog(document.getElementById("searchTip").value);
+    } else {
+        renderTableGeyer(ourData, "beginTitleCatalog", lanIndex);
+    }
+})
+document.getElementById("sortYearCaption").addEventListener("click", function () {
     indexingYearCatalog();
-    searchCatalog(document.getElementById("searchTip").value);
+    if (document.getElementById("searchTip").value != "") {
+        searchCatalog(document.getElementById("searchTip").value);
+    } else {
+        renderTableGeyer(ourData, "beginTitleCatalog", lanIndex);
+    }
 })
 
 
@@ -279,42 +293,63 @@ var accentMap = {
     'ú': 'u', 'ù': 'u', 'ū': 'u', 'û': 'u', 'ü': 'ue',
     'ṭ': 't', 'ṣ': 's', 'ḍ': 'd', 'ḥ': 'h', 'ẓ': 'z',
     'ġ': 'gh', 'š': 'sh', 'ğ': 'j', 'ḳ': 'q', 'č': 'ch',
-    'ʿ': '\'', 'ʾ': '\''
+    'ʿ': '\'', 'ʾ': '\'',
+    '.': ' ', ',': ' ', ':': ' ', ';': ' ', '?': ' ', '!': ' '
 };
 function accent_fold(s) {
-    if (!s) { return ''; }
+    if (!s) {
+        return '';
+    }
     var ret = '';
     for (var i = 0; i < s.length; i++) {
         ret += accentMap[s.charAt(i)] || s.charAt(i);
     }
-    return ret.toLowerCase();
+    returnedNoSpaces = ret.replace(/\s{2,}/g, ' ');
+    return returnedNoSpaces.toLowerCase();
 };
 
 // ----------
 
 function reducingCatalog(catalog) {
     for (var y = 0; y < catalog.length; y++) {
-        yValue = Object.values(catalog[y]);
-        relevantYValue = yValue.slice(2);
-        realYValue = relevantYValue.join(" ");
-        lowerCaseYValue = realYValue.toLowerCase();
-        reducedYValue = accent_fold(lowerCaseYValue);
-        index = y.toString();
-        reducedCatalog[y] = reducedYValue;
+
+        entryY = "";
+        entryY += " " + catalog[y].title;
+        entryY += " " + catalog[y].shortTitle;
+        entryY += " " + catalog[y].publisher;
+        entryY += " " + catalog[y]["publisher-place"];
+        entryY += " " + printNames(catalog[y].author);
+        entryY += " " + printNames(catalog[y].editor);
+        entryY += " " + printNames(catalog[y].translator);
+        entryY += " " + catalog[y].abstract;
+        entryY += " " + catalog[y].language;
+
+        var definedY = entryY.replace(/undefined/g, "");
+        reducedCatalog[y] = accent_fold(definedY);
     }
 }
 
 
-
+// still need to compare if no title
 function indexingTitleCatalog() {
     ourData.sort(function (a, b) {
         return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
     });
     reducingCatalog(ourData);
 }
+
+//still need to figure out how to compare if only editor name is available
+function indexingAuthorCatalog() {
+    ourData.sort(function (a, b) {
+        return a.author[0]["family"].toLowerCase().localeCompare(b.author[0]["family"].toLowerCase());
+    });
+    reducingCatalog(ourData);
+}
+
+// still need to compare if no year
 function indexingYearCatalog() {
     ourData.sort(function (a, b) {
-        return parseInt(a.issued) - parseInt(b.issued);
+        return parseInt(a.issued["date-parts"][0][0]) - parseInt(b.issued["date-parts"][0][0]);
     });
     reducingCatalog(ourData);
 }
@@ -335,4 +370,3 @@ if ((/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) == 
         dynamicTitle: true
     });
 }
-
