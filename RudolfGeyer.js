@@ -894,7 +894,7 @@ var ourData = [
 	},
 	{
 		"id": "JEITUQN8",
-		"type": "article-journal",
+		"type": "article",
 		"title": "The Poems of Umayya B. Abî-ṣ-Ṣalt: Additions, Suggestions and Rectificiations",
 		"callnumber": "XVI A 75",
 		"author": "E. Powers"
@@ -961,7 +961,7 @@ var ourData = [
 	},
 	{
 		"id": "KXZ7A3CW",
-		"type": "article-journal",
+		"type": "article",
 		"title": "[Book review: R. Geyer, Zwei Gedichte von al-Aʿšâ, I. Mâ bukâ'u]",
 		"callnumber": "XVI A 82"
 	},
@@ -1077,7 +1077,7 @@ var ourData = [
 	},
 	{
 		"id": "6F5N7IRN",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Des Ibn Kaisân Kommentar zur Muʿallaḳa des Imru'ulḳais",
 		"callnumber": "XVI A 92",
 		"author": "F.L. Bernstein"
@@ -1187,7 +1187,7 @@ var ourData = [
 	},
 	{
 		"id": "4I87U8W5",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Die Mu'allaqa des Ṭarafa",
 		"abstract": "[Includes note in Arabic]",
 		"callnumber": "XVI A 102",
@@ -1207,7 +1207,7 @@ var ourData = [
 	},
 	{
 		"id": "T7C8KDEH",
-		"type": "article-journal",
+		"type": "article",
 		"title": "معلقة عنترة",
 		"shortTitle": "Muʿallaqa ʿantara",
 		"callnumber": "XVI A 105",
@@ -1215,20 +1215,20 @@ var ourData = [
 	},
 	{
 		"id": "EXQHDF37",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Imru'ulqais' Munsariḥ-Qaṣīdah auf īšu",
 		"callnumber": "XVI A 106",
 		"author": "R. Geyer"
 	},
 	{
 		"id": "T9TJXZR4",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Una nuova qaṣīda: Attribuita ad Imru 'l-Qais",
 		"callnumber": "XVI A 107"
 	},
 	{
 		"id": "PASJZU98",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Le Poète antéislamique Imrou'ou 'l-Ḳais: et le dieu arabe al-ḳais",
 		"callnumber": "XVI A 108",
 		"author": "H. Derenbourg"
@@ -1272,7 +1272,7 @@ var ourData = [
 	},
 	{
 		"id": "V72AQKQ8",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Die Moʿallaqa des Zuhair mit dem kommentar des Ibn el-Anbārī",
 		"callnumber": "XVI A 112",
 		"author": "O. Rescher"
@@ -1426,7 +1426,7 @@ var ourData = [
 	},
 	{
 		"id": "VTXM4SZ4",
-		"type": "article-journal",
+		"type": "article",
 		"title": "ʿAgîb ed-dîn al-wâʿiẓ bei Ibn Dânijâl",
 		"callnumber": "XVI A 127",
 		"author": "G. Jacob"
@@ -1479,7 +1479,7 @@ var ourData = [
 	},
 	{
 		"id": "VGGN4V5R",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Über den Hudhailitendīwān der Chedivial-bibliothek in Kairo",
 		"callnumber": "XVI A 132",
 		"author": "J. Hell"
@@ -1545,7 +1545,7 @@ var ourData = [
 		"id": "CFRHGZPN",
 		"type": "book",
 		"title": "The Arabic Portion of the Cairo Genizah at Cambridge",
-		"abstract": "[Reprinted from the Jewish Quarterly Review, April 1905]\n<in pencil: A poem of as-Samauʾal>",
+		"abstract": "[Reprinted from the Jewish Quarterly Review, April 1905]\nin pencil: A poem of as-Samauʾal",
 		"author": "H. Hirschfeld",
 		"issued": ""			
 	},
@@ -1562,7 +1562,7 @@ var ourData = [
 	},
 	{
 		"id": "JMPRM2JD",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Tufail al-Ganawi: A poem from the asma'iyat in the recension and with the comments of Ibn As-sikkit",
 		"container-title": "Journal of the Royal Asiatic Society",
 		"callnumber": "XVI A 141",
@@ -1595,22 +1595,22 @@ var ourData = [
 	},
 	{
 		"id": "XWEQSXGT",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Zur Kritik und Erklärung des Aḥtal-Diwâns",
 		"callnumber": "XVI A 144",
 		"author": "J. Barth"
 	},
 	{
 		"id": "7GK4BF4M",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Le Diwan de Sélâma ben Djandal: Poète arabe anté-islamique",
 		"callnumber": "XVI A 145",
 		"author": "M. Cl. Huart"
 	},
 	{
 		"id": "M9A4B9A6",
-		"type": "article-journal",
-		"title": "<Book review on: Altarabische Dijamben von R. Geyer>",
+		"type": "article",
+		"title": "Book review on: Altarabische Dijamben von R. Geyer",
 		"callnumber": "XVI A 146"
 	},
 	{
@@ -1640,7 +1640,7 @@ var ourData = [
 	},
 	{
 		"id": "X97AUA4C",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Beiträge zur Kenntnis altarabischer Dichter",
 		"callnumber": "XVI A 149",
 		"author": "R. Geyer"
@@ -1666,7 +1666,7 @@ var ourData = [
 	},
 	{
 		"id": "5I47BSU3",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Al-Quhaif al-'Uqaili: His Poetical Remains Collected and Translated",
 		"callnumber": "XVI A 152",
 		"author": "F. Krenkow"
@@ -1683,13 +1683,13 @@ var ourData = [
 		"id": "XMHTERQD",
 		"type": "book",
 		"title": "كتاب من اسمه عمره ومن الشعراء في الجاهلية",
-		"abstract": "<Collection of risala's>",
+		"abstract": "Collection of risala's",
 		"shortTitle": "Kitāb min ismihi ʿumrah wa-min al-shuʿarāʾ fī al-jāhiliyya",
 		"callnumber": "XVI A 154"
 	},
 	{
 		"id": "SX6TWB4I",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Deux poëtes anté-islamiques: Notice sur Orwa ben el Ward",
 		"callnumber": "XVI A 155",
 		"author": "M.R. Boucher"
@@ -1708,7 +1708,7 @@ var ourData = [
 	},
 	{
 		"id": "B76GVKUM",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Studien zu den 'Aṣma'ijjât",
 		"callnumber": "XVI A 158",
 		"author": "J. Barth"
@@ -1747,7 +1747,7 @@ var ourData = [
 	},
 	{
 		"id": "JJCTPM5G",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Die Beschreibung eines Gemäldes bei Mutanabbi",
 		"container-title": "Der Islam",
 		"volume": "1",
@@ -1756,7 +1756,7 @@ var ourData = [
 	},
 	{
 		"id": "E8N3IM5D",
-		"type": "article-journal",
+		"type": "article",
 		"title": "The Risālatu'l-Ghufrān: by Abū'l-'Alā al-Ma'arrī. Summarized and partially translated by Reynold A. Nicholson",
 		"callnumber": "XVI A 163",
 		"author": "R.A. Nicholson"
@@ -1866,8 +1866,8 @@ var ourData = [
 	},
 	{
 		"id": "D665TGMT",
-		"type": "article-journal",
-		"title": "<Book review of: Jacob, Georg: Schanfarà-Studien...>",
+		"type": "article",
+		"title": "Book review of: Jacob, Georg: Schanfarà-Studien...",
 		"container-title": "Der Islam",
 		"volume": "7",
 		"issue": "1/2",
@@ -2005,7 +2005,7 @@ var ourData = [
 	},
 	{
 		"id": "Z43NTZP5",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Ethnologisches im arabischen Sprichwort",
 		"callnumber": "XVI A 185"
 	},
@@ -2046,7 +2046,7 @@ var ourData = [
 	},
 	{
 		"id": "S4V3HHMZ",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Proverbia Communia Syriaca",
 		"callnumber": "XVI A 189",
 		"author": "Capt. R.F. Burton"
@@ -2064,7 +2064,7 @@ var ourData = [
 	},
 	{
 		"id": "HPXPSHSP",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Ein Beitrag zur ägyptischen Beduinenpoesie",
 		"callnumber": "XVI A 191",
 		"author": "W. Czermak"
@@ -2104,7 +2104,7 @@ var ourData = [
 	},
 	{
 		"id": "D62IUG7C",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Abergläubische Vorstellungen und Bräuche der alten Araber: Nach Ḥamza al-Iṣbahānī",
 		"callnumber": "XVI A 195",
 		"author": "E. Mittwoch"
@@ -2206,7 +2206,7 @@ var ourData = [
 	},
 	{
 		"id": "VP8XNVVH",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Ueber den shîʿitschen Dichter Abu-Iḳâsim Moḥammad Ibn Hâni'",
 		"container-title": "ZDMG",
 		"volume": "24",
@@ -2217,7 +2217,7 @@ var ourData = [
 	},
 	{
 		"id": "Z9NTS5NU",
-		"type": "article-journal",
+		"type": "article",
 		"title": "The Diwan of Abu Dahbal al-Gumahi",
 		"container-title": "Journal of the Royal Asiatic Society",
 		"callnumber": "XVI A 205",
@@ -2292,14 +2292,14 @@ var ourData = [
 	},
 	{
 		"id": "2RC5VHAR",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Un Poète Royal: A la cour des omiades de Damas",
 		"container-title": "Revue de l'Orient Chrétien",
 		"callnumber": "XVI A 212"
 	},
 	{
 		"id": "BRKNCVDQ",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Ṣâliḥ b. 'Abd-al-Ḳuddûs und das Zindîḳthum während der Regierung des Chalifen al-Mahdî",
 		"callnumber": "XVI A 213",
 		"author": " Goldziher, I."
@@ -2401,7 +2401,7 @@ var ourData = [
 	},
 	{
 		"id": "5FUEHCU2",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Umajja b. Abi-ṣ Ṣalt",
 		"callnumber": "XVI A 222",
 		"author": "F. Schulthess"
@@ -2560,7 +2560,7 @@ var ourData = [
 		"publisher": "In Kommission bei Alfred Hölder",
 		"publisherplace": "Wien",
 		
-		"abstract": "Sitzungsberichte der Kais. Akademie der Wissenschaften in Wien. Philosophisch-Historische Klasse. 163. Band, 3. Abhandlung.\n\n<Includes notebook on رؤبة بن العجاج>",
+		"abstract": "Sitzungsberichte der Kais. Akademie der Wissenschaften in Wien. Philosophisch-Historische Klasse. 163. Band, 3. Abhandlung.\n\nIncludes notebook on رؤبة بن العجاج",
 		"callnumber": "XVI A 236",
 		"author": "R. Geyer",
 		"issued": "1910"
@@ -2822,13 +2822,13 @@ var ourData = [
 	},
 	{
 		"id": "DUX9FC89",
-		"type": "article-journal",
-		"title": "<Book review: Geyer, Rudolf, Gedichte und Fragmente des 'Aus ibn Ḥajar...>",
+		"type": "article",
+		"title": "Book review: Geyer, Rudolf, Gedichte und Fragmente des 'Aus ibn Ḥajar...",
 		"callnumber": "XVI A 260"
 	},
 	{
 		"id": "P2XF8KXT",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Beiträge zur Kenntnis altarabischer Dichter",
 		"callnumber": "XVI A 261",
 		"author": "R. Geyer"
@@ -2867,13 +2867,13 @@ var ourData = [
 	},
 	{
 		"id": "CKAQ43Q9",
-		"type": "article-journal",
-		"title": "<Book review on Gedichte und Fragmente des 'Aus Ibn Ḥajar, Rudolf Geyer...>",
+		"type": "article",
+		"title": "Book review on Gedichte und Fragmente des 'Aus Ibn Ḥajar, Rudolf Geyer...",
 		"callnumber": "XVI A 265"
 	},
 	{
 		"id": "TVFV3CR4",
-		"type": "article-journal",
+		"type": "article",
 		"title": "The New Poem Attributed to al Samau'al",
 		"callnumber": "XVI A 266"
 	},
@@ -3368,8 +3368,8 @@ var ourData = [
 	},
 	{
 		"id": "2I3924WU",
-		"type": "article-journal",
-		"title": "<Book review on: Texte zur arabischen Lexikographie..>",
+		"type": "article",
+		"title": "Book review on: Texte zur arabischen Lexikographie..",
 		"callnumber": "XVI B 43"
 	},
 	{
@@ -3410,14 +3410,14 @@ var ourData = [
 	},
 	{
 		"id": "G3T6X5I8",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Abû Hilâl el-ʿAskerî, Das Kitâb »el-muʿġam fî baqîjati ʾl-ešjâʾ«",
 		"callnumber": "XVI B 47",
 		"author": "O. Rescher"
 	},
 	{
 		"id": "HGZVKS8H",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Eṭ-ṭaʿâlibî: Man ġâba ʿanhu ʾl-muṭrib",
 		"callnumber": "XVI B 48",
 		"translator": "O. Rescher"
@@ -3704,7 +3704,7 @@ var ourData = [
 	},
 	{
 		"id": "F9VXN6XH",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Das kitâb »el-adab el-kebîr« des Ibn el-Moqaffaʿ",
 		"callnumber": "XVI B 73",
 		"author": "O. Rescher"
@@ -4213,7 +4213,7 @@ var ourData = [
 		"publisher": "E.J. Brill",
 		"publisherplace": "Leiden",
 		
-		"abstract": "Aus der Arabischen chronik des Tabari übersetzt und mit ausführlichen erläuterungen und ergänzungen versehn\n\n<Includes notes>",
+		"abstract": "Aus der Arabischen chronik des Tabari übersetzt und mit ausführlichen erläuterungen und ergänzungen versehn\n\nIncludes notes",
 		"callnumber": "XVI C 19",
 		"author": "Th. Nöldeke",
 		"issued": "1879"
@@ -4336,7 +4336,7 @@ var ourData = [
 	},
 	{
 		"id": "IPSBK3HC",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Der muslimische Fastenmonat Ramaḍân",
 		"callnumber": "XVI C 30",
 		"author": "K.G. Jacob"
@@ -4391,7 +4391,7 @@ var ourData = [
 	},
 	{
 		"id": "P6UTBQ8P",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Anhang I. Die wichtigsten älteren Nachrichten über das arabische Schattenspiel",
 		"callnumber": "XVI C 30",
 		"author": "G. Jacob"
@@ -4422,7 +4422,7 @@ var ourData = [
 	},
 	{
 		"id": "S64MEPC9",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Zu Sūra 91 9.10",
 		"callnumber": "XVI C 33",
 		"author": "F. Schulthess"
@@ -4829,7 +4829,7 @@ var ourData = [
 	},
 	{
 		"id": "MUBS2IXC",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Ibn Shaddâds darstellung der Geschichte Baalbeks im Mitteralter",
 		"callnumber": "XVI C 70"
 	},
@@ -5021,7 +5021,7 @@ var ourData = [
 		"publisher": "Paul Geuthner",
 		"publisherplace": "Paris",
 		
-		"abstract": "As compiled by Abū Omar Muḥammad ibn Yūsuf ibn Yaʿqūb al-Kindi. Together with additions by Abū al-Ḥasan Aḥmad ibn ʿAbd al-Raḥmān Ibn Burd. Edited from the unique MS> in the British Museum",
+		"abstract": "As compiled by Abū Omar Muḥammad ibn Yūsuf ibn Yaʿqūb al-Kindi. Together with additions by Abū al-Ḥasan Aḥmad ibn ʿAbd al-Raḥmān Ibn Burd. Edited from the unique MS in the British Museum",
 		"callnumber": "XVI C 87",
 		"author": "R.J.H. Gottheil",
 		"issued": "1908"
@@ -5041,7 +5041,7 @@ var ourData = [
 	},
 	{
 		"id": "IU2EXUAU",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Studien über Ibn Ġinnī und sein Verhältnis zu den Theorien der Baṣrī und Baġdādī",
 		"callnumber": "XVI C 89",
 		"author": "O. Rescher"
@@ -5107,7 +5107,7 @@ var ourData = [
 	},
 	{
 		"id": "9FUJM49R",
-		"type": "article-journal",
+		"type": "article",
 		"title": "El-maqāma el-ḥuṣaib je [des Qāḍī er-Rešīd]",
 		"callnumber": "XVI C 95",
 		"author": "O. Rescher"
@@ -5843,7 +5843,7 @@ var ourData = [
 		"publisher": "University of California Press",
 		"publisherplace": "Berkeley",
 		
-		"abstract": "Entitled an-Nujûm az-zâhira fî mulûk miṣr wal-ḳâhira\n<Various volumes and parts>",
+		"abstract": "Entitled an-Nujûm az-zâhira fî mulûk miṣr wal-ḳâhira\nVarious volumes and parts",
 		"callnumber": "XVI C 160",
 		"author": "W. Popper",
 		"issued": "1926"
@@ -6259,7 +6259,7 @@ var ourData = [
 	},
 	{
 		"id": "ZE96AHMP",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Vom Klosterbuch des Šâbuštî",
 		"container-title": "Abhandlungen der Preussischen Akademie der Wissenschaften",
 		"abstract": "Einzelausgabe",
@@ -6543,14 +6543,14 @@ var ourData = [
 	},
 	{
 		"id": "6J3J76PQ",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Aus dem Tahḍīb al-luġa al-Azharī's",
 		"callnumber": "XVI D 48",
 		"author": "K.V. Zettersteen"
 	},
 	{
 		"id": "S5FIB2ZV",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Die Entstehung von tausendundeine Nacht",
 		"container-title": "La Revue des Nations - The Review of Nations",
 		"volume": "4",
@@ -6585,7 +6585,7 @@ var ourData = [
 	},
 	{
 		"id": "HHQEDNTF",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Homère et les Mille et une nuits",
 		"callnumber": "XVI D 52"
 	},
@@ -6625,7 +6625,7 @@ var ourData = [
 	},
 	{
 		"id": "GUTGK78I",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Zum Verständniss des Sîbawaihi",
 		"abstract": "Eine Erwiderung",
 		"callnumber": "XVI D 56"
@@ -6643,7 +6643,7 @@ var ourData = [
 	},
 	{
 		"id": "7PWD2ZII",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Verbesserungen zu Broch's Ausgabe von az-Zamaḥšarî's Unmûḍag",
 		"callnumber": "XVI D 58"
 	},
@@ -6660,7 +6660,7 @@ var ourData = [
 	},
 	{
 		"id": "28E4AWK6",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Märchen und Legenden aus der syrisch-arabischen Wüste",
 		"callnumber": "XVI D 60",
 		"author": "E. Littmann"
@@ -6753,7 +6753,7 @@ var ourData = [
 	},
 	{
 		"id": "GQGCBS64",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Das Pflanzenbuch des Abû Ḥanîfa Aḥmed ibn Dâʾûd ad-Dînawarî: Ein Beitrag zur Geschichte der Botanik bei den Arabern",
 		"callnumber": "XVI D 69",
 		"author": "B. Silberberg"
@@ -7849,7 +7849,7 @@ var ourData = [
 	},
 	{
 		"id": "XBZW2T6S",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Bulletin des périodiques de l'Islam",
 		"abstract": "1912-1913. Analecta Bollandiana",
 		"callnumber": "XVI G 10"
@@ -8052,7 +8052,7 @@ var ourData = [
 	},
 	{
 		"id": "WKFUEQMK",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Mitteilungen aus Stambuler Bibliotheken",
 		"callnumber": "XVI G 30",
 		"author": "O. Rescher"
@@ -8071,7 +8071,7 @@ var ourData = [
 	},
 	{
 		"id": "N6JP9DUD",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Special Collections in American Libraries: The Garrett Collections of Arabic Manuscripts at Princeton University Library",
 		"callnumber": "XVI G 32",
 		"author": "E. Littmann"
@@ -8111,13 +8111,13 @@ var ourData = [
 	},
 	{
 		"id": "RTA8EVKU",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Arabische Handschriften des Top Kapú Seraj",
 		"callnumber": "XVI G 37"
 	},
 	{
 		"id": "K5EBWPAH",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Über arabische manuskripte der Lālelī-moschee",
 		"abstract": "Nebst einigen andern, noch unbeschriebenen arabischen codices",
 		"callnumber": "XVI G 38",
@@ -8137,14 +8137,14 @@ var ourData = [
 	},
 	{
 		"id": "FMWQNITA",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Über einige arabische Handschriften der öffentlichen Bibliotheken in Konstantinopel",
 		"callnumber": "XVI G 40",
 		"author": "N. Rhodokanakis"
 	},
 	{
 		"id": "A43KPJD8",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Arabische Handschriften der Köprülü-Bibliothek",
 		"callnumber": "XVI G 41",
 		"author": "O. Rescher"
@@ -8229,7 +8229,7 @@ var ourData = [
 	},
 	{
 		"id": "84U7F5ZN",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Arabo settentrionale",
 		"callnumber": "XVI G 49"
 	},
@@ -8247,7 +8247,7 @@ var ourData = [
 	},
 	{
 		"id": "QK6AI3Z2",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Die arabischen Handschriften der Sammlung Glaser in der königl. Hof- und Staats-bibliothek zu München",
 		"callnumber": "XVI G 51",
 		"author": "E. Gratzl"
@@ -8289,7 +8289,7 @@ var ourData = [
 	},
 	{
 		"id": "2KF7JBRZ",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Aus den Bibliotheken von Kairo, Damaskus und Konstantinopel",
 		"abstract": "Arabische Handschriften geschichtlichen Inhalts",
 		"callnumber": "XVI G 55",
@@ -8309,7 +8309,7 @@ var ourData = [
 	},
 	{
 		"id": "9X8DZACM",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Book review: K. Vollers, Katalog der islamischen, christlich-orientalische, jüdischen und samaritanischen Handschriften der Universitäts-Bibliothek zu Leipzig",
 		"callnumber": "XVI G 57",
 		"author": "F. Kern"
@@ -8357,14 +8357,14 @@ var ourData = [
 	},
 	{
 		"id": "STDS6R84",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Über einige arabische Handschriften der Ḥamîdîé-Bibliothek",
 		"callnumber": "XVI G 62",
 		"author": "O. Rescher"
 	},
 	{
 		"id": "NC7ZA9Q6",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Notizen über einige arabische Handschriften aus Brussaer Bibliotheken",
 		"abstract": "Nebst Manuskripten der Selīm Aġá (Skutari) etc.",
 		"callnumber": "XVI G 63",
@@ -8372,7 +8372,7 @@ var ourData = [
 	},
 	{
 		"id": "CB5TFFU3",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Mitteilungen aus Stambuler Bibliotheken I.",
 		"callnumber": "XVI G 64",
 		"author": "O. Rescher"
@@ -15031,7 +15031,7 @@ var ourData = [
 	{
 		"id": "NZVZQKRJ",
 		"type": "book",
-		"title": "Über <HEBREW> und <HEBREW> im alten Testament",
+		"title": "Über HEBREW und HEBREW im alten Testament",
 		"callnumber": "XVI S 176",
 		"author": "A.S. Vahuda"
 	},
@@ -15104,7 +15104,7 @@ var ourData = [
 	},
 	{
 		"id": "V4XIFD92",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Book review: كتاب الألفاظ الفارسية المعربة",
 		"page": "13-22",
 		"abstract": "Concerns origins of Arabic dictionaries. In Russian.",
@@ -15149,7 +15149,7 @@ var ourData = [
 	},
 	{
 		"id": "7KWEI6K9",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Īūeuph al-Magribī i ego slovar",
 		"abstract": "al-Magribi and his dictionary",
 		"callnumber": "XVI D 24",
@@ -15182,7 +15182,7 @@ var ourData = [
 	},
 	{
 		"id": "IWBE8GU3",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Book review: Catalogue of the Turkish Manuscripts in the British Museum, Verzeichniss der persischen Handschriften der kgl. Bibliothek zu Berlin, Verzeichniss der arabischen Handschriften der kgl. Bibliothek zu Berlin",
 		"abstract": "Otdelnii ottisk iz zanisok vostačnago otdelenija imp. ryssk. arxeol. obšč. [Separate offprints from the Oriental Studies Department of the Imperial Russian Archeological Society]",
 		"callnumber": "XVI G 33"
@@ -15200,7 +15200,7 @@ var ourData = [
 	},
 	{
 		"id": "G8H3RJK2",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Neizvestnaja antologija",
 		"abstract": "An unknown anthology of Ibn Mammati",
 		"callnumber": "XVI B 34",
@@ -15232,7 +15232,7 @@ var ourData = [
 	},
 	{
 		"id": "TRIER4KN",
-		"type": "article-journal",
+		"type": "article",
 		"title": "Book review The Diwān of Ḥassan b. Thābit",
 		"abstract": "In Russian",
 		"callnumber": "XVI A 117"
