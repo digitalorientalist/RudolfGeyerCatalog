@@ -56,7 +56,7 @@ function modalInfo(number, language) {
 
     }
     if (searchData[number].hasOwnProperty('language')) {
-        modalText += "<hr>" + callNumberLan + searchData[number].language + "<br>";
+        modalText += "<hr>" + callNumberLan + searchData[number].language + " (" + searchData[number].type + ")<br>";
 
     }
     if (searchData[number].hasOwnProperty('URL')) {
@@ -329,32 +329,67 @@ function reducingCatalog(catalog) {
     }
 }
 
-
-// still need to compare if no title
 function indexingTitleCatalog() {
     ourData.sort(function (a, b) {
-        return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
+        if(a.hasOwnProperty("title")){
+            firstTitle = a.title;
+        } else {
+            firstTitle = "";
+        }
+        if (b.hasOwnProperty("title")){
+            secondTitle = b.title;
+        } else {
+            secondTitle = "";
+        }
+        
+        return firstTitle.toLowerCase().localeCompare(secondTitle.toLowerCase());
     });
     reducingCatalog(ourData);
 }
 
-//still need to figure out how to compare if only editor name is available
 function indexingAuthorCatalog() {
     ourData.sort(function (a, b) {
-        return a.author[0]["family"].toLowerCase().localeCompare(b.author[0]["family"].toLowerCase());
+        if(a.hasOwnProperty("author")){
+            firstAuthor = a.author[0]["family"];
+        } else if(a.hasOwnProperty("editor")){
+            firstAuthor = a.editor[0]["family"];
+        } else if(a.hasOwnProperty("translator")){
+            firstAuthor = a.translator[0]["family"];
+        } else {
+            firstAuthor = "";
+        }
+        
+        if(b.hasOwnProperty("author")){
+            secondAuthor = b.author[0]["family"];
+        } else if(b.hasOwnProperty("editor")){
+            secondAuthor = b.editor[0]["family"];
+        } else if(b.hasOwnProperty("translator")){
+            secondAuthor = b.translator[0]["family"];
+        } else {
+            secondAuthor = "";
+        }
+        
+        return firstAuthor.toLowerCase().localeCompare(secondAuthor.toLowerCase());
     });
     reducingCatalog(ourData);
 }
 
-// still need to compare if no year
 function indexingYearCatalog() {
     ourData.sort(function (a, b) {
-        return parseInt(a.issued["date-parts"][0][0]) - parseInt(b.issued["date-parts"][0][0]);
+        if(a.hasOwnProperty("issued")){
+            firstYear = a.issued["date-parts"][0][0];
+        } else {
+            firstYear = "0";
+        }
+        if(b.hasOwnProperty("issued")){
+            secondYear = b.issued["date-parts"][0][0];
+        } else {
+            secondYear = "0";
+        }
+        return parseInt(firstYear) - parseInt(secondYear);
     });
     reducingCatalog(ourData);
 }
-
-
 
 if ((/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) == false) {
     tippy('.btn', {
