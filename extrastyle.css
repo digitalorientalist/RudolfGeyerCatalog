@@ -3,8 +3,8 @@
     padding: 0;
 }
 
-.geyer { 
-    background:url("RudolfGeyerExLibris3.jpg") no-repeat; 
+.geyerImage { 
+    background:url("GeyerExLibris1.jpg") no-repeat; 
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
@@ -22,7 +22,7 @@
   border-radius: 10px;
 }
 
-.geyer:hover { 
+.geyerImage:hover { 
     background:url("GeyerExLibris2.jpg") no-repeat; 
     background-position: center;
     background-size: contain;
@@ -40,10 +40,6 @@
     -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
-}
-
-.footer {
-    background: linear-gradient(to top, rgb(68,81,90), rgba(68,81,90, 0));
 }
 
 .headerdiv {
@@ -76,16 +72,7 @@
     background-color: rgb(68,81,90);
     color: white; 
 }
-
   
-.icon {
-    fill: grey;
-  }
-  
-.icon:hover {
-    fill: orange;
-    cursor: pointer;
-  }
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: xx-large;
@@ -93,6 +80,15 @@ h1 {
 
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.iconModal {
+    fill: grey;
+}
+  
+.iconModal:hover {
+    fill: orange;
+    cursor: pointer;
 }
 
 .text {
@@ -114,47 +110,6 @@ h2 {
     background-color:rgba(68,81,90, .2);
 }
 
-.active-tick a::after {
-    content: '\f00c';
-    /* http://fontawesome.io/3.2.1/icon/ok/ */
-    font-family: 'FontAwesome';
-    float: right;
-}
-
-#custom-search-input {
-    margin: 0;
-    margin-top: 10px;
-    padding: 0;
-}
-
-#custom-search-input .search-query {
-    padding-right: 3px;
-    padding-right: 4px \9;
-    padding-left: 3px;
-    padding-left: 4px \9;
-    /* IE7-8 doesn't have border-radius, so don't indent the padding */
-    margin-bottom: 0;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-}
-
-#custom-search-input button {
-    border: 0;
-    background: none;
-    /** belows styles are working good */
-    padding: 2px 5px;
-    margin-top: 2px;
-    position: relative;
-    left: -28px;
-    /* IE7-8 doesn't have border-radius, so don't indent the padding */
-    margin-bottom: 0;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    color: #D9230F;
-}
-
-.search-query:focus+button {
-    z-index: 3;
+.footer {
+    background: linear-gradient(to top, rgb(68,81,90), rgba(68,81,90, 0));
 }

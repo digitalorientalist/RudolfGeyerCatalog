@@ -1,3 +1,4 @@
+<!-- Copyright L.W. Cornelis van Lit, "The Digital Orientalist" Please see https://github.com/digitalorientalist/RudolfGeyerCatalog for details. -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,64 +7,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 
-    <!-- jQuery library -->
+
+    <!-- Dependent on jQuery, Popper, Bootstrap, and TippyTip -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-    <!-- Popper JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
-
-    <!-- Latest compiled JavaScript -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-
-    <!-- TippyTip -->
     <script src="https://unpkg.com/tippy.js@2.5.2/dist/tippy.all.min.js"></script>
 
+    <!-- Loading interface texts and catalog texts -->
+    <script src="textsGeyerCatalog.js"></script>
+    <script src="textsInterface.js"></script>
 
-
-    <script src="GeyerFull.js"></script>
-    <script src="texts.js"></script>
-
-
+    <!-- Loading styling rules overriding standard Bootstrap -->
     <link rel="stylesheet" href="extrastyle.css">
-
 
     <title>Catalogue of Rudolf Geyer</title>
 </head>
 
 <body>
-
+    <!-- Header with link to St. Florian, a title, link to switch language, and link to Digital Orientalist -->
     <header>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-2 headerdiv" style="padding: 0">
                     <a href="http://www.stift-st-florian.at/en/home.html" class="btn" id="stiftFlorianTip" title="">
-                        <img src="ST_FLORIAN_LOGO.svg" class="icon" height="30" alt="Stift Florian">
+                        <img src="iconStFlorian.svg" height="30" alt="Stift Florian">
                     </a>
                 </div>
                 <div class="col headerdiv" style="padding: 0; text-align: center; color: white">
                     <h1 class="header" id="headline"></h1>
                 </div>
-
-
                 <div class="col-2 headerdiv" style="text-align: right">
                     <div class="flags btn" id="flagTip">
                         <img src="german.svg" class="flags" height="16" width="32">
                     </div>
-
                     <div class="flags btn DO">
-                        <img src="DO_icon.svg" class="flags" height="16" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')"
-                            onmouseover="this.src='DO_icon.orange.svg'" onmouseout="this.src='DO_icon.svg'" />
-
+                        <img src="iconDigOr.svg" class="flags" height="16" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')"
+                            onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'" />
                     </div>
                 </div>
-
-
             </div>
         </div>
     </header>
+
+    <!-- Space for welcome text -->
     <p></p>
     <div class="container">
         <div class="row">
@@ -72,31 +61,25 @@
                 <p id="welcomeBody">
                 </p>
             </div>
-            <div class="col-3 geyer">
-
+            <div class="col-3 geyerImage">
             </div>
         </div>
 
-
+        <!-- Search bar -->
         <p class="font-weight-bold">
-
             <div class="input-group">
                 <input type="text" id="searchTip" class="form-control" title="" placeholder="">
-
                 <span class="input-group-btn">
                     <button class="btn btn-blue" type="button" id="searchButton"></button>
                 </span>
             </div>
-
         </p>
     </div>
 
-
+    <!-- Dividing line interface/catalog -->
     <hr>
-    <div class="container">
 
-    </div>
-
+    <!-- Title and buttons for ordering catalog -->
     <div class="container">
         <div class="row">
             <div class="col-9" style="text-align: left" style="margin-left: 60px">
@@ -121,16 +104,15 @@
                 </div>
             </div>
         </div>
-
-
     </div>
 
-
-
+    <!-- Actual catalog -->
     <div class='container' id="catalogGeyer"></div>
 
-    <div class="container" id="modalDiv"></div>
+    <!-- Optional pop-up for extra details of an entry -->
+    <div class="container" id="popupInfo"></div>
 
+    <!-- Footer with link to Stift Florian and link to Digital Orientalist -->
     <footer>
         <div class="container-fluid">
             <div class="row">
@@ -139,24 +121,21 @@
             <div class="row">
                 <div class="col-2 footer" style="padding: 0">
                     <a href="http://www.stift-st-florian.at/en/home.html" class="btn" title="">
-                        <img src="ST_FLORIAN_LOGO.svg" class="icon" height="30" alt="Stift Florian" srcset="">
+                        <img src="iconStFlorian.svg" height="30" alt="Stift Florian" srcset="">
                     </a>
                 </div>
                 <div class="col footer" style="padding: 0; text-align: center; color: white">
-
                 </div>
-
-
-
                 <div class="col-2 footer" style="text-align: right">
-                    <img src="DO_icon.svg" height="20" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')"
-                        onmouseover="this.src='/DO_icon.orange.svg'" onmouseout="this.src='/DO_icon.svg'" />
+                    <a href="http://www.digitalorientalist.com/" class="btn" title="">
+                        <img src="iconDigOr.svg" height="20" alt="The Digital Orientalist" srcset="" onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'">
+                    </a>
                 </div>
             </div>
         </div>
     </footer>
 
-
+    <!-- Loading of functionality -->
     <script src="functions.js"></script>
 
 </body>

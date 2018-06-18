@@ -1,4 +1,4 @@
-var ourData = [
+var catData = [
 	{
 		"id": "http://zotero.org/users/170941/items/8JKDXVME",
 		"type": "book",
