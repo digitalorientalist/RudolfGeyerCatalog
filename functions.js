@@ -1,7 +1,7 @@
 // Copyright L.W. Cornelis van Lit, "The Digital Orientalist". For details see https://github.com/digitalorientalist/RudolfGeyerCatalog 
 // (f) = function, (e) = event
 
-// Initializing webapp
+// 1. Initializing webapp
 window.onload = function () {
     // setting initial variables
     searchData = catData;
@@ -37,7 +37,7 @@ window.onload = function () {
     }
 }
 
-// Creating a shadow-catalog with simplified entries to easier match a search term in the search function
+// 2. Creating a shadow-catalog with simplified entries to easier match a search term in the search function
 // Called by (e)window.onload
 function Reducing_Catalogue(catalog) {
     // Looping through all catalogue entries
@@ -60,7 +60,7 @@ function Reducing_Catalogue(catalog) {
     }
 }
 
-// Returning simplification of transliteration signs, punctuation, double spaces, and capitals
+// 3. Returning simplification of transliteration signs, punctuation, double spaces, and capitals
 // Called by (f)Reducing_Catalogue and (f)Search_Catalog
 function Simplify_Term(inputWord) {  
     if (!inputWord) {
@@ -76,7 +76,7 @@ function Simplify_Term(inputWord) {
     return returnedNoSpaces;
 };
 
-// Switching interface to different language (currently German-English)
+// 4. Switching interface to different language (currently German-English)
 // Called by (e)window.onload and (e)flagTip.onclick
 function Switch_Language(language) {
     // Array of words that are both keys to the texts-Object and elementIDs of the webapp
@@ -119,7 +119,7 @@ document.getElementById("flagTip").onclick = function () {
     Switch_Language(nextLanguage);
 }
 
-// Rendering the table of catalogue entries
+// 5. Rendering the table of catalogue entries
 // Called by (f)Switch_Language and (f)Search_Catalog
 function Render_Table(data, heading, language, numberEntries) {
     document.getElementById("catalogGeyer").innerHTML = "";
@@ -137,7 +137,7 @@ function Render_Table(data, heading, language, numberEntries) {
     }
 }
 
-// Rendering one entry of the table
+// 6. Rendering one entry of the table
 // Called by (f)Render_Table
 function Render_Table_Entry(data, i, language) {
     var authorLan = Object.values(texts.authorCatalog)[language];
@@ -154,7 +154,7 @@ function Render_Table_Entry(data, i, language) {
     } else {
         htmlTableCat += "<i>" + noAuthorLan + "</i>";
     }
-    if (data[i].hasOwnProperty('editor') == true) {
+    if (data[i].hasOwnProperty('editor')) {
         htmlTableCat += editorLan + Print_Names(data[i].editor);
     }
     if (data[i].hasOwnProperty('translator') == true) {
@@ -171,7 +171,7 @@ function Render_Table_Entry(data, i, language) {
     htmlTableCat += "</p></div></td></tr>";
 }
 
-// Generating more information on item in a pop-up
+// 7. Generating more information on item in a pop-up
 // Called by (f)Render_Table_Entry
 function Popup_More_Info(number, language) {
     // For readability further on, these variables are defined here.
@@ -241,7 +241,7 @@ function Popup_More_Info(number, language) {
     $("#popupModalInfo").modal();
 }
 
-// Returning all the names for a given category and prints them in the format 'first' - 'preposition' - 'last'.
+// 8. Returning all the names for a given category and prints them in the format 'first' - 'preposition' - 'last'.
 // Called by (f)Render_Table_Entry and (f)Popup_More_Info
 function Print_Names(entry) {
     if (!entry) {
@@ -268,7 +268,7 @@ function Print_Names(entry) {
     return namesString;
 }
 
-// Searching keyword and showing results
+// 9. Searching keyword and showing results
 // Variously called to initiate search (clicking button or hitting Enter) or re-render catalog (if order is changed)
 function Search_Catalog(input) {
     // Final result will be a subset of the catalog
@@ -304,7 +304,7 @@ document.getElementById("searchButton").onclick = function () {
     }
 }
 
-// Sort and render search results or entire catalog by title, putting empty titles at the top
+// 10. Sort and render search results or entire catalog by title, putting empty titles at the top
 // Called by (e)sortTitleCaption.click
 function Indexing_Title_Catalog() {
     catData.sort(function (a, b) {
@@ -333,7 +333,7 @@ document.getElementById("sortTitleCaption").addEventListener("click", function (
     }
 })
 
-// Sort and render search results or entire catalog by author. If no author, then editor or translator. Empty ones put at top.
+// 11. Sort and render search results or entire catalog by author. If no author, then editor or translator. Empty ones put at top.
 // Called by (e)sortAuthorCaption.click
 function Indexing_Author_Catalog() {
     catData.sort(function (a, b) {
@@ -370,7 +370,7 @@ document.getElementById("sortAuthorCaption").addEventListener("click", function 
     }
 })
 
-// Sort and render search results or entire catalog by year, putting empty years at the top
+// 12. Sort and render search results or entire catalog by year, putting empty years at the top
 // Called by (e)sortYearCaption.click
 function Indexing_Year_Catalog() {
     catData.sort(function (a, b) {
