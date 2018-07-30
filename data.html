@@ -6,20 +6,250 @@
     <script src="https://www.amcharts.com/lib/3/maps/js/worldLow.js"></script>
     <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
     <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 
     <style>
         #chartdiv {
             width: 100%;
             height: 500px;
         }
+
+        .headerdiv {
+            background-color: rgba(68, 81, 90, .3);
+
+        }
+
+        * {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
     </style>
 </head>
 
 <body>
 
+    <header>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-2 headerdiv" style="padding: 0">
+                    <a href="http://www.stift-st-florian.at/en/home.html" class="btn" id="stiftFlorianTip" title="">
+                        <img src="iconStFlorian.svg" height="30" alt="Stift Florian">
+                    </a>
+                </div>
+                <div class="col headerdiv" style="padding: 0; text-align: center; color: white">
+                    <h1 class="header" id="headline">Deep into Geyer</h1>
+                </div>
+                <div class="col-2 headerdiv" style="text-align: right">
+
+                    <div class="flags btn DO">
+                        <img src="iconDigOr.svg" class="flags" height="16" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')"
+                            onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container-fluid">
+        <br>
+        <i>
+            Here are some measures to get a sense of what and how Geyer collected his books.
+        </i>
+        <br>
+    </div>
+    <hr>
+
+    <div class="container-fluid">
+        <h3>Breakdown of Geyer's holdings</h3>
+        Let us first see what the collection consist of in kind. There are some 1528 objects. The vast majority are books. Click
+        on 'Other' to see what the rest is.
+    </div>
+
+    <div id="container" style="min-width: 310px; max-width: 600px; height: 400px; margin: 0 auto"></div>
+
+    <hr>
+
+    <div class="container-fluid">
+        <h3>Top ten languages of Geyer's Collection</h3>
+        Geyer collected a great variety of different languages. Here are most of them, roughly in order of prevalence.
+        <table class="table table-sm table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Language</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>German</td>
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Arabic</td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td>English</td>
+                </tr>
+                <tr>
+                    <th scope="row">4</th>
+                    <td>French</td>
+                </tr>
+                <tr>
+                    <th scope="row">5</th>
+                    <td>Italian</td>
+                </tr>
+                <tr>
+                    <th scope="row">6</th>
+                    <td>Spanish</td>
+                </tr>
+                <tr>
+                    <th scope="row">7</th>
+                    <td>Latin</td>
+                </tr>
+                <tr>
+                    <th scope="row">8</th>
+                    <td>Russian</td>
+                </tr>
+                <tr>
+                    <th scope="row">9</th>
+                    <td>Dutch</td>
+                </tr>
+                <tr>
+                    <th scope="row">10</th>
+                    <td>Armenian</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <h3>Most popular authors in Geyer's Collection</h3>
+        The following metric might not be exactly accurate, but should give a sense of some of the most prevalent authors in the
+        collection. The list has been capped for authors with ten or more works.
+        <table class="table table-sm table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Author</th>
+                    <th scope="col">Occurence</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>O. Rescher</td>
+                    <td>29</td>
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>G. Jakob</td>
+                    <td>25</td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td>E. Littmann</td>
+                    <td>22</td>
+                </tr>
+                <tr>
+                    <th scope="row">4</th>
+                    <td>I. Goldziher</td>
+                    <td>22</td>
+                </tr>
+                <tr>
+                    <th scope="row">5</th>
+                    <td>Th. Nöldeke</td>
+                    <td>20</td>
+                </tr>
+                <tr>
+                    <th scope="row">6</th>
+                    <td>L. Cheikho S.J.</td>
+                    <td>16</td>
+                </tr>
+                <tr>
+                    <th scope="row">7</th>
+                    <td>N. Rhodokanakis</td>
+                    <td>14</td>
+                </tr>
+                <tr>
+                    <th scope="row">8</th>
+                    <td>F. Wüstenfeld</td>
+                    <td>14</td>
+                </tr>
+                <tr>
+                    <th scope="row">9</th>
+                    <td>J. Horovitz</td>
+                    <td>12</td>
+                </tr>
+                <tr>
+                    <th scope="row">10</th>
+                    <td>H. Lammens S.J.</td>
+                    <td>12</td>
+                </tr>
+                <tr>
+                    <th scope="row">11</th>
+                    <td>E. Sachau</td>
+                    <td>11</td>
+                </tr>
+                <tr>
+                    <th scope="row">12</th>
+                    <td>W. Ahlwardt</td>
+                    <td>10</td>
+                </tr>
+                <tr>
+                    <th scope="row">13</th>
+                    <td>M. Hartmann</td>
+                    <td>10</td>
+                </tr>
+                <tr>
+                    <th scope="row">14</th>
+                    <td>A. Kremer</td>
+                    <td>10</td>
+                </tr>
+                <tr>
+                    <th scope="row">15</th>
+                    <td>A. Grolmann</td>
+                    <td>10</td>
+                </tr>
+
+
+            </tbody>
+        </table>
+    </div>
+
+    <hr>
+
+    <div class="container-fluid">
+        <h3>Map showing where Geyer's book originated from</h3>
+        We can show the place of publication for works in the collection. The bigger the line towards Vienna, the more books came
+        from that place. Hover over the nodes to see the city name and zoom in to get a better look at Europe.
+    </div>
     <div id="chartdiv"></div>
 
+    <hr>
+    <div class="container-fluid">
+        <h3>Publishing years</h3>
+        Lastly, we can set off the number of works against their publication year. All books together published before 1903 make
+        up half of the collection. Hover over the bars to get an accurate count.
+        <canvas id="myChart"></canvas>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        Go back to
+        <a href="index.html">Geyer's catalog</a> or go to
+        <a href="https://www.digitalorientalist.com/">The Digital Orientalist.</a>
+        <img src="iconDigOr.svg" class="flags" height="16" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')"
+            onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'" />
+        <br>
+        <br>
+    </div>
 
 
 
@@ -1386,7 +1616,7 @@
                 "outlineColor": "#FE1F1F",
                 "outlineThickness": 0,
                 "rollOverOutlineThickness": 1,
-                
+
                 "bringForwardOnHover": true,
                 "rollOverScale": 2,
                 "alpha": 0.4
@@ -1416,6 +1646,126 @@
                 "enabled": true
             }
         });
+
+
+        // Create the chart
+        Highcharts.chart('container', {
+            chart: {
+                type: 'pie'
+            },
+            title: {
+                text: ''
+            },
+            subtitle: {
+                text: ''
+            },
+            plotOptions: {
+                series: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '{point.name}: {point.y:.1f}%'
+                    }
+                }
+            },
+
+            tooltip: {
+                headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+                pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+            },
+
+            "series": [
+                {
+                    "name": "Geyer's Holdings",
+                    "colorByPoint": true,
+                    "data": [
+                        {
+                            "name": "Books",
+                            "y": 93,
+
+                        },
+                        {
+                            "name": "Other",
+                            "y": 7,
+                            "drilldown": "Other"
+                        }
+                    ]
+                }
+            ],
+            "drilldown": {
+                "series": [
+                    {
+                        "name": "Other",
+                        "id": "Other",
+                        "data": [
+                            [
+                                "Journal Articles",
+                                70
+                            ],
+                            [
+                                "Manuscripts",
+                                24
+                            ],
+                            [
+                                "Book sections",
+                                4
+                            ],
+                            [
+                                "Documents",
+                                2
+                            ]
+                        ]
+                    }
+                ]
+            }
+        });
+
+
+
+        labelsYears = [1025, 1290, 1306, 1314, 1319, 1324, 1327, 1343, 1422, 1601, 1654, 1698, 1715, 1775, 1780, 1795, 1799, 1809, 1810, 1813, 1819, 1822, 1825, 1826, 1827, 1828, 1829, 1830, 1831, 1834, 1837, 1838, 1839, 1840, 1841, 1842, 1843, 1844, 1845, 1846, 1847, 1849, 1850, 1852, 1853, 1854, 1855, 1856, 1857, 1858, 1859, 1860, 1861, 1862, 1863, 1864, 1865, 1866, 1867, 1868, 1869, 1870, 1871, 1872, 1873, 1874, 1875, 1876, 1877, 1878, 1879, 1880, 1881, 1882, 1883, 1884, 1885, 1886, 1887, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929];
+        dataYears = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 3, 2, 1, 2, 1, 5, 1, 2, 3, 3, 4, 1, 4, 5, 6, 3, 4, 3, 2, 3, 5, 4, 4, 4, 7, 8, 7, 7, 9, 3, 10, 11, 4, 6, 5, 4, 8, 12, 9, 12, 7, 7, 19, 13, 15, 11, 9, 19, 14, 16, 14, 17, 15, 17, 15, 12, 16, 16, 10, 13, 20, 19, 20, 23, 28, 29, 21, 39, 40, 39, 43, 33, 37, 35, 39, 36, 22, 23, 17, 3, 22, 9, 13, 15, 6, 8, 10, 18, 14, 10, 4];
+
+        colorYears = [];
+        for (i = 0; i < dataYears.length; i++) {
+            colorYears.push('#' + (Math.random() * 0xffffff << 0).toString(16));
+        }
+
+        var ctx = document.getElementById('myChart').getContext('2d');
+        var chart = new Chart(ctx, {
+            // The type of chart we want to create
+            type: 'bar',
+            data: {
+                labels: labelsYears,
+                datasets: [
+                    {
+                        backgroundColor: colorYears,
+                        data: dataYears
+                    }
+                ]
+            },
+            options: {
+                legend: { display: false },
+                annotation: {
+                    annotations: [
+                        {
+                            type: "line",
+                            mode: "vertical",
+                            scaleID: "x-axis-0",
+                            value: 1903,
+                            borderWidth: 4,
+                            borderDash: [2, 2],
+                            borderColor: "red",
+                            label: {
+                                backgroundColor: "red",
+                                content: "← Half of the collection →",
+                                enabled: true,
+                                position: "top"
+                            }
+                        }
+                    ]
+                }
+            }
+        });
+
     </script>
 
 </body>

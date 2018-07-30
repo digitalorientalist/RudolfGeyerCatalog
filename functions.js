@@ -62,11 +62,11 @@ function Reducing_Catalogue(catalog) {
 
 // 3. Returning simplification of transliteration signs, punctuation, double spaces, and capitals
 // Called by (f)Reducing_Catalogue and (f)Search_Catalog
-function Simplify_Term(inputWord) {  
+function Simplify_Term(inputWord) {
     if (!inputWord) {
         return '';
     }
-    inputLower = inputWord.toLowerCase();  
+    inputLower = inputWord.toLowerCase();
     var outputWord = '';
     // Loop through every letter of a word
     for (var i = 0; i < inputLower.length; i++) {
@@ -92,7 +92,7 @@ function Switch_Language(language) {
         nextLanIndex = lanIndex + 1;
     }
     nextLanguage = languages[nextLanIndex];
-    
+
     for (key in toBeTranslated) {
         // Filling different elements of webapp by their ID. Some need different ways of accessing their content.
         if (toBeTranslated[key].includes("Tip")) {
@@ -127,6 +127,7 @@ function Render_Table(data, heading, language, numberEntries) {
     for (i = 0; i < data.length; i++) {
         Render_Table_Entry(data, i, language);
     }
+
     htmlTableCat += '</tbody></table>';
 
     document.getElementById("catalogGeyer").innerHTML = htmlTableCat;
@@ -208,7 +209,7 @@ function Popup_More_Info(number, language) {
     if (searchData[number].hasOwnProperty('translator')) {
         htmlPopupInfo += translatorLan + Print_Names(searchData[number].translator) + "<br>";
     }
-    if (searchData[number].hasOwnProperty('author')== false && searchData[number].hasOwnProperty('editor')== false && searchData[number].hasOwnProperty('translator')== false) {
+    if (searchData[number].hasOwnProperty('author') == false && searchData[number].hasOwnProperty('editor') == false && searchData[number].hasOwnProperty('translator') == false) {
         htmlPopupInfo += noAuthorLan + "<br>";
     }
     if (searchData[number].hasOwnProperty('number-of-volumes')) {
@@ -289,15 +290,15 @@ function Search_Catalog(input) {
     }
 }
 document.getElementById("searchTip").addEventListener("keyup", function (event) {
-        event.preventDefault();
-        // 13 is 'Enter'-key
-        if (event.keyCode === 13 && document.getElementById("searchTip").value != "") {
-            Search_Catalog(document.getElementById("searchTip").value);
+    event.preventDefault();
+    // 13 is 'Enter'-key
+    if (event.keyCode === 13 && document.getElementById("searchTip").value != "") {
+        Search_Catalog(document.getElementById("searchTip").value);
         // If user deletes search term, render entire catalog again
-        } else if (document.getElementById("searchTip").value == "") {
-            Render_Table(catData, "againTitleCatalog", lanIndex);
-        }
-    });
+    } else if (document.getElementById("searchTip").value == "") {
+        Render_Table(catData, "againTitleCatalog", lanIndex);
+    }
+});
 document.getElementById("searchButton").onclick = function () {
     if (document.getElementById("searchTip").value != "") {
         Search_Catalog(document.getElementById("searchTip").value);
