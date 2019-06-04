@@ -1,4 +1,4 @@
-// Copyright L.W. Cornelis van Lit, "The Digital Orientalist". For details see https://github.com/digitalorientalist/RudolfGeyerCatalog
+// Copyright L.W. Cornelis van Lit, "The Digital Orientalist". For details see https://github.com/LWCvL/RudolfGeyerCatalog
 // (f) = function, (e) = event
 
 // 1. Initializing webapp
@@ -55,22 +55,30 @@ window.onload = function() {
   // Initial building of shadow catalog and interface
   Reducing_Catalogue(catData);
   Switch_Language("german");
-  // fancy mouse-over tool-tip only activitated when not on mobile
+  //   tippy("#flagTip", {
+  //     theme: "light"
+  //   });
+  //   fancy mouse-over tool-tip only activitated when not on mobile
   if (
     /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ==
     false
   ) {
-    tippy(".btn", {
+    tippy.setDefaults({
       animation: "perspective",
-      dynamicTitle: true
+      arrow: "true",
+      size: "large"
     });
-    tippy(".form-control", {
-      animation: "perspective",
-      dynamicTitle: true
+    tippy("#flagTip", {
+      content: Object.values(texts.flagTip)[nextLanIndex]
     });
-    tippy(".flags", {
-      animation: "perspective",
-      dynamicTitle: true
+    tippy("#digitalOrientalistTip", {
+      content: Object.values(texts.digitalOrientalistTip)[lanIndex]
+    });
+    tippy("#stiftFlorianTip", {
+      content: Object.values(texts.stiftFlorianTip)[lanIndex]
+    });
+    tippy("#searchTip", {
+      content: Object.values(texts.searchTip)[lanIndex]
     });
   }
 };
