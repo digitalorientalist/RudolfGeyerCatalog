@@ -55,32 +55,6 @@ window.onload = function() {
   // Initial building of shadow catalog and interface
   Reducing_Catalogue(catData);
   Switch_Language("german");
-  //   tippy("#flagTip", {
-  //     theme: "light"
-  //   });
-  //   fancy mouse-over tool-tip only activitated when not on mobile
-  if (
-    /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ==
-    false
-  ) {
-    tippy.setDefaults({
-      animation: "perspective",
-      arrow: "true",
-      size: "large"
-    });
-    tippy("#flagTip", {
-      content: Object.values(texts.flagTip)[nextLanIndex]
-    });
-    tippy("#digitalOrientalistTip", {
-      content: Object.values(texts.digitalOrientalistTip)[lanIndex]
-    });
-    tippy("#stiftFlorianTip", {
-      content: Object.values(texts.stiftFlorianTip)[lanIndex]
-    });
-    tippy("#searchTip", {
-      content: Object.values(texts.searchTip)[lanIndex]
-    });
-  }
 };
 
 // 2. Creating a shadow-catalog with simplified entries to easier match a search term in the search function
@@ -170,6 +144,39 @@ function Switch_Language(language) {
     Search_Catalog(document.getElementById("searchTip").value);
   } else {
     Render_Table(catData, "beginTitleCatalog", lanIndex);
+  }
+
+  // Fancy mouse-over tool-tip only activitated when not on mobile. We simply delete previous instances and create new ones
+  [...document.querySelectorAll("*")].forEach(node => {
+    if (node._tippy) {
+      node._tippy.destroy();
+    }
+  });
+  if (
+    /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ==
+    false
+  ) {
+    tippy.setDefaults({
+      animation: "perspective",
+      arrow: "true",
+      size: "large"
+    });
+    tippy("#flagTip", {
+      content: Object.values(texts.flagTip)[nextLanIndex]
+    });
+    document.getElementById("flagTip").removeAttribute("title");
+    tippy("#digitalOrientalistTip", {
+      content: Object.values(texts.digitalOrientalistTip)[lanIndex]
+    });
+    document.getElementById("digitalOrientalistTip").removeAttribute("title");
+    tippy("#stiftFlorianTip", {
+      content: Object.values(texts.stiftFlorianTip)[lanIndex]
+    });
+    document.getElementById("stiftFlorianTip").removeAttribute("title");
+    tippy("#searchTip", {
+      content: Object.values(texts.searchTip)[lanIndex]
+    });
+    document.getElementById("searchTip").removeAttribute("title");    
   }
 }
 document.getElementById("flagTip").onclick = function() {
