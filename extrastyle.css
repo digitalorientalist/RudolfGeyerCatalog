@@ -2,6 +2,19 @@
   padding: 0;
 }
 
+.left {
+  text-align: left;
+}
+
+.middle {
+  text-align: center;
+  color: white;
+}
+
+.right {
+  text-align: right;
+}
+
 .geyerImage {
   background: url("GeyerExLibris1.jpg") no-repeat;
   background-size: contain;
@@ -41,8 +54,17 @@
   border-radius: 10px;
 }
 
+#titleCat {
+  text-align: left;
+}
+
+#buttonsCat {
+  text-align: right;
+}
+
 .headerdiv {
   background-color: rgba(68, 81, 90, 0.3);
+  padding: 0;
   /* background: linear-gradient(to bottom, rgb(68,81,90), rgba(68,81,90, 0)); */
 }
 
@@ -119,6 +141,9 @@ h2 {
 
 .footer {
   background: linear-gradient(to top, rgb(68, 81, 90), rgba(68, 81, 90, 0));
+  padding: 0;
+  text-align: center;
+  color: white;
 }
 
 /******************/
@@ -143,7 +168,7 @@ h2 {
 .modal__container {
   background-color: rgb(240, 240, 240);
   padding: 30px;
-  width: 500px;
+  max-width: 500px;
   border-radius: 10px;
   overflow-y: auto;
   box-sizing: border-box;

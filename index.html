@@ -1,4 +1,4 @@
-<!-- Copyright L.W. Cornelis van Lit, "The Digital Orientalist" Please see https://github.com/digitalorientalist/RudolfGeyerCatalog for details. -->
+<!-- Copyright L.W. Cornelis van Lit, "The Digital Orientalist" Please see https://github.com/LWCvL/RudolfGeyerCatalog for details. -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,9 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-
-
-    <!-- Dependent on MicroModal, Popper, Bootstrap, and TippyTip -->
+    <!-- Dependent on MicroModal, Bootstrap, Popper and TippyTip -->
     <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
@@ -31,15 +29,15 @@
     <header>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-2 headerdiv" style="padding: 0">
+                <div class="col-2 headerdiv left">
                     <a href="http://www.stift-st-florian.at/en/home.html" class="btn" id="stiftFlorianTip" title="">
                         <img src="iconStFlorian.svg" height="30" alt="Stift Florian">
                     </a>
                 </div>
-                <div class="col headerdiv" style="padding: 0; text-align: center; color: white">
+                <div class="col headerdiv middle">
                     <h1 class="header" id="headline"></h1>
                 </div>
-                <div class="col-2 headerdiv" style="text-align: right">
+                <div class="col-2 headerdiv right">
                     <div class="flags btn" id="flagTip">
                         <img src="iconflaggerman.svg" class="flags" height="16" width="32">
                     </div>
@@ -83,11 +81,11 @@
     <!-- Title and buttons for ordering catalog -->
     <div class="container">
         <div class="row">
-            <div class="col-9" style="text-align: left" style="margin-left: 60px">
+            <div class="col-9" id="titleCat">
                 <h2 class="headline" id="titleSearch">
                 </h2>
             </div>
-            <div class="col-3" style="text-align: right">
+            <div class="col-3" id="buttonsCat">
                 <span id="sortBy"></span>
                 <div class="btn-group btn-group-toggle" id="ordering" data-toggle="buttons">
                     <label class="btn btn-outline-secondary">
@@ -120,14 +118,14 @@
                 <p></p>
             </div>
             <div class="row">
-                <div class="col-2 footer" style="padding: 0">
+                <div class="col-2 footer left">
                     <a href="http://www.stift-st-florian.at/en/home.html" class="btn" title="">
                         <img src="iconStFlorian.svg" height="30" alt="Stift Florian" srcset="">
                     </a>
                 </div>
-                <div class="col footer" style="padding: 0; text-align: center; color: white">
+                <div class="col footer middle">
                 </div>
-                <div class="col-2 footer" style="text-align: right">
+                <div class="col-2 footer right">
                     <a href="http://www.digitalorientalist.com/" class="btn" title="">
                         <img src="iconDigOr.svg" height="20" alt="The Digital Orientalist" srcset="" onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'">
                     </a>
