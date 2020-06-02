@@ -3,25 +3,25 @@ var texts =
         "headline":
             {
                 "english": "Catalogue of the Rudolf Geyer Collection",
-                "german": "Katalog von dem Nachlass Rudolf Geyer"
+                "german": "Katalog des Nachlasses Rudolf Geyer"
             }
         ,
         "stiftFlorianTip":
             {
                 "english": "Go to Stift Florian's Website",
-                "german": "Gehe zur Website von Stift Florian"
+                "german": "Zur Website des Stifts Florian"
             }
         ,
         "digitalOrientalistTip":
             {
                 "english": "Made by L.W.C. van Lit",
-                "german": "hergestellt von Dr. L.W.C. van Lit"
+                "german": "Von Dr. L.W.C. van Lit"
             }
         ,
         "flagTip":
             {
                 "english": "Switch to English",
-                "german": "Auf deutsch umstellen"
+                "german": "Zu deutsch wechseln"
             }
         ,
         "welcomeHeader":
@@ -33,7 +33,7 @@ var texts =
         "welcomeBody":
             {
                 "english": "Welcome to the catalogue of the Rudolf Geyer Collection at Stift Florian. This collection spans more than 1.500 titles, collected by Rudolf Geyer († 1929), professor at Vienna University and scholar of Arabic literature. The collection consists mostly of printed books, from both Europe and the Middle East, all of them from the 19th century or early 20th century. A handful of manuscripts are also preserved. Use the search box below to narrow your focus, and click on the circle with an i next to the title for more information. The sort functions are fairly limited, only sorting alphabetical or numerical low to high. If no value is given, it is sorted to the top. For Author sorting, preference is given to first author, then editor, then translator.",
-                "german": "Willkommen beim Katalog dem Nachlass Rudolf Geyer im Stift Florian. Diese Kollektion umfasst mehr als 1.500 Titel, gesammelt von Rudolf Geyer († 1929), Professor an der Universität Wien und Gelehrter für arabische Literatur. Die Sammlung besteht hauptsächlich aus gedruckten Büchern aus Europa und dem Nahen Osten, alle aus dem 19. oder frühen 20. Jahrhundert. Eine Handvoll Manuskripte sind ebenfalls erhalten. Verwenden Sie das Suchfeld, um den Fokus einzugrenzen, und klicken Sie auf den Kreis mit einem i neben dem Titel, um weitere Informationen zu erhalten. Die Sortierfunktionen sortieren nur alphabetisch oder numerisch von niedrich nach hoch. Wenn kein Wert angegeben ist, wird dieser nach oben sortiert. Bei der Autorensortierung wird der Verfasser, dann der Herausgeber und dann der Übersetzer bevorzugt."
+                "german": "Willkommen beim Katalog zum Nachlass Rudolf Geyer im Stift St. Florian. Die Sammlung umfasst mehr als 1.500 Titel, gesammelt von Rudolf Geyer († 1929), Professor an der Universität Wien und Forscher für arabische Literatur. Die Sammlung besteht hauptsächlich aus gedruckten Büchern aus Europa und dem Nahen Osten, alle aus dem 19. oder frühen 20. Jahrhundert. Eine Handvoll Manuskripte sind ebenfalls erhalten. Verwenden Sie das Suchfeld, um den Fokus einzugrenzen, und klicken Sie auf den Kreis mit einem (i) neben dem Titel, um weitere Informationen zu erhalten. Die Sortierfunktionen sortieren nur alphabetisch oder numerisch von niedrich nach hoch. Wenn kein Wert angegeben ist, wird dieser nach oben sortiert. Bei der Autorensortierung wird zuerst der Verfasser, dann der Herausgeber und dann der Übersetzer berücksichtigt."
             }
         ,
         "searchButton":
@@ -51,7 +51,7 @@ var texts =
         "searchTip":
             {
                 "english": "Type a term and press Enter or click Search",
-                "german": "Geb einen Begriff ein und drück auf die Eingabetaste oder klick auf Suchen"
+                "german": "Einen Begriff eingeben und auf die Eingabetaste drücken - oder auf Suchen klicken"
             }
         ,
         "sortBy":
@@ -99,7 +99,7 @@ var texts =
         "foundItemsCatalog":
             {
                 "english": "Number of results:",
-                "german": " Anzahl der Ergebnisse:"
+                "german": " Anzahl der Treffer:"
             },
         "authorCatalog":
             {
@@ -125,7 +125,7 @@ var texts =
         "numberVolumesCatalog":
             {
                 "english": "Number of volumes: ",
-                "german": "Anzahl Banden: "
+                "german": "Anzahl Bände: "
             },
         "publisherCatalog":
             {
@@ -135,7 +135,7 @@ var texts =
         "placeCatalog":
             {
                 "english": "Place: ",
-                "german": "Stelle: "
+                "german": "Ort: "
             },
         "yearCatalog":
             {
@@ -150,12 +150,12 @@ var texts =
         "callNumberCatalog":
             {
                 "english": "Call Number: ",
-                "german": "Rufnummer: "
+                "german": "Signatur: "
             },
         "urlCatalog":
             {
                 "english": "Click here for a digitized copy",
-                "german": "Klicken Sie hier für eine digitalisierte Kopie"
+                "german": "Klicken Sie hier für eine digitale Kopie"
             },
         "closeCatalog":
             {
